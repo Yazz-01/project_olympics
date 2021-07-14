@@ -7,12 +7,12 @@ After a long time under lockdown, we have decided to “get out” of the pertai
 * [Country JS](https://country.js.org/)
 
 ### Inspiration Visualizations
-![Olympics Dashboard](Initial Images/Inspo 2.png)
-![Climate Change Dashboard](Initial Images/Inspo 3.png)
+![Inspo 2](Initial Images/Inspo 2.png)
+![Inspo 3](Initial Images/Inspo 3.png)
 
 ### Final Design 
 [Sketch](https://github.com/Yazz-01/project_olympics/blob/main/sketch.png)
-![Sketch](Initial Images/Inspo 1.png)
+![Inspo 1](Initial Images/Inspo 1.png)
 
 
 
