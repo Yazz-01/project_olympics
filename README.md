@@ -14,7 +14,11 @@ After a long time under lockdown, we have decided to “get out” of the pertai
 * [Country JS](https://country.js.org/)
 
 ### Inspiration Visualizations
+| Olympics Dashboard |
+| --- |
 ![Inspo 2](Initial%20Images/Inspo%202.png)
+| Climate Dashboard |
+| --- |
 ![Inspo 3](Initial%20Images/Inspo%203.png)
 
 ### Final Design 
