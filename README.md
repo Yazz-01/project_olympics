@@ -8,7 +8,7 @@ After a long time under lockdown, we have decided to “get out” of the pertai
 
 ### Inspiration Visualizations
 ![Inspo 2](Initial Images/Inspo 2.png)
-![Inspo 3](Initial Images/Inspo 3.png)
+![Inspo 3](Initial%20Images/Inspo%201.png)
 
 ### Final Design 
 [Sketch](https://github.com/Yazz-01/project_olympics/blob/main/sketch.png)
