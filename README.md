@@ -6,14 +6,13 @@ After a long time under lockdown, we have decided to “get out” of the pertai
 * [Olympics API](https://olympicsapi.docs.apiary.io/)
 * [Country JS](https://country.js.org/)
 
-#### Sketch 
-
-
 ### Inspiration Visualizations
-https://public.tableau.com/app/profile/avantika.khanna/viz/OlympicsDashboard_15891439470600/Olympics
-https://public.tableau.com/es-es/gallery/towards-better-climate?tab=viz-of-the-day&type=viz-of-the-day 
+![Olympics Dashboard](Initial Images/Inspo 2.png)
+![Climate Change Dashboard](Initial Images/Inspo 3.png)
 
-#### [Final Design](https://github.com/Yazz-01/project_olympics/blob/main/sketch.png)
+### Final Design 
+[Sketch](https://github.com/Yazz-01/project_olympics/blob/main/sketch.png)
+![Sketch](Initial Images/Inspo 1.png)
 
 
 
