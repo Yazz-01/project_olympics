@@ -15,7 +15,7 @@ https://country.js.org/
 https://public.tableau.com/app/profile/avantika.khanna/viz/OlympicsDashboard_15891439470600/Olympics
 https://public.tableau.com/es-es/gallery/towards-better-climate?tab=viz-of-the-day&type=viz-of-the-day 
 
-**Final Desig**
+**Final Design**
 (https://github.com/Yazz-01/project_olympics/blob/main/sketch.png)
 
 
