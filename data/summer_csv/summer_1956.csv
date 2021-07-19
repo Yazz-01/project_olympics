@@ -1,0 +1,886 @@
+year,sport,discipline,athlete,country_code,gender,event,medal,medal_value
+1956,Gymnastics,Artistic G.,"GULYAS-KÃTELES, Erzsebet",HUN,Women,team competition,Silver,0
+1956,Gymnastics,Artistic G.,"BODO-MOLNAR, Andrea",HUN,Women,team competition,Silver,0
+1956,Gymnastics,Artistic G.,"MURATOVA, Sofiya",URS,Women,team competition,Gold,0
+1956,Gymnastics,Artistic G.,"EGOROVA, Lyudmila",URS,Women,team competition,Gold,0
+1956,Gymnastics,Artistic G.,"LATYNINA, Larisa",URS,Women,team competition,Gold,0
+1956,Gymnastics,Artistic G.,"KALININA-IVANOVA, Lidiya",URS,Women,team competition,Gold,0
+1956,Gymnastics,Artistic G.,"KELETI, Agnes",HUN,Women,team competition,Silver,0
+1956,Gymnastics,Artistic G.,"ASTAKHOVA, Polina",URS,Women,team competition,Gold,0
+1956,Gymnastics,Artistic G.,"MANINA, Tamara",URS,Women,team competition,Gold,0
+1956,Gymnastics,Artistic G.,"KERTESZ, Aliz",HUN,Women,team competition,Silver,0
+1956,Gymnastics,Artistic G.,"HORZONEK-JOKIEL, Dorota",POL,Women,"team, portable apparatus",Bronze,0
+1956,Gymnastics,Artistic G.,"TASS LEMHENYI, Olga",HUN,Women,team competition,Silver,0
+1956,Gymnastics,Artistic G.,"ASTAKHOVA, Polina",URS,Women,"team, portable apparatus",Bronze,0
+1956,Gymnastics,Artistic G.,"EGOROVA, Lyudmila",URS,Women,"team, portable apparatus",Bronze,0
+1956,Gymnastics,Artistic G.,"KALININA-IVANOVA, Lidiya",URS,Women,"team, portable apparatus",Bronze,0
+1956,Gymnastics,Artistic G.,"KOT, Natalia",POL,Women,"team, portable apparatus",Bronze,0
+1956,Gymnastics,Artistic G.,"LATYNINA, Larisa",URS,Women,"team, portable apparatus",Bronze,0
+1956,Gymnastics,Artistic G.,"MANINA, Tamara",URS,Women,"team, portable apparatus",Bronze,0
+1956,Gymnastics,Artistic G.,"MURATOVA, Sofiya",URS,Women,"team, portable apparatus",Bronze,0
+1956,Gymnastics,Artistic G.,"NOWAK-STACHOW, Danuta",POL,Women,"team, portable apparatus",Bronze,0
+1956,Gymnastics,Artistic G.,"VATASOIU-LITA, Emilia",ROU,Women,team competition,Bronze,0
+1956,Gymnastics,Artistic G.,"RAKOCZY, Helena",POL,Women,"team, portable apparatus",Bronze,0
+1956,Gymnastics,Artistic G.,"KORONDI, Margit",HUN,Women,team competition,Silver,0
+1956,Gymnastics,Artistic G.,"SACALICI-PETROSANU, Elena",ROU,Women,team competition,Bronze,0
+1956,Gymnastics,Artistic G.,"STOLBOV, Pavel",URS,Men,team competition,Gold,0
+1956,Gymnastics,Artistic G.,"LEUSTEANU-POPESCU-TEODORESCU, Elena",ROU,Women,team competition,Bronze,0
+1956,Gymnastics,Artistic G.,"SZCZERBINSKA, Lidia",POL,Women,"team, portable apparatus",Bronze,0
+1956,Gymnastics,Artistic G.,"KUBOTA, Masami",JPN,Men,rings,Bronze,0
+1956,Gymnastics,Artistic G.,"TAKEMOTO, Masao",JPN,Men,rings,Bronze,0
+1956,Gymnastics,Artistic G.,"AZARYAN, Albert",URS,Men,rings,Gold,0
+1956,Gymnastics,Artistic G.,"MURATOV, Valentin",URS,Men,rings,Silver,0
+1956,Gymnastics,Artistic G.,"HEINONEN, Raimo YrjÃ¶",FIN,Men,team competition,Bronze,0
+1956,Gymnastics,Artistic G.,"LAPPALAINEN, Onni Armas",FIN,Men,team competition,Bronze,0
+1956,Gymnastics,Artistic G.,"LEIMUVIRTA, Olavi Erkki",FIN,Men,team competition,Bronze,0
+1956,Gymnastics,Artistic G.,"LINDFORS, Berndt TorbjÃ¶rn",FIN,Men,team competition,Bronze,0
+1956,Gymnastics,Artistic G.,"MANSIKKA, Martti",FIN,Men,team competition,Bronze,0
+1956,Gymnastics,Artistic G.,"SUONIEMI, Kalevi Ensio",FIN,Men,team competition,Bronze,0
+1956,Gymnastics,Artistic G.,"MARGARIT-NICULESCU, Elena",ROU,Women,team competition,Bronze,0
+1956,Gymnastics,Artistic G.,"AZARYAN, Albert",URS,Men,team competition,Gold,0
+1956,Gymnastics,Artistic G.,"MURATOV, Valentin",URS,Men,team competition,Gold,0
+1956,Gymnastics,Artistic G.,"SHAKHLIN, Boris",URS,Men,team competition,Gold,0
+1956,Gymnastics,Artistic G.,"TITOV, Yuri",URS,Men,team competition,Gold,0
+1956,Gymnastics,Artistic G.,"AIHARA, Nobuyuki",JPN,Men,team competition,Silver,0
+1956,Gymnastics,Artistic G.,"KONO, Akira",JPN,Men,team competition,Silver,0
+1956,Gymnastics,Artistic G.,"KUBOTA, Masami",JPN,Men,team competition,Silver,0
+1956,Gymnastics,Artistic G.,"ONO, Takashi",JPN,Men,team competition,Silver,0
+1956,Gymnastics,Artistic G.,"TAKEMOTO, Masao",JPN,Men,team competition,Silver,0
+1956,Gymnastics,Artistic G.,"TSUKAWAKI, Shinsaku",JPN,Men,team competition,Silver,0
+1956,Gymnastics,Artistic G.,"HURMUZACHI-DUMITRESCU, Georgeta",ROU,Women,team competition,Bronze,0
+1956,Gymnastics,Artistic G.,"IOVAN-INOVAN, Sonia",ROU,Women,team competition,Bronze,0
+1956,Gymnastics,Artistic G.,"CHUKARIN, Viktor Ivanovich",URS,Men,team competition,Gold,0
+1956,Gymnastics,Artistic G.,"WILKOWNA-SLIZOWSKA, Barbara",POL,Women,"team, portable apparatus",Bronze,0
+1956,Hockey,Hockey,"GHULAM, Rasul",PAK,Men,hockey,Silver,0
+1956,Gymnastics,Artistic G.,"GULYAS-KÃTELES, Erzsebet",HUN,Women,"team, portable apparatus",Gold,0
+1956,Hockey,Hockey,"RADZIKOWSKI, Heinz",EUA,Men,hockey,Bronze,0
+1956,Hockey,Hockey,"ROSENBAUM, Werner",EUA,Men,hockey,Bronze,0
+1956,Hockey,Hockey,"ULLERICH, Gunther",EUA,Men,hockey,Bronze,0
+1956,Hockey,Hockey,"CLAUDIUS, Leslie Walter",IND,Men,hockey,Gold,0
+1956,Hockey,Hockey,"FRANCIS, Ranganandhan",IND,Men,hockey,Gold,0
+1956,Hockey,Hockey,"KAUSHIK, Hari Pal",IND,Men,hockey,Gold,0
+1956,Hockey,Hockey,"KUMAR, Amir Chand",IND,Men,hockey,Gold,0
+1956,Hockey,Hockey,"LAL SHARMA, Raghbir",IND,Men,hockey,Gold,0
+1956,Hockey,Hockey,"LAXMAN, Shankar",IND,Men,hockey,Gold,0
+1956,Hockey,Hockey,"PERUMAL, Govind",IND,Men,hockey,Gold,0
+1956,Hockey,Hockey,"SINGH BAKSHI, Amit",IND,Men,hockey,Gold,0
+1956,Hockey,Hockey,"NONN, Wolfgang",EUA,Men,hockey,Bronze,0
+1956,Hockey,Hockey,"SINGH BHOLA, Raghbir",IND,Men,hockey,Gold,0
+1956,Hockey,Hockey,"SINGH GARCHEY, Hardyal",IND,Men,hockey,Gold,0
+1956,Hockey,Hockey,"SINGH GENTLE, Randhir",IND,Men,hockey,Gold,0
+1956,Hockey,Hockey,"SINGH GREWAL, Balkishan",IND,Men,hockey,Gold,0
+1956,Hockey,Hockey,"SINGH KULLAR, Gurdev",IND,Men,hockey,Gold,0
+1956,Hockey,Hockey,"SINGH KULLAR, Udham",IND,Men,hockey,Gold,0
+1956,Hockey,Hockey,"SINGH, Bakshish",IND,Men,hockey,Gold,0
+1956,Hockey,Hockey,"STEPHEN, Charles",IND,Men,hockey,Gold,0
+1956,Hockey,Hockey,"ABDUL, Hamid",PAK,Men,hockey,Silver,0
+1956,Hockey,Hockey,"AHKTAR, Hussain",PAK,Men,hockey,Silver,0
+1956,Hockey,Hockey,"DAR, Munir Ahmad",PAK,Men,hockey,Silver,0
+1956,Hockey,Hockey,"HABIB, Ur Rehman",PAK,Men,hockey,Silver,0
+1956,Hockey,Hockey,"SINGH DOSANJH, Balbir",IND,Men,hockey,Gold,0
+1956,Gymnastics,Artistic G.,"BODO-MOLNAR, Andrea",HUN,Women,"team, portable apparatus",Gold,0
+1956,Hockey,Hockey,"NONN, Helmut",EUA,Men,hockey,Bronze,0
+1956,Hockey,Hockey,"FERSTL, Eberhard",EUA,Men,hockey,Bronze,0
+1956,Gymnastics,Artistic G.,"KELETI, Agnes",HUN,Women,"team, portable apparatus",Gold,0
+1956,Gymnastics,Artistic G.,"KERTESZ, Aliz",HUN,Women,"team, portable apparatus",Gold,0
+1956,Gymnastics,Artistic G.,"KORONDI, Margit",HUN,Women,"team, portable apparatus",Gold,0
+1956,Gymnastics,Artistic G.,"TASS LEMHENYI, Olga",HUN,Women,"team, portable apparatus",Gold,0
+1956,Gymnastics,Artistic G.,"BERGGREN, Evy",SWE,Women,"team, portable apparatus",Silver,0
+1956,Gymnastics,Artistic G.,"COLLING-PETTERSSON, Ann-Sofi",SWE,Women,"team, portable apparatus",Silver,0
+1956,Gymnastics,Artistic G.,"HEDBERG, Doris",SWE,Women,"team, portable apparatus",Silver,0
+1956,Gymnastics,Artistic G.,"KARLEN, Maude",SWE,Women,"team, portable apparatus",Silver,0
+1956,Gymnastics,Artistic G.,"LINDBERG, Karin",SWE,Women,"team, portable apparatus",Silver,0
+1956,Gymnastics,Artistic G.,"RÃNSTRÃM, Eva",SWE,Women,"team, portable apparatus",Silver,0
+1956,Gymnastics,Artistic G.,"MURATOVA, Sofiya",URS,Women,uneven bars,Bronze,0
+1956,Hockey,Hockey,"LÃCKER, Alfred",EUA,Men,hockey,Bronze,0
+1956,Gymnastics,Artistic G.,"KELETI, Agnes",HUN,Women,uneven bars,Gold,0
+1956,Gymnastics,Artistic G.,"TITOV, Yuri",URS,Men,vault,Bronze,0
+1956,Gymnastics,Artistic G.,"BANTZ, Helmut",EUA,Men,vault,Gold,0
+1956,Gymnastics,Artistic G.,"MURATOV, Valentin",URS,Men,vault,Gold,0
+1956,Gymnastics,Artistic G.,"COLLING-PETTERSSON, Ann-Sofi",SWE,Women,vault,Bronze,0
+1956,Gymnastics,Artistic G.,"TASS LEMHENYI, Olga",HUN,Women,vault,Bronze,0
+1956,Gymnastics,Artistic G.,"LATYNINA, Larisa",URS,Women,vault,Gold,0
+1956,Gymnastics,Artistic G.,"MANINA, Tamara",URS,Women,vault,Silver,0
+1956,Hockey,Hockey,"BRENNECKE, Gunter",EUA,Men,hockey,Bronze,0
+1956,Hockey,Hockey,"BUDINGER, Hugo",EUA,Men,hockey,Bronze,0
+1956,Hockey,Hockey,"DELMES, Werner",EUA,Men,hockey,Bronze,0
+1956,Hockey,Hockey,"DOLLHEISER, Hugo",EUA,Men,hockey,Bronze,0
+1956,Gymnastics,Artistic G.,"LATYNINA, Larisa",URS,Women,uneven bars,Silver,0
+1956,Gymnastics,Artistic G.,"ONO, Takashi",JPN,Men,pommel horse,Silver,0
+1956,Football,Football,"ISAEV, Anatoli",URS,Men,football,Gold,0
+1956,Gymnastics,Artistic G.,"CHUKARIN, Viktor Ivanovich",URS,Men,pommel horse,Bronze,0
+1956,Fencing,Fencing,"GEREVICH, Aladar",HUN,Men,sabre team,Gold,0
+1956,Fencing,Fencing,"HAMORI, JenÃ¶",HUN,Men,sabre team,Gold,0
+1956,Fencing,Fencing,"KARPATI, Rudolf",HUN,Men,sabre team,Gold,0
+1956,Fencing,Fencing,"KERESZTES, Attila",HUN,Men,sabre team,Gold,0
+1956,Fencing,Fencing,"KOVACS, Pal Adam",HUN,Men,sabre team,Gold,0
+1956,Fencing,Fencing,"MAGAI, Daniel",HUN,Men,sabre team,Gold,0
+1956,Fencing,Fencing,"KUSZEWSKI, Marian Zygmunt",POL,Men,sabre team,Silver,0
+1956,Fencing,Fencing,"PAWLAS, Zygmunt",POL,Men,sabre team,Silver,0
+1956,Fencing,Fencing,"PAWLOWSKI, Jerzy",POL,Men,sabre team,Silver,0
+1956,Fencing,Fencing,"PIATKOWSKI, Andrzej Ryszard",POL,Men,sabre team,Silver,0
+1956,Fencing,Fencing,"ZABLOCKI, Wojciech",POL,Men,sabre team,Silver,0
+1956,Fencing,Fencing,"TYSHLER, David",URS,Men,sabre team,Bronze,0
+1956,Fencing,Fencing,"ZUB, Ryszard",POL,Men,sabre team,Silver,0
+1956,Football,Football,"KOLEV, Ivan Petkov",BUL,Men,football,Bronze,0
+1956,Football,Football,"KOVATCHEV, Nikolai Dimitrov",BUL,Men,football,Bronze,0
+1956,Football,Football,"MANOLOV, Manol Tomov",BUL,Men,football,Bronze,0
+1956,Football,Football,"NAYDENOV, Georghi Spirov",BUL,Men,football,Bronze,0
+1956,Football,Football,"NIKOLOV, Guergui Dimitrov",BUL,Men,football,Bronze,0
+1956,Football,Football,"NIKOLOV, Miltcho Goranov",BUL,Men,football,Bronze,0
+1956,Football,Football,"PANAYOTOV, Panayot Mitov",BUL,Men,football,Bronze,0
+1956,Football,Football,"RAKAROV, Kirill Manolov",BUL,Men,football,Bronze,0
+1956,Football,Football,"STEFANOV, Stefan Bojilov",BUL,Men,football,Bronze,0
+1956,Football,Football,"STOYANOV, Dimitre Milanov",BUL,Men,football,Bronze,0
+1956,Football,Football,"STOYANOV, Gavril Todorov",BUL,Men,football,Bronze,0
+1956,Football,Football,"DIEV, Todor Nedyalkov",BUL,Men,football,Bronze,0
+1956,Football,Football,"YANEV, Kroum Ivanov",BUL,Men,football,Bronze,0
+1956,Fencing,Fencing,"RYLSKY, Yakov",URS,Men,sabre team,Bronze,0
+1956,Fencing,Fencing,"CHEREPOVSKY, Yevgeni",URS,Men,sabre team,Bronze,0
+1956,Fencing,Fencing,"ORBAN-SZABO, Olga",ROU,Women,foil individual,Silver,0
+1956,Hockey,Hockey,"KHAN, Anwar Ahmad",PAK,Men,hockey,Silver,0
+1956,Fencing,Fencing,"FÃLÃP, Mihaly",HUN,Men,foil team,Bronze,0
+1956,Fencing,Fencing,"GYURICZA, Jozsef",HUN,Men,foil team,Bronze,0
+1956,Fencing,Fencing,"MAROSI, Jozsef",HUN,Men,foil team,Bronze,0
+1956,Fencing,Fencing,"SAKOVICS, Jozsef",HUN,Men,foil team,Bronze,0
+1956,Fencing,Fencing,"SOMODI, Lajos",HUN,Men,foil team,Bronze,0
+1956,Fencing,Fencing,"TILLI, Endre",HUN,Men,foil team,Bronze,0
+1956,Fencing,Fencing,"BERGAMINI, Giancarlo",ITA,Men,foil team,Gold,0
+1956,Fencing,Fencing,"CARPANEDA, Luigi Arturo",ITA,Men,foil team,Gold,0
+1956,Fencing,Fencing,"DI ROSA, Manlio",ITA,Men,foil team,Gold,0
+1956,Fencing,Fencing,"KUZNETSOV, Lev",URS,Men,sabre team,Bronze,0
+1956,Fencing,Fencing,"LUCARELLI, Vittorio",ITA,Men,foil team,Gold,0
+1956,Fencing,Fencing,"SPALLINO, Antonio",ITA,Men,foil team,Gold,0
+1956,Fencing,Fencing,"BAUDOUX, Bernard",FRA,Men,foil team,Silver,0
+1956,Fencing,Fencing,"CLOSSET, Roger",FRA,Men,foil team,Silver,0
+1956,Fencing,Fencing,"COICAUD, Rene",FRA,Men,foil team,Silver,0
+1956,Fencing,Fencing,"D'ORIOLA, Christian",FRA,Men,foil team,Silver,0
+1956,Fencing,Fencing,"LATASTE, Jacques",FRA,Men,foil team,Silver,0
+1956,Fencing,Fencing,"NETTER, Claude",FRA,Men,foil team,Silver,0
+1956,Fencing,Fencing,"KUZNETSOV, Lev",URS,Men,sabre individual,Bronze,0
+1956,Fencing,Fencing,"KARPATI, Rudolf",HUN,Men,sabre individual,Gold,0
+1956,Fencing,Fencing,"PAWLOWSKI, Jerzy",POL,Men,sabre individual,Silver,0
+1956,Fencing,Fencing,"BOGDANOV, Leonid",URS,Men,sabre team,Bronze,0
+1956,Fencing,Fencing,"MANGIAROTTI, Edoardo",ITA,Men,foil team,Gold,0
+1956,Gymnastics,Artistic G.,"SHAKHLIN, Boris",URS,Men,pommel horse,Gold,0
+1956,Football,Football,"YORDANOV, Yordan Yossifov",BUL,Men,football,Bronze,0
+1956,Football,Football,"BETSA, Iosif",URS,Men,football,Gold,0
+1956,Football,Football,"VIDINIC, Blagoje",YUG,Men,football,Silver,0
+1956,Gymnastics,Artistic G.,"KELETI, Agnes",HUN,Women,balance beam,Gold,0
+1956,Gymnastics,Artistic G.,"MANINA, Tamara",URS,Women,balance beam,Silver,0
+1956,Gymnastics,Artistic G.,"VECHTOVA-BOSAKOVA, Eva",TCH,Women,balance beam,Silver,0
+1956,Gymnastics,Artistic G.,"MURATOV, Valentin",URS,Men,floor exercises,Gold,0
+1956,Gymnastics,Artistic G.,"AIHARA, Nobuyuki",JPN,Men,floor exercises,Silver,0
+1956,Gymnastics,Artistic G.,"CHUKARIN, Viktor Ivanovich",URS,Men,floor exercises,Silver,0
+1956,Gymnastics,Artistic G.,"THORESSON, William",SWE,Men,floor exercises,Silver,0
+1956,Gymnastics,Artistic G.,"LEUSTEANU-POPESCU-TEODORESCU, Elena",ROU,Women,floor exercises,Bronze,0
+1956,Gymnastics,Artistic G.,"KELETI, Agnes",HUN,Women,floor exercises,Gold,0
+1956,Gymnastics,Artistic G.,"LATYNINA, Larisa",URS,Women,floor exercises,Gold,0
+1956,Football,Football,"VESELINOVIC, Todor",YUG,Men,football,Silver,0
+1956,Gymnastics,Artistic G.,"TAKEMOTO, Masao",JPN,Men,horizontal bar,Bronze,0
+1956,Gymnastics,Artistic G.,"TITOV, Yuri",URS,Men,horizontal bar,Silver,0
+1956,Gymnastics,Artistic G.,"TITOV, Yuri",URS,Men,individual all-round,Bronze,0
+1956,Gymnastics,Artistic G.,"CHUKARIN, Viktor Ivanovich",URS,Men,individual all-round,Gold,0
+1956,Gymnastics,Artistic G.,"ONO, Takashi",JPN,Men,individual all-round,Silver,0
+1956,Gymnastics,Artistic G.,"MURATOVA, Sofiya",URS,Women,individual all-round,Bronze,0
+1956,Gymnastics,Artistic G.,"LATYNINA, Larisa",URS,Women,individual all-round,Gold,0
+1956,Gymnastics,Artistic G.,"KELETI, Agnes",HUN,Women,individual all-round,Silver,0
+1956,Gymnastics,Artistic G.,"ONO, Takashi",JPN,Men,parallel bars,Bronze,0
+1956,Gymnastics,Artistic G.,"TAKEMOTO, Masao",JPN,Men,parallel bars,Bronze,0
+1956,Gymnastics,Artistic G.,"CHUKARIN, Viktor Ivanovich",URS,Men,parallel bars,Gold,0
+1956,Gymnastics,Artistic G.,"KUBOTA, Masami",JPN,Men,parallel bars,Silver,0
+1956,Gymnastics,Artistic G.,"ONO, Takashi",JPN,Men,horizontal bar,Gold,0
+1956,Football,Football,"BASHASHKIN, Anatoli",URS,Men,football,Gold,0
+1956,Football,Football,"SPAJIC, Ljubisa",YUG,Men,football,Silver,0
+1956,Football,Football,"SANTEK, Ivan",YUG,Men,football,Silver,0
+1956,Football,Football,"ILYIN, Anatoli",URS,Men,football,Gold,0
+1956,Football,Football,"IVANOV, Valentin",URS,Men,football,Gold,0
+1956,Football,Football,"KUZNETSOV, Boris",URS,Men,football,Gold,0
+1956,Football,Football,"MASLENKIN, Anatoli",URS,Men,football,Gold,0
+1956,Football,Football,"NETTO, Igor",URS,Men,football,Gold,0
+1956,Football,Football,"OGONKOV, Mikhail",URS,Men,football,Gold,0
+1956,Football,Football,"PARAMONOV, Aleksei",URS,Men,football,Gold,0
+1956,Football,Football,"RAZINSKY, Boris",URS,Men,football,Gold,0
+1956,Football,Football,"RYZHKIN, Vladimir",URS,Men,football,Gold,0
+1956,Football,Football,"SALNIKOV, Sergei",URS,Men,football,Gold,0
+1956,Football,Football,"SIMONYAN, Nikita",URS,Men,football,Gold,0
+1956,Football,Football,"SEKULARAC, Dragoslav",YUG,Men,football,Silver,0
+1956,Football,Football,"STRELTSOV, Eduard",URS,Men,football,Gold,0
+1956,Football,Football,"TISHCHENKO, Nikolai",URS,Men,football,Gold,0
+1956,Football,Football,"YASHIN, Lev",URS,Men,football,Gold,0
+1956,Football,Football,"ANTIC, Sava",YUG,Men,football,Silver,0
+1956,Football,Football,"BIOGRADLIC, Ibrahim",YUG,Men,football,Silver,0
+1956,Football,Football,"KOSCAK, Mladen",YUG,Men,football,Silver,0
+1956,Football,Football,"KRSTIC, Dobroslav",YUG,Men,football,Silver,0
+1956,Football,Football,"LIPOSINOVIC, Luka",YUG,Men,football,Silver,0
+1956,Football,Football,"MUJIC, Muhamed",YUG,Men,football,Silver,0
+1956,Football,Football,"PAPEC, Zlatko",YUG,Men,football,Silver,0
+1956,Football,Football,"RADENKOVIC, Petar",YUG,Men,football,Silver,0
+1956,Football,Football,"RADOVIC, Nikola",YUG,Men,football,Silver,0
+1956,Football,Football,"TATUSHIN, Boris",URS,Men,football,Gold,0
+1956,Hockey,Hockey,"KIDDI, Habib Ali",PAK,Men,hockey,Silver,0
+1956,Sailing,Sailing,"MANN, Graham Hargrave",GBR,Men,dragon,Bronze,0
+1956,Hockey,Hockey,"MANZOOR, Hussain Atif",PAK,Men,hockey,Silver,0
+1956,Shooting,Shooting,"UMAROV, Makhmud",URS,Men,50m pistol (60 shots),Silver,0
+1956,Shooting,Shooting,"SUNDBERG, Johan (John)",SWE,Men,50m rifle 3 positions (3x40 shots),Bronze,0
+1956,Shooting,Shooting,"BOGDANOV, Anatoli",URS,Men,50m rifle 3 positions (3x40 shots),Gold,0
+1956,Shooting,Shooting,"HORINEK, Otakar",TCH,Men,50m rifle 3 positions (3x40 shots),Silver,0
+1956,Shooting,Shooting,"BOA, Gilmore Stuart",CAN,Men,50m rifle prone (60 shots),Bronze,0
+1956,Shooting,Shooting,"OUELLETTE, Gerald Raymond",CAN,Men,50m rifle prone (60 shots),Gold,0
+1956,Shooting,Shooting,"BORISOV, Vasili",URS,Men,50m rifle prone (60 shots),Silver,0
+1956,Shooting,Shooting,"CICERI, Alessandro",ITA,Men,trap (125 targets),Bronze,0
+1956,Shooting,Shooting,"ROSSINI, Galliano",ITA,Men,trap (125 targets),Gold,0
+1956,Shooting,Shooting,"SMELCZYNSKI, Adam",POL,Men,trap (125 targets),Silver,0
+1956,Weightlifting,Weightlifting,"NAMDJOU, Mahmoud",IRI,Men,"- 56kg, total (bantamweight)",Bronze,0
+1956,Weightlifting,Weightlifting,"VINCI, Charles Thomas Jr.",USA,Men,"- 56kg, total (bantamweight)",Gold,0
+1956,Weightlifting,Weightlifting,"STOGOV, Vladimir",URS,Men,"- 56kg, total (bantamweight)",Silver,0
+1956,Weightlifting,Weightlifting,"PIGAIANI, Alberto",ITA,Men,"+ 90kg, total (heavyweight)",Bronze,0
+1956,Weightlifting,Weightlifting,"ANDERSON, Paul Edward",USA,Men,"+ 90kg, total (heavyweight)",Gold,0
+1956,Weightlifting,Weightlifting,"SELVETTI, Humberto",ARG,Men,"+ 90kg, total (heavyweight)",Silver,0
+1956,Weightlifting,Weightlifting,"ZIELINSKI, Marian",POL,Men,"56 - 60kg, total (featherweight)",Bronze,0
+1956,Weightlifting,Weightlifting,"BERGER, Isaac",USA,Men,"56 - 60kg, total (featherweight)",Gold,0
+1956,Weightlifting,Weightlifting,"MINAEV, Yevgeni",URS,Men,"56 - 60kg, total (featherweight)",Silver,0
+1956,Weightlifting,Weightlifting,"KIM, Chang-Hee",KOR,Men,"60 - 67.5kg, total (lightweight)",Bronze,0
+1956,Weightlifting,Weightlifting,"RYBAK, Igor",URS,Men,"60 - 67.5kg, total (lightweight)",Gold,0
+1956,Weightlifting,Weightlifting,"KHABUTDINOV, Ravil",URS,Men,"60 - 67.5kg, total (lightweight)",Silver,0
+1956,Weightlifting,Weightlifting,"PIGNATTI, Ermanno",ITA,Men,"67.5 - 75kg, total (middleweight)",Bronze,0
+1956,Shooting,Shooting,"LINNOSVUO, Pentti Tapio Akseli",FIN,Men,50m pistol (60 shots),Gold,0
+1956,Shooting,Shooting,"PINION, Offutt",USA,Men,50m pistol (60 shots),Bronze,0
+1956,Shooting,Shooting,"ERDMAN, Allan",URS,Men,300m free rifle 3 positions (3x40 shots),Silver,0
+1956,Shooting,Shooting,"BORISOV, Vasili",URS,Men,300m free rifle 3 positions (3x40 shots),Gold,0
+1956,Sailing,Sailing,"BERNTSEN, Ole Valdemar Henrik",DEN,Men,dragon,Silver,0
+1956,Sailing,Sailing,"VON BÃLOW, Christian Robert",DEN,Men,dragon,Silver,0
+1956,Sailing,Sailing,"BLACKALL, Jasper Roy",GBR,Men,sharpie 12m2,Bronze,0
+1956,Sailing,Sailing,"SMITH, Terence James George",GBR,Men,sharpie 12m2,Bronze,0
+1956,Sailing,Sailing,"CROPP, John Urquhart",NZL,Men,sharpie 12m2,Gold,0
+1956,Sailing,Sailing,"MANDER, Peter Garth",NZL,Men,sharpie 12m2,Gold,0
+1956,Sailing,Sailing,"SCOTT, John Malcolm",AUS,Men,sharpie 12m2,Silver,0
+1956,Sailing,Sailing,"TASKER, Rolland Leslie",AUS,Men,sharpie 12m2,Silver,0
+1956,Sailing,Sailing,"MARVIN, John",USA,Men,single-handed dinghy (Finn),Bronze,0
+1956,Sailing,Sailing,"ELVSTROM, Paul",DEN,Men,single-handed dinghy (Finn),Gold,0
+1956,Sailing,Sailing,"NELIS, Andre",BEL,Men,single-handed dinghy (Finn),Silver,0
+1956,Weightlifting,Weightlifting,"BOGDANOVSKY, Fedor",URS,Men,"67.5 - 75kg, total (middleweight)",Gold,0
+1956,Sailing,Sailing,"FARRINGTON, Sloane Elmo",BAH,Men,two-person keelboat open (Star),Bronze,0
+1956,Sailing,Sailing,"LOW, Lawrence Edgar",USA,Men,two-person keelboat open (Star),Gold,0
+1956,Sailing,Sailing,"WILLIAMS, Herbert Philip",USA,Men,two-person keelboat open (Star),Gold,0
+1956,Sailing,Sailing,"RODE, Nicolo",ITA,Men,two-person keelboat open (Star),Silver,0
+1956,Sailing,Sailing,"STRAULINO, Agostino",ITA,Men,two-person keelboat open (Star),Silver,0
+1956,Shooting,Shooting,"SEVRYUGIN, Vladimir",URS,Men,"100m running deer, single/double shots",Bronze,0
+1956,Shooting,Shooting,"ROMANENKO, Vitali",URS,Men,"100m running deer, single/double shots",Gold,0
+1956,Shooting,Shooting,"SKÃLDBERG, Olof",SWE,Men,"100m running deer, single/double shots",Silver,0
+1956,Shooting,Shooting,"LICHIARDOPOL, Gheorghe",ROU,Men,25m rapid fire pistol (60 shots),Bronze,0
+1956,Shooting,Shooting,"PETRESCU, Stefan",ROU,Men,25m rapid fire pistol (60 shots),Gold,0
+1956,Shooting,Shooting,"CHERKASOV, Yevgeni",URS,Men,25m rapid fire pistol (60 shots),Silver,0
+1956,Shooting,Shooting,"YLÃNEN, Vilho Ilmari",FIN,Men,300m free rifle 3 positions (3x40 shots),Bronze,0
+1956,Sailing,Sailing,"KNOWLES, Durward Randolph",BAH,Men,two-person keelboat open (Star),Bronze,0
+1956,Weightlifting,Weightlifting,"GEORGE, Peter T.",USA,Men,"67.5 - 75kg, total (middleweight)",Silver,0
+1956,Weightlifting,Weightlifting,"GEORGE, James D.",USA,Men,"75 - 82.5kg, total (light-heavyweight)",Bronze,0
+1956,Weightlifting,Weightlifting,"KONO, Thomas Tamio",USA,Men,"75 - 82.5kg, total (light-heavyweight)",Gold,0
+1956,Wrestling,Wrestling Gre-R,"EGRIBAS, Dursan Ali",TUR,Men,- 52kg (flyweight),Bronze,0
+1956,Wrestling,Wrestling Gre-R,"SOLOVIEV, Nikolai",URS,Men,- 52kg (flyweight),Gold,0
+1956,Wrestling,Wrestling Gre-R,"FABRA, Ignazio",ITA,Men,- 52kg (flyweight),Silver,0
+1956,Wrestling,Wrestling Gre-R,"BULGARELLI, Adelmo",ITA,Men,+ 87kg (super heavyweight),Bronze,0
+1956,Wrestling,Wrestling Gre-R,"PARFENOV, Anatoli",URS,Men,+ 87kg (super heavyweight),Gold,0
+1956,Wrestling,Wrestling Gre-R,"DIETRICH, Wilfried",EUA,Men,+ 87kg (super heavyweight),Silver,0
+1956,Wrestling,Wrestling Gre-R,"HORVATH, Francisc",ROU,Men,52 - 57kg (bantamweight),Bronze,0
+1956,Wrestling,Wrestling Gre-R,"VYRUPAEV, Konstantin",URS,Men,52 - 57kg (bantamweight),Gold,0
+1956,Wrestling,Wrestling Gre-R,"VESTERBY, Edvin",SWE,Men,52 - 57kg (bantamweight),Silver,0
+1956,Wrestling,Wrestling Gre-R,"DZENELADZE, Roman",URS,Men,57 - 61kg (featherweight),Bronze,0
+1956,Wrestling,Wrestling Gre-R,"MÃKINEN, Rauno Leonard",FIN,Men,57 - 61kg (featherweight),Gold,0
+1956,Wrestling,Wrestling Free.,"KULAEV, Boris",URS,Men,79 - 87kg (light-heavyweight),Silver,0
+1956,Wrestling,Wrestling Gre-R,"POLYAK, Imre",HUN,Men,57 - 61kg (featherweight),Silver,0
+1956,Wrestling,Wrestling Gre-R,"LEHTONEN, KyÃ¶sti Eemil",FIN,Men,61 - 67kg (lightweight),Gold,0
+1956,Wrestling,Wrestling Gre-R,"DOGAN, Riza",TUR,Men,61 - 67kg (lightweight),Silver,0
+1956,Wrestling,Wrestling Gre-R,"BERLIN, Per Gunnar",SWE,Men,67 - 73kg (welterweight),Bronze,0
+1956,Wrestling,Wrestling Gre-R,"BAYRAK, Mithat",TUR,Men,67 - 73kg (welterweight),Gold,0
+1956,Wrestling,Wrestling Gre-R,"MANEEV, Vladimir",URS,Men,67 - 73kg (welterweight),Silver,0
+1956,Wrestling,Wrestling Gre-R,"JANSSON, Rune",SWE,Men,73 - 79kg (middleweight),Bronze,0
+1956,Wrestling,Wrestling Gre-R,"KARTOZIYA, Givi",URS,Men,73 - 79kg (middleweight),Gold,0
+1956,Wrestling,Wrestling Gre-R,"DOBREV, Dimitre Dimitrov",BUL,Men,73 - 79kg (middleweight),Silver,0
+1956,Wrestling,Wrestling Gre-R,"NILSSON, Karl-Erik",SWE,Men,79 - 87kg (light-heavyweight),Bronze,0
+1956,Wrestling,Wrestling Gre-R,"NIKOLAEV, Valentin",URS,Men,79 - 87kg (light-heavyweight),Gold,0
+1956,Wrestling,Wrestling Gre-R,"SIRAKOV, Petko Atanasov",BUL,Men,79 - 87kg (light-heavyweight),Silver,0
+1956,Wrestling,Wrestling Gre-R,"TOTH, Gyula",HUN,Men,61 - 67kg (lightweight),Bronze,0
+1956,Sailing,Sailing,"ANDRESEN, Cyril Romain",DEN,Men,dragon,Silver,0
+1956,Wrestling,Wrestling Free.,"TAKHTI, Gholam Reza",IRI,Men,79 - 87kg (light-heavyweight),Gold,0
+1956,Wrestling,Wrestling Free.,"HODGE, Daniel Allen",USA,Men,73 - 79kg (middleweight),Silver,0
+1956,Weightlifting,Weightlifting,"STEPANOV, Vasili",URS,Men,"75 - 82.5kg, total (light-heavyweight)",Silver,0
+1956,Weightlifting,Weightlifting,"DEBUF, Jean",FRA,Men,"82.5 - 90kg, total (middle-heavyweight)",Bronze,0
+1956,Weightlifting,Weightlifting,"VOROBYEV, Arkadi",URS,Men,"82.5 - 90kg, total (middle-heavyweight)",Gold,0
+1956,Weightlifting,Weightlifting,"SHEPPARD, David Joseph",USA,Men,"82.5 - 90kg, total (middle-heavyweight)",Silver,0
+1956,Wrestling,Wrestling Free.,"AKBAS, HÃ¼seyin",TUR,Men,- 52kg (flyweight),Bronze,0
+1956,Wrestling,Wrestling Free.,"TSALKALAMANIDZE, Mirian",URS,Men,- 52kg (flyweight),Gold,0
+1956,Wrestling,Wrestling Free.,"KHOJASTEHPOUR, Mohammad Ali",IRI,Men,- 52kg (flyweight),Silver,0
+1956,Wrestling,Wrestling Free.,"KANGASNIEMI, Taisto Ilmari",FIN,Men,+ 87kg (heavyweight),Bronze,0
+1956,Wrestling,Wrestling Free.,"KAPLAN, Hamit",TUR,Men,+ 87kg (heavyweight),Gold,0
+1956,Wrestling,Wrestling Free.,"MEKMEDOV, Hussein Alitiev",BUL,Men,+ 87kg (heavyweight),Silver,0
+1956,Wrestling,Wrestling Free.,"SHAKHOV, Mikhail",URS,Men,52 - 57kg (bantamweight),Bronze,0
+1956,Wrestling,Wrestling Free.,"BLAIR, Peter Steele",USA,Men,79 - 87kg (light-heavyweight),Bronze,0
+1956,Wrestling,Wrestling Free.,"DAGISTANLI, Mustafa",TUR,Men,52 - 57kg (bantamweight),Gold,0
+1956,Wrestling,Wrestling Free.,"PENTTILÃ, Erkki Eino Antero",FIN,Men,57 - 63kg (featherweight),Bronze,0
+1956,Wrestling,Wrestling Free.,"SASAHARA, Shozo",JPN,Men,57 - 63kg (featherweight),Gold,0
+1956,Wrestling,Wrestling Free.,"MEWIS, Joseph",BEL,Men,57 - 63kg (featherweight),Silver,0
+1956,Wrestling,Wrestling Free.,"BESTAEV, Alimbeg",URS,Men,63 - 67kg (lightweight),Bronze,0
+1956,Wrestling,Wrestling Free.,"HABIBI-GOUDARZI, Emamali",IRI,Men,63 - 67kg (lightweight),Gold,0
+1956,Wrestling,Wrestling Free.,"KASAHARA, Shigeru",JPN,Men,63 - 67kg (lightweight),Silver,0
+1956,Wrestling,Wrestling Free.,"BALAVADZE, Vakhtang",URS,Men,67 - 73kg (welterweight),Bronze,0
+1956,Wrestling,Wrestling Free.,"IKEDA, Mitsuo",JPN,Men,67 - 73kg (welterweight),Gold,0
+1956,Wrestling,Wrestling Free.,"ZENGIN, Ibrahim",TUR,Men,67 - 73kg (welterweight),Silver,0
+1956,Wrestling,Wrestling Free.,"SKHIRTLADZE, Georgi",URS,Men,73 - 79kg (middleweight),Bronze,0
+1956,Wrestling,Wrestling Free.,"STANCHEV, Nikola Nikolov",BUL,Men,73 - 79kg (middleweight),Gold,0
+1956,Wrestling,Wrestling Free.,"YAGHOUBI, Mohammad Mehdi",IRI,Men,52 - 57kg (bantamweight),Silver,0
+1956,Hockey,Hockey,"LATIF, Ur Rehman",PAK,Men,hockey,Silver,0
+1956,Sailing,Sailing,"WIKSTRÃM, Leif",SWE,Men,dragon,Gold,0
+1956,Sailing,Sailing,"BOHLIN, Folke",SWE,Men,dragon,Gold,0
+1956,Rowing,Rowing,"GARDINER, James Arthur",USA,Men,double sculls (2x),Silver,0
+1956,Rowing,Rowing,"AIKMAN, Michael Hirst",AUS,Men,eight with coxswain (8+),Bronze,0
+1956,Rowing,Rowing,"BENFIELD, Angus Fred",AUS,Men,eight with coxswain (8+),Bronze,0
+1956,Rowing,Rowing,"BOYKETT, David Herbert",AUS,Men,eight with coxswain (8+),Bronze,0
+1956,Rowing,Rowing,"DOYLE, Brian John",AUS,Men,eight with coxswain (8+),Bronze,0
+1956,Rowing,Rowing,"HEWITT, Harold Neil",AUS,Men,eight with coxswain (8+),Bronze,0
+1956,Rowing,Rowing,"HOWDEN, James Guthrie",AUS,Men,eight with coxswain (8+),Bronze,0
+1956,Rowing,Rowing,"HOWELL, Walter Neville",AUS,Men,eight with coxswain (8+),Bronze,0
+1956,Rowing,Rowing,"MANTON, Garth O.V.",AUS,Men,eight with coxswain (8+),Bronze,0
+1956,Rowing,Rowing,"MONGER, Adrian Calero",AUS,Men,eight with coxswain (8+),Bronze,0
+1956,Rowing,Rowing,"BECKLEAN, William Russell",USA,Men,eight with coxswain (8+),Gold,0
+1956,Rowing,Rowing,"BEER, Donald Andrew E.",USA,Men,eight with coxswain (8+),Gold,0
+1956,Rowing,Rowing,"CHARLTON, Thomas Jackson Jr.",USA,Men,eight with coxswain (8+),Gold,0
+1956,Rowing,Rowing,"COOKE, John Patrick",USA,Men,eight with coxswain (8+),Gold,0
+1956,Rowing,Rowing,"ESSELSTYN, Caldwell Blackman",USA,Men,eight with coxswain (8+),Gold,0
+1956,Rowing,Rowing,"GRIMES, Charles Livingston",USA,Men,eight with coxswain (8+),Gold,0
+1956,Rowing,Rowing,"MOREY, Robert Willis Jr.",USA,Men,eight with coxswain (8+),Gold,0
+1956,Rowing,Rowing,"WAILES, Richard Donald",USA,Men,eight with coxswain (8+),Gold,0
+1956,Rowing,Rowing,"WIGHT, David Henry",USA,Men,eight with coxswain (8+),Gold,0
+1956,Rowing,Rowing,"HELLIWELL, David Leedom",CAN,Men,eight with coxswain (8+),Silver,0
+1956,Rowing,Rowing,"KUEBER, Philip Thomas",CAN,Men,eight with coxswain (8+),Silver,0
+1956,Rowing,Rowing,"MCCLURE, Richard Neil",CAN,Men,eight with coxswain (8+),Silver,0
+1956,Rowing,Rowing,"MCDONALD, Douglas John",CAN,Men,eight with coxswain (8+),Silver,0
+1956,Rowing,Rowing,"COSTELLO, Bernard Patrick Jr.",USA,Men,double sculls (2x),Silver,0
+1956,Rowing,Rowing,"TYUKALOV, Yuri",URS,Men,double sculls (2x),Gold,0
+1956,Rowing,Rowing,"BERKUTOV, Aleksandr",URS,Men,double sculls (2x),Gold,0
+1956,Rowing,Rowing,"WOOD, Merwyn Thomas",AUS,Men,double sculls (2x),Bronze,0
+1956,Hockey,Hockey,"MUSSARAT, Hussain",PAK,Men,hockey,Silver,0
+1956,Hockey,Hockey,"MUTTI, Ullah",PAK,Men,hockey,Silver,0
+1956,Hockey,Hockey,"NASIR, Ahmad",PAK,Men,hockey,Silver,0
+1956,Hockey,Hockey,"NOOR, Alam",PAK,Men,hockey,Silver,0
+1956,Hockey,Hockey,"ZAKIR, Hussain",PAK,Men,hockey,Silver,0
+1956,Modern Pentathlon,Modern Pentath.,"KORHONEN, VÃ¤inÃ¶ Kalevi",FIN,Men,Individual competition,Bronze,0
+1956,Modern Pentathlon,Modern Pentath.,"HALL, Lars",SWE,Men,Individual competition,Gold,0
+1956,Modern Pentathlon,Modern Pentath.,"MANNONEN, Olavi Aleksanteri",FIN,Men,Individual competition,Silver,0
+1956,Modern Pentathlon,Modern Pentath.,"KATTER, Berndt Leopold",FIN,Men,Team competition,Bronze,0
+1956,Modern Pentathlon,Modern Pentath.,"KORHONEN, VÃ¤inÃ¶ Kalevi",FIN,Men,Team competition,Bronze,0
+1956,Modern Pentathlon,Modern Pentath.,"MANNONEN, Olavi Aleksanteri",FIN,Men,Team competition,Bronze,0
+1956,Rowing,Rowing,"MCKERLICH, William Arthur M.",CAN,Men,eight with coxswain (8+),Silver,0
+1956,Modern Pentathlon,Modern Pentath.,"DERYUGIN, Ivan",URS,Men,Team competition,Gold,0
+1956,Modern Pentathlon,Modern Pentath.,"TARASOV, Aleksandr",URS,Men,Team competition,Gold,0
+1956,Modern Pentathlon,Modern Pentath.,"ANDRE, William Jules",USA,Men,Team competition,Silver,0
+1956,Modern Pentathlon,Modern Pentath.,"DANIELS, Jack Tupper",USA,Men,Team competition,Silver,0
+1956,Modern Pentathlon,Modern Pentath.,"LAMBERT, George Howard Jr.",USA,Men,Team competition,Silver,0
+1956,Rowing,Rowing,"KLOIMSTEIN, Josef",AUT,Men,coxless pair (2-),Bronze,0
+1956,Rowing,Rowing,"SAGEDER, Alfred",AUT,Men,coxless pair (2-),Bronze,0
+1956,Rowing,Rowing,"FIFER, James Thomas",USA,Men,coxless pair (2-),Gold,0
+1956,Rowing,Rowing,"HECHT, Duvall Young",USA,Men,coxless pair (2-),Gold,0
+1956,Rowing,Rowing,"BULDAKOV, Igor",URS,Men,coxless pair (2-),Silver,0
+1956,Rowing,Rowing,"IVANOV, Viktor",URS,Men,coxless pair (2-),Silver,0
+1956,Rowing,Rowing,"RILEY, Murray Stewart",AUS,Men,double sculls (2x),Bronze,0
+1956,Modern Pentathlon,Modern Pentath.,"NOVIKOV, Igor",URS,Men,Team competition,Gold,0
+1956,Rowing,Rowing,"OGAWA, Carlton Susumi",CAN,Men,eight with coxswain (8+),Silver,0
+1956,Rowing,Rowing,"PRETTY, Donald Wayne",CAN,Men,eight with coxswain (8+),Silver,0
+1956,Rowing,Rowing,"WEST, Lawrence Kingsley",CAN,Men,eight with coxswain (8+),Silver,0
+1956,Rowing,Rowing,"EMCHUK, Igor",URS,Men,pair-oared shell with coxswain (2+),Bronze,0
+1956,Rowing,Rowing,"PETROV, Vladimir",URS,Men,pair-oared shell with coxswain (2+),Bronze,0
+1956,Rowing,Rowing,"ZHILIN, Georgi",URS,Men,pair-oared shell with coxswain (2+),Bronze,0
+1956,Rowing,Rowing,"AYRAULT, Arthur Delancey Jr.",USA,Men,pair-oared shell with coxswain (2+),Gold,0
+1956,Rowing,Rowing,"FINDLAY, Conrad Francis",USA,Men,pair-oared shell with coxswain (2+),Gold,0
+1956,Rowing,Rowing,"SEIFFERT, Armin Kurt",USA,Men,pair-oared shell with coxswain (2+),Gold,0
+1956,Rowing,Rowing,"ARNDT, Horst",EUA,Men,pair-oared shell with coxswain (2+),Silver,0
+1956,Rowing,Rowing,"BORKOWSKY, Rainer",EUA,Men,pair-oared shell with coxswain (2+),Silver,0
+1956,Rowing,Rowing,"VON GRODDECK, Karl-Heinrich",EUA,Men,pair-oared shell with coxswain (2+),Silver,0
+1956,Rowing,Rowing,"KELLY, John Brenden Jr.",USA,Men,single sculls (1x),Bronze,0
+1956,Rowing,Rowing,"IVANOV, Vyacheslav",URS,Men,single sculls (1x),Gold,0
+1956,Rowing,Rowing,"LARSSON, Olle",SWE,Men,four-oared shell with coxswain (4-),Silver,0
+1956,Rowing,Rowing,"MACKENZIE, Stuart A.",AUS,Men,single sculls (1x),Silver,0
+1956,Sailing,Sailing,"MYTTON, Devereaux R.",AUS,Men,5.5m,Bronze,0
+1956,Sailing,Sailing,"STURROCK, Alexander Stuart",AUS,Men,5.5m,Bronze,0
+1956,Sailing,Sailing,"KARLSSON, Hjalmar",SWE,Men,5.5m,Gold,0
+1956,Sailing,Sailing,"STORK, Sture",SWE,Men,5.5m,Gold,0
+1956,Sailing,Sailing,"THÃRN, Lars",SWE,Men,5.5m,Gold,0
+1956,Sailing,Sailing,"BOWKER, David Graham",GBR,Men,5.5m,Silver,0
+1956,Sailing,Sailing,"DILLON, John Desmond",GBR,Men,5.5m,Silver,0
+1956,Sailing,Sailing,"KENNEDY-COCHRAN-PATRICK, Neil Aylmer",GBR,Men,5.5m,Silver,0
+1956,Sailing,Sailing,"PERRY, Robert Stanley Gr.",GBR,Men,5.5m,Silver,0
+1956,Sailing,Sailing,"BACKUS, Ronald",GBR,Men,dragon,Bronze,0
+1956,Sailing,Sailing,"JANSON, Jonathan",GBR,Men,dragon,Bronze,0
+1956,Sailing,Sailing,"BUXTON, Douglas Raymond",AUS,Men,5.5m,Bronze,0
+1956,Sailing,Sailing,"PALMQUIST, Bengt",SWE,Men,dragon,Gold,0
+1956,Rowing,Rowing,"GUNNARSSON, Evert",SWE,Men,four-oared shell with coxswain (4-),Silver,0
+1956,Rowing,Rowing,"ERIKSSON, GÃ¶sta",SWE,Men,four-oared shell with coxswain (4-),Silver,0
+1956,Rowing,Rowing,"WILSON, Robert Andrew",CAN,Men,eight with coxswain (8+),Silver,0
+1956,Rowing,Rowing,"DELACOUR, Yves",FRA,Men,four without coxswain (4-),Bronze,0
+1956,Rowing,Rowing,"GUILLABERT, Guy",FRA,Men,four without coxswain (4-),Bronze,0
+1956,Rowing,Rowing,"GUISSART, Rene Jacques",FRA,Men,four without coxswain (4-),Bronze,0
+1956,Rowing,Rowing,"MERCIER, Gaston Antoine",FRA,Men,four without coxswain (4-),Bronze,0
+1956,Rowing,Rowing,"ARNOLD, Donald John",CAN,Men,four without coxswain (4-),Gold,0
+1956,Rowing,Rowing,"D'HONDT, Ignace Walter",CAN,Men,four without coxswain (4-),Gold,0
+1956,Rowing,Rowing,"LOOMER, Lorne Kenneth",CAN,Men,four without coxswain (4-),Gold,0
+1956,Rowing,Rowing,"MCKINNON, Archibald",CAN,Men,four without coxswain (4-),Gold,0
+1956,Rowing,Rowing,"MCINTOSH, James Stewart",USA,Men,four without coxswain (4-),Silver,0
+1956,Rowing,Rowing,"MCKINLEY, Arthur Frank",USA,Men,four without coxswain (4-),Silver,0
+1956,Rowing,Rowing,"GÃRANSSON, Bertil",SWE,Men,four-oared shell with coxswain (4-),Silver,0
+1956,Rowing,Rowing,"MCKINLEY, John Dickinson",USA,Men,four without coxswain (4-),Silver,0
+1956,Rowing,Rowing,"HÃNNINEN, Kauko Antero",FIN,Men,four-oared shell with coxswain (4-),Bronze,0
+1956,Rowing,Rowing,"LEHTELÃ, Veli Veikko",FIN,Men,four-oared shell with coxswain (4-),Bronze,0
+1956,Rowing,Rowing,"NIEMI, Matti Juhani",FIN,Men,four-oared shell with coxswain (4-),Bronze,0
+1956,Rowing,Rowing,"PITKÃNEN, Toimi Johannes",FIN,Men,four-oared shell with coxswain (4-),Bronze,0
+1956,Rowing,Rowing,"POUTANEN, Reino Richard",FIN,Men,four-oared shell with coxswain (4-),Bronze,0
+1956,Rowing,Rowing,"SGHEIZ, Romano",ITA,Men,four-oared shell with coxswain (4-),Gold,0
+1956,Rowing,Rowing,"STEFANONI, Ivo",ITA,Men,four-oared shell with coxswain (4-),Gold,0
+1956,Rowing,Rowing,"TRINCAVELLI, Franco",ITA,Men,four-oared shell with coxswain (4-),Gold,0
+1956,Rowing,Rowing,"VANZIN, Angelo",ITA,Men,four-oared shell with coxswain (4-),Gold,0
+1956,Rowing,Rowing,"WINKLER, Alberto",ITA,Men,four-oared shell with coxswain (4-),Gold,0
+1956,Rowing,Rowing,"ARONSSON, Ivar",SWE,Men,four-oared shell with coxswain (4-),Silver,0
+1956,Rowing,Rowing,"WELCHLI, John Richard",USA,Men,four without coxswain (4-),Silver,0
+1956,Fencing,Fencing,"SHEEN, Gillian Mary",GBR,Women,foil individual,Gold,0
+1956,Fencing,Fencing,"D'ORIOLA, Christian",FRA,Men,foil individual,Gold,0
+1956,Fencing,Fencing,"BERGAMINI, Giancarlo",ITA,Men,foil individual,Silver,0
+1956,Athletics,Athletics,"MURCHISON, Ira James",USA,Men,4x100m relay,Gold,0
+1956,Athletics,Athletics,"BARTENEV, Leonid",URS,Men,4x100m relay,Silver,0
+1956,Athletics,Athletics,"KONOVALOV, Yuri",URS,Men,4x100m relay,Silver,0
+1956,Athletics,Athletics,"SUKHAREV, Vladimir",URS,Men,4x100m relay,Silver,0
+1956,Athletics,Athletics,"TOKAREV, Boris",URS,Men,4x100m relay,Silver,0
+1956,Athletics,Athletics,"DANIELS, Isabelle Francis",USA,Women,4x100m relay,Bronze,0
+1956,Athletics,Athletics,"FAGGS, Mae Heriwentha",USA,Women,4x100m relay,Bronze,0
+1956,Athletics,Athletics,"MATTHEWS, Margaret Rejean",USA,Women,4x100m relay,Bronze,0
+1956,Athletics,Athletics,"RUDOLPH, Wilma",USA,Women,4x100m relay,Bronze,0
+1956,Athletics,Athletics,"CROOKER-FLEMING, Norma Wilson",AUS,Women,4x100m relay,Gold,0
+1956,Athletics,Athletics,"CUTHBERT, Betty",AUS,Women,4x100m relay,Gold,0
+1956,Athletics,Athletics,"MELLOR-WENHAM, Fluer Northey",AUS,Women,4x100m relay,Gold,0
+1956,Athletics,Athletics,"STRICKLAND-DE LA HUNTY, Shirley",AUS,Women,4x100m relay,Gold,0
+1956,Athletics,Athletics,"ARMITAGE, Heather Joy",GBR,Women,4x100m relay,Silver,0
+1956,Athletics,Athletics,"FOULDS-PAUL, June Florence",GBR,Women,4x100m relay,Silver,0
+1956,Athletics,Athletics,"PASHLEY, Anne",GBR,Women,4x100m relay,Silver,0
+1956,Athletics,Athletics,"SCRIVENS, Jean Eileen",GBR,Women,4x100m relay,Silver,0
+1956,Athletics,Athletics,"HIGGINS, Francis Peter",GBR,Men,4x400m relay,Bronze,0
+1956,Athletics,Athletics,"JOHNSON, Derek James Neville",GBR,Men,4x400m relay,Bronze,0
+1956,Athletics,Athletics,"SALISBURY, John Edward",GBR,Men,4x400m relay,Bronze,0
+1956,Athletics,Athletics,"WHEELER, Michael Keith Valentine",GBR,Men,4x400m relay,Bronze,0
+1956,Athletics,Athletics,"COURTNEY, Thomas William",USA,Men,4x400m relay,Gold,0
+1956,Athletics,Athletics,"JENKINS, Charles Lamont",USA,Men,4x400m relay,Gold,0
+1956,Athletics,Athletics,"MORROW, Robert Joseph",USA,Men,4x100m relay,Gold,0
+1956,Athletics,Athletics,"KING, Leamon",USA,Men,4x100m relay,Gold,0
+1956,Athletics,Athletics,"BAKER, Walter Thane",USA,Men,4x100m relay,Gold,0
+1956,Athletics,Athletics,"POHL, Leonard (Leo)",EUA,Men,4x100m relay,Bronze,0
+1956,Athletics,Athletics,"DELANY, Ronald Michael",IRL,Men,1500m,Gold,0
+1956,Athletics,Athletics,"RICHTZENHAIN, Klaus",EUA,Men,1500m,Silver,0
+1956,Athletics,Athletics,"BAKER, Walter Thane",USA,Men,200m,Bronze,0
+1956,Athletics,Athletics,"MORROW, Robert Joseph",USA,Men,200m,Gold,0
+1956,Athletics,Athletics,"STANFIELD, Andrew William",USA,Men,200m,Silver,0
+1956,Athletics,Athletics,"MATHEWS-O'SHEA, Marlene Judith",AUS,Women,200m,Bronze,0
+1956,Athletics,Athletics,"CUTHBERT, Betty",AUS,Women,200m,Gold,0
+1956,Athletics,Athletics,"STUBNICK, Christa",EUA,Women,200m,Silver,0
+1956,Athletics,Athletics,"JUNK, Bruno",URS,Men,20km walk,Bronze,0
+1956,Athletics,Athletics,"SPIRIN, Leonid",URS,Men,20km walk,Gold,0
+1956,Athletics,Athletics,"MIKENAS, Antanas",URS,Men,20km walk,Silver,0
+1956,Athletics,Athletics,"JONES, Louis Woodard III",USA,Men,4x400m relay,Gold,0
+1956,Athletics,Athletics,"LARSEN, Ernst",NOR,Men,3000m steeplechase,Bronze,0
+1956,Athletics,Athletics,"ROZSNYOI, Sandor",HUN,Men,3000m steeplechase,Silver,0
+1956,Athletics,Athletics,"HELLSTEN, Voitto Valdemar",FIN,Men,400m,Bronze,0
+1956,Athletics,Athletics,"IGNATYEV, Ardalion",URS,Men,400m,Bronze,0
+1956,Athletics,Athletics,"JENKINS, Charles Lamont",USA,Men,400m,Gold,0
+1956,Athletics,Athletics,"HAAS, Karl-Friedrich",EUA,Men,400m,Silver,0
+1956,Athletics,Athletics,"CULBREATH, Joshua",USA,Men,400m hurdles,Bronze,0
+1956,Athletics,Athletics,"DAVIS, Glenn Ashby",USA,Men,400m hurdles,Gold,0
+1956,Athletics,Athletics,"SOUTHERN, Silas Edward",USA,Men,400m hurdles,Silver,0
+1956,Athletics,Athletics,"FÃTTERER, Heinz",EUA,Men,4x100m relay,Bronze,0
+1956,Athletics,Athletics,"GERMAR, Manfred",EUA,Men,4x100m relay,Bronze,0
+1956,Athletics,Athletics,"KNÃRZER, Lothar",EUA,Men,4x100m relay,Bronze,0
+1956,Athletics,Athletics,"BRASHER, Christopher William",GBR,Men,3000m steeplechase,Gold,0
+1956,Athletics,Athletics,"MASHBURN, Jesse William",USA,Men,4x400m relay,Gold,0
+1956,Athletics,Athletics,"GIPSON, Graham Chater",AUS,Men,4x400m relay,Silver,0
+1956,Athletics,Athletics,"GOSPER, Richard Kevan",AUS,Men,4x400m relay,Silver,0
+1956,Athletics,Athletics,"PORTER, Charles Michael",AUS,Men,high jump,Silver,0
+1956,Athletics,Athletics,"MCDANIEL, Mildred Louise",USA,Women,high jump,Gold,0
+1956,Athletics,Athletics,"HOPKINS, Thelma Elizabeth",GBR,Women,high jump,Silver,0
+1956,Athletics,Athletics,"PISSAREVA, Mariya",URS,Women,high jump,Silver,0
+1956,Athletics,Athletics,"TSYBULENKO, Viktor",URS,Men,javelin throw,Bronze,0
+1956,Athletics,Athletics,"DANIELSEN, Egil",NOR,Men,javelin throw,Gold,0
+1956,Athletics,Athletics,"SIDLO, Janusz",POL,Men,javelin throw,Silver,0
+1956,Athletics,Athletics,"KONYAEVA, Nadezhda",URS,Women,javelin throw,Bronze,0
+1956,Athletics,Athletics,"YAUNZEME, Inese",URS,Women,javelin throw,Gold,0
+1956,Athletics,Athletics,"AHRENS, Marlene",CHI,Women,javelin throw,Silver,0
+1956,Athletics,Athletics,"VALKAMA, Jorma Rainer",FIN,Men,long jump,Bronze,0
+1956,Athletics,Athletics,"DUMAS, Charles Everett",USA,Men,high jump,Gold,0
+1956,Athletics,Athletics,"BELL, Gregory Curtis",USA,Men,long jump,Gold,0
+1956,Athletics,Athletics,"KHNYKINA-DVALISHVILI, Nadezhda",URS,Women,long jump,Bronze,0
+1956,Athletics,Athletics,"DUNSKA-KRZESINSKA, Elzbieta",POL,Women,long jump,Gold,0
+1956,Athletics,Athletics,"WHITE, Willie B.",USA,Women,long jump,Silver,0
+1956,Athletics,Athletics,"KARVONEN, Veikko Leo",FIN,Men,marathon,Bronze,0
+1956,Athletics,Athletics,"MIMOUN, Alain",FRA,Men,marathon,Gold,0
+1956,Athletics,Athletics,"MIHALIC, Franjo",YUG,Men,marathon,Silver,0
+1956,Athletics,Athletics,"ROUBANIS, Georgios",GRE,Men,pole vault,Bronze,0
+1956,Athletics,Athletics,"RICHARDS, Robert",USA,Men,pole vault,Gold,0
+1956,Athletics,Athletics,"GUTOWSKI, Robert Allen",USA,Men,pole vault,Silver,0
+1956,Athletics,Athletics,"SKOBLA, Jiri",TCH,Men,shot put,Bronze,0
+1956,Athletics,Athletics,"O, William Patrick Jr.",USA,Men,shot put,Gold,0
+1956,Athletics,Athletics,"BENNETT, John Dale",USA,Men,long jump,Silver,0
+1956,Athletics,Athletics,"LANDY, John",AUS,Men,1500m,Bronze,0
+1956,Athletics,Athletics,"KASHKAROV, Igor",URS,Men,high jump,Bronze,0
+1956,Athletics,Athletics,"CONNOLLY, Harold Vincent",USA,Men,hammer throw,Gold,0
+1956,Athletics,Athletics,"GREGORY, Leonard Stuart",AUS,Men,4x400m relay,Silver,0
+1956,Athletics,Athletics,"LEAN, David Francis",AUS,Men,4x400m relay,Silver,0
+1956,Athletics,Athletics,"IBBOTSON, George Derek",GBR,Men,5000m,Bronze,0
+1956,Athletics,Athletics,"KUTS, Vladimir",URS,Men,5000m,Gold,0
+1956,Athletics,Athletics,"PIRIE, Douglas A.Gordon",GBR,Men,5000m,Silver,0
+1956,Athletics,Athletics,"LJUNGGREN, John Artur",SWE,Men,50km walk,Bronze,0
+1956,Athletics,Athletics,"READ, Norman Richard",NZL,Men,50km walk,Gold,0
+1956,Athletics,Athletics,"MASKINSKOV, Yevgeni",URS,Men,50km walk,Silver,0
+1956,Athletics,Athletics,"BOYSEN, Audun",NOR,Men,800m,Bronze,0
+1956,Athletics,Athletics,"COURTNEY, Thomas William",USA,Men,800m,Gold,0
+1956,Athletics,Athletics,"JOHNSON, Derek James Neville",GBR,Men,800m,Silver,0
+1956,Athletics,Athletics,"KRIVONOSOV, Mikhail",URS,Men,hammer throw,Silver,0
+1956,Athletics,Athletics,"THROWER-AUSTIN, Norma Claire",AUS,Women,80m hurdles,Bronze,0
+1956,Athletics,Athletics,"KÃHLER-BIRKEMEYER, Gisela",EUA,Women,80m hurdles,Silver,0
+1956,Athletics,Athletics,"KUZNETSOV, Vasili",URS,Men,decathlon,Bronze,0
+1956,Athletics,Athletics,"CAMPBELL, Milton Gray",USA,Men,decathlon,Gold,0
+1956,Athletics,Athletics,"JOHNSON, Rafer Lewis",USA,Men,decathlon,Silver,0
+1956,Athletics,Athletics,"KOCH, Desmond Dalworth",USA,Men,discus throw,Bronze,0
+1956,Athletics,Athletics,"OERTER, Alfred",USA,Men,discus throw,Gold,0
+1956,Athletics,Athletics,"GORDIEN, Fortune Edward",USA,Men,discus throw,Silver,0
+1956,Athletics,Athletics,"ROMASHKOVA-PONOMAREVA, Nina",URS,Women,discus throw,Bronze,0
+1956,Athletics,Athletics,"FIKOTOVA-CONNOLLY, Olga",TCH,Women,discus throw,Gold,0
+1956,Athletics,Athletics,"BEGLYAKOVA, Irina",URS,Women,discus throw,Silver,0
+1956,Athletics,Athletics,"SAMOTSVETOV, Anatoli",URS,Men,hammer throw,Bronze,0
+1956,Athletics,Athletics,"STRICKLAND-DE LA HUNTY, Shirley",AUS,Women,80m hurdles,Gold,0
+1956,Athletics,Athletics,"NIEDER, William Henry",USA,Men,shot put,Silver,0
+1956,Athletics,Athletics,"DAVIS, Jack",USA,Men,110m hurdles,Silver,0
+1956,Athletics,Athletics,"SHANKLE, Joel",USA,Men,110m hurdles,Bronze,0
+1956,Aquatics,Swimming,"ROSE, Murray",AUS,Men,1500m freestyle,Gold,0
+1956,Aquatics,Swimming,"YAMANAKA, Tsuyoshi",JPN,Men,1500m freestyle,Silver,0
+1956,Aquatics,Swimming,"YUNICHEV, Kharis",URS,Men,200m breaststroke,Bronze,0
+1956,Aquatics,Swimming,"FURUKAWA, Masaru",JPN,Men,200m breaststroke,Gold,0
+1956,Aquatics,Swimming,"YOSHIMURA, Masahiro",JPN,Men,200m breaststroke,Silver,0
+1956,Aquatics,Swimming,"TEN ELSEN, Eva-Maria",EUA,Women,200m breaststroke,Bronze,0
+1956,Aquatics,Swimming,"HAPPE-KREY, Ursula",EUA,Women,200m breaststroke,Gold,0
+1956,Aquatics,Swimming,"SZEKELY, Eva",HUN,Women,200m breaststroke,Silver,0
+1956,Aquatics,Swimming,"TUMPEK, GyÃ¶rgy",HUN,Men,200m butterfly,Bronze,0
+1956,Aquatics,Swimming,"YORZYK, William Albert Jr.",USA,Men,200m butterfly,Gold,0
+1956,Aquatics,Swimming,"ISHIMOTO, Takashi",JPN,Men,200m butterfly,Silver,0
+1956,Aquatics,Swimming,"BREEN, George Thomas",USA,Men,400m freestyle,Bronze,0
+1956,Aquatics,Swimming,"ROSE, Murray",AUS,Men,400m freestyle,Gold,0
+1956,Aquatics,Swimming,"YAMANAKA, Tsuyoshi",JPN,Men,400m freestyle,Silver,0
+1956,Aquatics,Swimming,"RUUSKA, Sylvia Eliina",USA,Women,400m freestyle,Bronze,0
+1956,Aquatics,Swimming,"CRAPP, Lorraine Joyce",AUS,Women,400m freestyle,Gold,0
+1956,Aquatics,Swimming,"FRASER, Dawn",AUS,Women,400m freestyle,Silver,0
+1956,Aquatics,Swimming,"ABERNETHY, Moira",RSA,Women,4x100m freestyle relay,Bronze,0
+1956,Aquatics,Swimming,"MYBURGH, Jeanette Evelyn",RSA,Women,4x100m freestyle relay,Bronze,0
+1956,Aquatics,Swimming,"MYBURGH, Natalie Ann",RSA,Women,4x100m freestyle relay,Bronze,0
+1956,Aquatics,Swimming,"ROBERTS, Susan Elizabeth",RSA,Women,4x100m freestyle relay,Bronze,0
+1956,Aquatics,Swimming,"CRAPP, Lorraine Joyce",AUS,Women,4x100m freestyle relay,Gold,0
+1956,Aquatics,Swimming,"FRASER, Dawn",AUS,Women,4x100m freestyle relay,Gold,0
+1956,Aquatics,Swimming,"BREEN, George Thomas",USA,Men,1500m freestyle,Bronze,0
+1956,Aquatics,Swimming,"CRAPP, Lorraine Joyce",AUS,Women,100m freestyle,Silver,0
+1956,Aquatics,Swimming,"FRASER, Dawn",AUS,Women,100m freestyle,Gold,0
+1956,Aquatics,Swimming,"LEECH, Faith Yvonne",AUS,Women,100m freestyle,Bronze,0
+1956,Fencing,Fencing,"GARILHE, Renee",FRA,Women,foil individual,Bronze,0
+1956,Aquatics,Diving,"CAPILLA PEREZ, Joaquin",MEX,Men,10m platform,Gold,0
+1956,Aquatics,Diving,"TOBIAN, Gary Milburn",USA,Men,10m platform,Silver,0
+1956,Aquatics,Diving,"MYERS-POPE, Paula Jean",USA,Women,10m platform,Bronze,0
+1956,Aquatics,Diving,"MCCORMICK, Patricia",USA,Women,10m platform,Gold,0
+1956,Aquatics,Diving,"STOVER-IRWIN, Juno Roslays",USA,Women,10m platform,Silver,0
+1956,Aquatics,Diving,"CAPILLA PEREZ, Joaquin",MEX,Men,3m springboard,Bronze,0
+1956,Aquatics,Diving,"CLOTWORTHY, Robert Lynn",USA,Men,3m springboard,Gold,0
+1956,Aquatics,Diving,"HARPER, Donald De Wayne",USA,Men,3m springboard,Silver,0
+1956,Aquatics,Diving,"MAC DONALD, Irene Margaret",CAN,Women,3m springboard,Bronze,0
+1956,Aquatics,Diving,"MCCORMICK, Patricia",USA,Women,3m springboard,Gold,0
+1956,Aquatics,Swimming,"LEECH, Faith Yvonne",AUS,Women,4x100m freestyle relay,Gold,0
+1956,Aquatics,Diving,"STUNYO, Jeanne Georgetta",USA,Women,3m springboard,Silver,0
+1956,Aquatics,Swimming,"THEILE, David Egmont",AUS,Men,100m backstroke,Gold,0
+1956,Aquatics,Swimming,"MONCKTON, John James",AUS,Men,100m backstroke,Silver,0
+1956,Aquatics,Swimming,"EDWARDS, Margaret",GBR,Women,100m backstroke,Bronze,0
+1956,Aquatics,Swimming,"GRINHAM, Judith Brenda",GBR,Women,100m backstroke,Gold,0
+1956,Aquatics,Swimming,"CONE, Carin Alice",USA,Women,100m backstroke,Silver,0
+1956,Aquatics,Swimming,"SEARS, Mary Jane",USA,Women,100m butterfly,Bronze,0
+1956,Aquatics,Swimming,"MANN, Shelley Isabel",USA,Women,100m butterfly,Gold,0
+1956,Aquatics,Swimming,"RAMEY, Nancy Jane",USA,Women,100m butterfly,Silver,0
+1956,Aquatics,Swimming,"CHAPMAN, Gary",AUS,Men,100m freestyle,Bronze,0
+1956,Aquatics,Swimming,"HENRICKS, Jon Malcolm",AUS,Men,100m freestyle,Gold,0
+1956,Aquatics,Swimming,"DEVITT, John",AUS,Men,100m freestyle,Silver,0
+1956,Aquatics,Swimming,"MCKINNEY, Frank Edward Jr.",USA,Men,100m backstroke,Bronze,0
+1956,Aquatics,Swimming,"MORGAN, Sandra Anne",AUS,Women,4x100m freestyle relay,Gold,0
+1956,Aquatics,Swimming,"ALDERSON-ROSAZZA, Joan Ann",USA,Women,4x100m freestyle relay,Silver,0
+1956,Aquatics,Swimming,"MANN, Shelley Isabel",USA,Women,4x100m freestyle relay,Silver,0
+1956,Aquatics,Water polo,"JENEI, Laszlo",HUN,Men,water polo,Gold,0
+1956,Aquatics,Water polo,"KANIZSA, Tivadar",HUN,Men,water polo,Gold,0
+1956,Aquatics,Water polo,"KARPATI, GyÃ¶rgy",HUN,Men,water polo,Gold,0
+1956,Aquatics,Water polo,"MARKOVICS, Kalman",HUN,Men,water polo,Gold,0
+1956,Aquatics,Water polo,"MAYER, Mihaly",HUN,Men,water polo,Gold,0
+1956,Aquatics,Water polo,"SZIVOS, Istvan",HUN,Men,water polo,Gold,0
+1956,Aquatics,Water polo,"ZADOR, Ervin",HUN,Men,water polo,Gold,0
+1956,Aquatics,Water polo,"CIPCI, Ivo",YUG,Men,water polo,Silver,0
+1956,Aquatics,Water polo,"FRANJKOVIC, Tomislav",YUG,Men,water polo,Silver,0
+1956,Aquatics,Water polo,"IVKOVIC, Vladimir",YUG,Men,water polo,Silver,0
+1956,Aquatics,Water polo,"JEZIC, Zdravko",YUG,Men,water polo,Silver,0
+1956,Aquatics,Water polo,"HEVESI, Istvan",HUN,Men,water polo,Gold,0
+1956,Aquatics,Water polo,"KACIC, Horivoje",YUG,Men,water polo,Silver,0
+1956,Aquatics,Water polo,"RADONIC, Lovro",YUG,Men,water polo,Silver,0
+1956,Aquatics,Water polo,"ZUZEJ, Marjan",YUG,Men,water polo,Silver,0
+1956,Athletics,Athletics,"LAWRENCE, Allan",AUS,Men,10000m,Bronze,0
+1956,Athletics,Athletics,"KUTS, Vladimir",URS,Men,10000m,Gold,0
+1956,Athletics,Athletics,"KOVACS, Jozsef",HUN,Men,10000m,Silver,0
+1956,Athletics,Athletics,"HOGAN, Hector",AUS,Men,100m,Bronze,0
+1956,Athletics,Athletics,"MORROW, Robert Joseph",USA,Men,100m,Gold,0
+1956,Athletics,Athletics,"BAKER, Walter Thane",USA,Men,100m,Silver,0
+1956,Athletics,Athletics,"MATHEWS-O'SHEA, Marlene Judith",AUS,Women,100m,Bronze,0
+1956,Athletics,Athletics,"CUTHBERT, Betty",AUS,Women,100m,Gold,0
+1956,Athletics,Athletics,"STUBNICK, Christa",EUA,Women,100m,Silver,0
+1956,Aquatics,Water polo,"KOVACIC, Zdravko",YUG,Men,water polo,Silver,0
+1956,Athletics,Athletics,"CALHOUN, Lee",USA,Men,110m hurdles,Gold,0
+1956,Aquatics,Water polo,"GYARMATI, Dezso",HUN,Men,water polo,Gold,0
+1956,Aquatics,Water polo,"BOLVARI, Antal",HUN,Men,water polo,Gold,0
+1956,Aquatics,Swimming,"RUUSKA, Sylvia Eliina",USA,Women,4x100m freestyle relay,Silver,0
+1956,Aquatics,Swimming,"SIMONS, Nancy Joan",USA,Women,4x100m freestyle relay,Silver,0
+1956,Aquatics,Swimming,"NIKITIN, Boris",URS,Men,4x200m freestyle relay,Bronze,0
+1956,Aquatics,Swimming,"NIKOLAEV, Gennadi",URS,Men,4x200m freestyle relay,Bronze,0
+1956,Aquatics,Swimming,"SOROKIN, Vitali",URS,Men,4x200m freestyle relay,Bronze,0
+1956,Aquatics,Swimming,"STRUZHANOV, Vladimir",URS,Men,4x200m freestyle relay,Bronze,0
+1956,Aquatics,Swimming,"DEVITT, John",AUS,Men,4x200m freestyle relay,Gold,0
+1956,Aquatics,Swimming,"HENRICKS, Jon Malcolm",AUS,Men,4x200m freestyle relay,Gold,0
+1956,Aquatics,Swimming,"O'HALLORAN, Kevin",AUS,Men,4x200m freestyle relay,Gold,0
+1956,Aquatics,Swimming,"ROSE, Murray",AUS,Men,4x200m freestyle relay,Gold,0
+1956,Aquatics,Swimming,"BREEN, George Thomas",USA,Men,4x200m freestyle relay,Silver,0
+1956,Aquatics,Water polo,"BOROS, Otto",HUN,Men,water polo,Gold,0
+1956,Aquatics,Swimming,"HANLEY, Richard Dennis",USA,Men,4x200m freestyle relay,Silver,0
+1956,Aquatics,Swimming,"WOOLSEY, William Tripp",USA,Men,4x200m freestyle relay,Silver,0
+1956,Aquatics,Water polo,"AGEEV, Viktor",URS,Men,water polo,Bronze,0
+1956,Aquatics,Water polo,"BREUS, Pyotr",URS,Men,water polo,Bronze,0
+1956,Aquatics,Water polo,"GOIKHMAN, Boris",URS,Men,water polo,Bronze,0
+1956,Aquatics,Water polo,"GVAKHARIYA, Nodar",URS,Men,water polo,Bronze,0
+1956,Aquatics,Water polo,"KURENNOI, Vyacheslav",URS,Men,water polo,Bronze,0
+1956,Aquatics,Water polo,"MARKAROV, Boris",URS,Men,water polo,Bronze,0
+1956,Aquatics,Water polo,"MSHVENIERADZE, Pyotr",URS,Men,water polo,Bronze,0
+1956,Aquatics,Water polo,"PROKOPOV, Valentin",URS,Men,water polo,Bronze,0
+1956,Aquatics,Water polo,"RYZHAK, Mikhail",URS,Men,water polo,Bronze,0
+1956,Aquatics,Water polo,"SHLYAPIN, Yuri",URS,Men,water polo,Bronze,0
+1956,Aquatics,Swimming,"KONNO, Ford Hiroshi",USA,Men,4x200m freestyle relay,Silver,0
+1956,Athletics,Athletics,"WERNER-SCHULZE-ENTRUP, Marianne",EUA,Women,shot put,Bronze,0
+1956,Aquatics,Diving,"CONNER, Richard Carroll",USA,Men,10m platform,Bronze,0
+1956,Athletics,Athletics,"ZYBINA, Galina",URS,Women,shot put,Silver,0
+1956,Cycling,Cycling Track,"PLOOG, Richard Francis",AUS,Men,Sprint indivual,Bronze,0
+1956,Cycling,Cycling Track,"ROUSSEAU, Michel",FRA,Men,Sprint indivual,Gold,0
+1956,Cycling,Cycling Track,"PESENTI, Guglielmo",ITA,Men,Sprint indivual,Silver,0
+1956,Cycling,Cycling Track,"BURGESS, Donald Christopher",GBR,Men,Team Pursuit (4000m),Bronze,0
+1956,Cycling,Cycling Track,"GAMBRILL, Michael John",GBR,Men,Team Pursuit (4000m),Bronze,0
+1956,Cycling,Cycling Track,"GEDDES, John Reuben",GBR,Men,Team Pursuit (4000m),Bronze,0
+1956,Cycling,Cycling Track,"SIMPSON, Thomas",GBR,Men,Team Pursuit (4000m),Bronze,0
+1956,Cycling,Cycling Track,"DOMENICALI, Antonio",ITA,Men,Team Pursuit (4000m),Gold,0
+1956,Cycling,Cycling Track,"FAGGIN, Leandro",ITA,Men,Team Pursuit (4000m),Gold,0
+1956,Cycling,Cycling Track,"GANDINI, Franco",ITA,Men,Team Pursuit (4000m),Gold,0
+1956,Cycling,Cycling Track,"GASPARELLA, Valentino",ITA,Men,Team Pursuit (4000m),Gold,0
+1956,Cycling,Cycling Track,"BIANCHI, Rene",FRA,Men,Team Pursuit (4000m),Silver,0
+1956,Cycling,Cycling Track,"GRACZYK, Jean",FRA,Men,Team Pursuit (4000m),Silver,0
+1956,Cycling,Cycling Track,"LECANTE, Jean-Claude",FRA,Men,Team Pursuit (4000m),Silver,0
+1956,Cycling,Cycling Track,"VERMEULEN, Michel",FRA,Men,Team Pursuit (4000m),Silver,0
+1956,Equestrian,Dressage,"SAINT CYR, Henri",SWE,Men,individual,Gold,0
+1956,Equestrian,Dressage,"LINSENHOFF, Liselott",EUA,Women,individual,Bronze,0
+1956,Equestrian,Dressage,"HARTEL, Lis",DEN,Women,individual,Silver,0
+1956,Equestrian,Dressage,JUBILEE,DEN,Women,individual,Silver,0
+1956,Equestrian,Dressage,"CHAMMARTIN, Henri",SUI,Men,team,Bronze,0
+1956,Equestrian,Dressage,"FISCHER, Gustav",SUI,Men,team,Bronze,0
+1956,Equestrian,Dressage,"TRACHSEL, Gottfried",SUI,Men,team,Bronze,0
+1956,Equestrian,Dressage,"BOLTENSTERN JR., Gustaf Adolf",SWE,Men,team,Gold,0
+1956,Cycling,Cycling Track,"MACHEK, Vaclav",TCH,Men,2000m tandem,Silver,0
+1956,Cycling,Cycling Track,"FOUSEK, Ladislav",TCH,Men,2000m tandem,Silver,0
+1956,Cycling,Cycling Track,"MARCHANT, Anthony John",AUS,Men,2000m tandem,Gold,0
+1956,Cycling,Cycling Track,"BROWNE, Ian Sterry",AUS,Men,2000m tandem,Gold,0
+1956,Canoe / Kayak,Canoe / Kayak F,"KLEINE, Theodor",EUA,Men,K-2 10000m,Silver,0
+1956,Canoe / Kayak,Canoe / Kayak F,"RAUB, Maximilian",AUT,Men,K-2 1000m (kayak double),Bronze,0
+1956,Canoe / Kayak,Canoe / Kayak F,"WIEDERMANN, Herbert",AUT,Men,K-2 1000m (kayak double),Bronze,0
+1956,Canoe / Kayak,Canoe / Kayak F,"MILTENBERGER, Meinrad",EUA,Men,K-2 1000m (kayak double),Gold,0
+1956,Canoe / Kayak,Canoe / Kayak F,"SCHEUER, Michael",EUA,Men,K-2 1000m (kayak double),Gold,0
+1956,Canoe / Kayak,Canoe / Kayak F,"DEMITKOV, Anatoli",URS,Men,K-2 1000m (kayak double),Silver,0
+1956,Canoe / Kayak,Canoe / Kayak F,"KAALESTE, Mikhail",URS,Men,K-2 1000m (kayak double),Silver,0
+1956,Cycling,Cycling Road,"JACKSON, Alan Wharmby",GBR,Men,individual road race,Bronze,0
+1956,Cycling,Cycling Road,"BALDINI, Ercole",ITA,Men,individual road race,Gold,0
+1956,Cycling,Cycling Road,"GEYRE, Arnaud",FRA,Men,individual road race,Silver,0
+1956,Cycling,Cycling Road,"POMMER, Reinhold Viktor",EUA,Men,team time trial,Bronze,0
+1956,Athletics,Athletics,"TYSHKEVICH, Tamara",URS,Women,shot put,Gold,0
+1956,Cycling,Cycling Road,"SCHUR, Gustav-Adolf",EUA,Men,team time trial,Bronze,0
+1956,Cycling,Cycling Road,"GEYRE, Arnaud",FRA,Men,team time trial,Gold,0
+1956,Cycling,Cycling Road,"MOUCHERAUD, Maurice",FRA,Men,team time trial,Gold,0
+1956,Cycling,Cycling Road,"VERMEULEN, Michel",FRA,Men,team time trial,Gold,0
+1956,Cycling,Cycling Road,"BRITTAIN, Arthur Stanley",GBR,Men,team time trial,Silver,0
+1956,Cycling,Cycling Road,"HOLMES, William",GBR,Men,team time trial,Silver,0
+1956,Cycling,Cycling Road,"JACKSON, Alan Wharmby",GBR,Men,team time trial,Silver,0
+1956,Cycling,Cycling Track,"SWIFT, Alfred James",RSA,Men,1km time trial,Bronze,0
+1956,Cycling,Cycling Track,"FAGGIN, Leandro",ITA,Men,1km time trial,Gold,0
+1956,Cycling,Cycling Track,"FOUSEK, Ladislav",TCH,Men,1km time trial,Silver,0
+1956,Cycling,Cycling Track,"OGNA, Giuseppe",ITA,Men,2000m tandem,Bronze,0
+1956,Cycling,Cycling Track,"PINARELLO, Cesare",ITA,Men,2000m tandem,Bronze,0
+1956,Cycling,Cycling Road,"TÃLLER, Horst",EUA,Men,team time trial,Bronze,0
+1956,Equestrian,Dressage,"SAINT CYR, Henri",SWE,Men,team,Gold,0
+1956,Equestrian,Dressage,AFRIKA,EUA,Women,team,Silver,0
+1956,Equestrian,Dressage,"KÃPPERS, Anneliese",EUA,Women,team,Silver,0
+1956,Equestrian,Jumping,"SMYTHE, Patricia Rosemary",GBR,Women,team,Bronze,0
+1956,Equestrian,Jumping,ALA,EUA,Women,team,Gold,0
+1956,Equestrian,Jumping,HALLA,EUA,Women,team,Gold,0
+1956,Fencing,Fencing,"MANGIAROTTI, Edoardo",ITA,Men,Ã©pÃ©e individual,Bronze,0
+1956,Fencing,Fencing,"PAVESI, Carlo",ITA,Men,Ã©pÃ©e individual,Gold,0
+1956,Fencing,Fencing,"DELFINO, Giuseppe",ITA,Men,Ã©pÃ©e individual,Silver,0
+1956,Fencing,Fencing,"DAGALLIER, Daniel",FRA,Men,Ã©pÃ©e team,Bronze,0
+1956,Fencing,Fencing,"DREYFUS, Yves",FRA,Men,Ã©pÃ©e team,Bronze,0
+1956,Fencing,Fencing,"MOUYAL, Armand",FRA,Men,Ã©pÃ©e team,Bronze,0
+1956,Fencing,Fencing,"NIGON, Claude",FRA,Men,Ã©pÃ©e team,Bronze,0
+1956,Fencing,Fencing,"QUEYROUX, Rene",FRA,Men,Ã©pÃ©e team,Bronze,0
+1956,Equestrian,Jumping,"OPPES, Salvatore",ITA,Men,team,Silver,0
+1956,Fencing,Fencing,"ANGLESIO, Giorgio",ITA,Men,Ã©pÃ©e team,Gold,0
+1956,Fencing,Fencing,"DELFINO, Giuseppe",ITA,Men,Ã©pÃ©e team,Gold,0
+1956,Fencing,Fencing,"MANGIAROTTI, Edoardo",ITA,Men,Ã©pÃ©e team,Gold,0
+1956,Fencing,Fencing,"PAVESI, Carlo",ITA,Men,Ã©pÃ©e team,Gold,0
+1956,Fencing,Fencing,"PELLEGRINO, Alberto",ITA,Men,Ã©pÃ©e team,Gold,0
+1956,Fencing,Fencing,"BALTHAZAR, Lajos",HUN,Men,Ã©pÃ©e team,Silver,0
+1956,Fencing,Fencing,"BERZSENYI, Barnabas",HUN,Men,Ã©pÃ©e team,Silver,0
+1956,Fencing,Fencing,"MAROSI, Jozsef",HUN,Men,Ã©pÃ©e team,Silver,0
+1956,Fencing,Fencing,"NAGY, Ambrus",HUN,Men,Ã©pÃ©e team,Silver,0
+1956,Fencing,Fencing,"RERRICH, Bela",HUN,Men,Ã©pÃ©e team,Silver,0
+1956,Fencing,Fencing,"SAKOVICS, Jozsef",HUN,Men,Ã©pÃ©e team,Silver,0
+1956,Fencing,Fencing,"SPALLINO, Antonio",ITA,Men,foil individual,Bronze,0
+1956,Fencing,Fencing,"BERTINETTI, Franco",ITA,Men,Ã©pÃ©e team,Gold,0
+1956,Canoe / Kayak,Canoe / Kayak F,"BRIEL, Fritz",EUA,Men,K-2 10000m,Silver,0
+1956,Equestrian,Jumping,"D'INZEO, Raimondo",ITA,Men,team,Silver,0
+1956,Equestrian,Jumping,"WINKLER, Hans GÃ¼nter",EUA,Men,team,Gold,0
+1956,Equestrian,Dressage,"LINSENHOFF, Liselott",EUA,Women,team,Silver,0
+1956,Equestrian,Dressage,"WEYGAND, Hannelore",EUA,Women,team,Silver,0
+1956,Equestrian,Eventing,"WELDON, Francis William Charles",GBR,Men,individual,Bronze,0
+1956,Equestrian,Eventing,"KASTENMAN, Petrus",SWE,Men,individual,Gold,0
+1956,Equestrian,Eventing,"LÃTKE WESTHUES, August",EUA,Men,individual,Silver,0
+1956,Equestrian,Eventing,"ELDER, Henry James",CAN,Men,team,Bronze,0
+1956,Equestrian,Eventing,"HERBINSON, Brian",CAN,Men,team,Bronze,0
+1956,Equestrian,Eventing,"RUMBLE, John Mitchell",CAN,Men,team,Bronze,0
+1956,Equestrian,Eventing,"HILL, Albert Edwin",GBR,Men,team,Gold,0
+1956,Equestrian,Eventing,"ROOK, Arthur Laurence",GBR,Men,team,Gold,0
+1956,Equestrian,Eventing,"WELDON, Francis William Charles",GBR,Men,team,Gold,0
+1956,Equestrian,Jumping,"D'INZEO, Piero",ITA,Men,team,Silver,0
+1956,Equestrian,Eventing,"LÃTKE WESTHUES, August",EUA,Men,team,Silver,0
+1956,Equestrian,Eventing,"WAGNER, Klaus",EUA,Men,team,Silver,0
+1956,Equestrian,Eventing,PRINZESS,EUA,Women,team,Silver,0
+1956,Equestrian,Eventing,SISSI,EUA,Women,team,Silver,0
+1956,Equestrian,Jumping,"D'INZEO, Piero",ITA,Men,individual,Bronze,0
+1956,Equestrian,Jumping,"WINKLER, Hans GÃ¼nter",EUA,Men,individual,Gold,0
+1956,Equestrian,Jumping,"D'INZEO, Raimondo",ITA,Men,individual,Silver,0
+1956,Equestrian,Jumping,HALLA,EUA,Women,individual,Gold,0
+1956,Equestrian,Jumping,"ROBESON, Peter David",GBR,Men,team,Bronze,0
+1956,Equestrian,Jumping,"WHITE, Wilfred Harry",GBR,Men,team,Bronze,0
+1956,Equestrian,Jumping,"LUTKE WESTHUES, Alfons",EUA,Men,team,Gold,0
+1956,Equestrian,Jumping,"THIEDEMANN, Fritz",EUA,Men,team,Gold,0
+1956,Equestrian,Eventing,"ROTHE, Otto",EUA,Men,team,Silver,0
+1956,Canoe / Kayak,Canoe / Kayak F,"URANYI, Janos",HUN,Men,K-2 10000m,Gold,0
+1956,Equestrian,Dressage,"PERSSON, GehnÃ¤ll",SWE,Men,team,Gold,0
+1956,Canoe / Kayak,Canoe / Kayak F,"GREEN, Dennis Allan",AUS,Men,K-2 10000m,Bronze,0
+1956,Basketball,Basketball,"KRUMINS, Yanis",URS,Men,basketball,Silver,0
+1956,Basketball,Basketball,"LAURITENAS, Algirdas",URS,Men,basketball,Silver,0
+1956,Basketball,Basketball,"MUIZHNIEK, Valdis",URS,Men,basketball,Silver,0
+1956,Basketball,Basketball,"OZEROV, Yuri",URS,Men,basketball,Silver,0
+1956,Basketball,Basketball,"PETKYAVICHUS, Kasis",URS,Men,basketball,Silver,0
+1956,Basketball,Basketball,"SEMYONOV, Mikhail",URS,Men,basketball,Silver,0
+1956,Basketball,Basketball,"STONKUS, Stasis",URS,Men,basketball,Silver,0
+1956,Basketball,Basketball,"STUDENETSKY, Mikhail",URS,Men,basketball,Silver,0
+1956,Basketball,Basketball,"TORBAN, Vladimir",URS,Men,basketball,Silver,0
+1956,Basketball,Basketball,"VALDMANIS, Maigonis",URS,Men,basketball,Silver,0
+1956,Basketball,Basketball,"ZUBKOV, Viktor",URS,Men,basketball,Silver,0
+1956,Boxing,Boxing,"CALDWELL, John",IRL,Men,- 51kg (flyweight),Bronze,0
+1956,Boxing,Boxing,"LIBEER, Rene",FRA,Men,- 51kg (flyweight),Bronze,0
+1956,Boxing,Boxing,"SPINKS, Terence George",GBR,Men,- 51kg (flyweight),Gold,0
+1956,Boxing,Boxing,"DOBRESCU, Mircea",ROU,Men,- 51kg (flyweight),Silver,0
+1956,Boxing,Boxing,"BEKKER, Daniel Wepener",RSA,Men,+ 81kg (heavyweight),Bronze,0
+1956,Boxing,Boxing,"BOZZANO, Giacomo",ITA,Men,+ 81kg (heavyweight),Bronze,0
+1956,Boxing,Boxing,"RADEMACHER, Thomas Peter",USA,Men,+ 81kg (heavyweight),Gold,0
+1956,Boxing,Boxing,"MUKHIN, Lev",URS,Men,+ 81kg (heavyweight),Silver,0
+1956,Boxing,Boxing,"BARRIENTOS, Claudio",CHI,Men,51 - 54kg (bantamweight),Bronze,0
+1956,Boxing,Boxing,"GILROY, Frederick",IRL,Men,51 - 54kg (bantamweight),Bronze,0
+1956,Boxing,Boxing,"BEHRENDT, Wolfgang",EUA,Men,51 - 54kg (bantamweight),Gold,0
+1956,Boxing,Boxing,"SONG, Soon-Chun",KOR,Men,51 - 54kg (bantamweight),Silver,0
+1956,Basketball,Basketball,"WALSH, James Patrick",USA,Men,basketball,Gold,0
+1956,Basketball,Basketball,"TOMSIC, Ronald Paul",USA,Men,basketball,Gold,0
+1956,Basketball,Basketball,"RUSSELL, William Fenton",USA,Men,basketball,Gold,0
+1956,Basketball,Basketball,"JONES, Kenneth C.",USA,Men,basketball,Gold,0
+1956,Canoe / Kayak,Canoe / Kayak F,"FABIAN, Laszlo",HUN,Men,K-2 10000m,Gold,0
+1956,Athletics,Athletics,"KREER, Vitold",URS,Men,triple jump,Bronze,0
+1956,Athletics,Athletics,"FERREIRA DA SILVA, Adhemar",BRA,Men,triple jump,Gold,0
+1956,Athletics,Athletics,"EINARSSON, Vilhjalmur",ISL,Men,triple jump,Silver,0
+1956,Basketball,Basketball,"BLIXEN, Carlos S.",URU,Men,basketball,Bronze,0
+1956,Basketball,Basketball,"CHELLE, Nelson R.",URU,Men,basketball,Bronze,0
+1956,Basketball,Basketball,"CORTES, Ramiro",URU,Men,basketball,Bronze,0
+1956,Basketball,Basketball,"COSTA, Hector J.",URU,Men,basketball,Bronze,0
+1956,Basketball,Basketball,"DEMARCO, Nelson",URU,Men,basketball,Bronze,0
+1956,Basketball,Basketball,"GARCIA OTERO, Hector",URU,Men,basketball,Bronze,0
+1956,Basketball,Basketball,"GONZALEZ, Carlos",URU,Men,basketball,Bronze,0
+1956,Boxing,Boxing,"HÃMÃLÃINEN, Pentti Olavi",FIN,Men,54 - 57kg (featherweight),Bronze,0
+1956,Basketball,Basketball,"MATTO, Sergio A.",URU,Men,basketball,Bronze,0
+1956,Basketball,Basketball,"MOGLIA, Oscar",URU,Men,basketball,Bronze,0
+1956,Basketball,Basketball,"OLASCOAGA, Ariel",URU,Men,basketball,Bronze,0
+1956,Basketball,Basketball,"SCARON, Milton A.",URU,Men,basketball,Bronze,0
+1956,Basketball,Basketball,"BOUSHKA, Richard James",USA,Men,basketball,Gold,0
+1956,Basketball,Basketball,"CAIN, Carl Cecil",USA,Men,basketball,Gold,0
+1956,Basketball,Basketball,"DARLING, Charles Frick",USA,Men,basketball,Gold,0
+1956,Basketball,Basketball,"EVANS, William Best",USA,Men,basketball,Gold,0
+1956,Basketball,Basketball,"FORD, Gilbert",USA,Men,basketball,Gold,0
+1956,Basketball,Basketball,"HALDORSSON, Burdette Eliele",USA,Men,basketball,Gold,0
+1956,Basketball,Basketball,"HOUGLAND, William Marion",USA,Men,basketball,Gold,0
+1956,Basketball,Basketball,"JEANGERARD, Robert Eugene",USA,Men,basketball,Gold,0
+1956,Basketball,Basketball,"MERA, Raul E.",URU,Men,basketball,Bronze,0
+1956,Boxing,Boxing,"NIEDZWIEDZKI, Henryk",POL,Men,54 - 57kg (featherweight),Bronze,0
+1956,Basketball,Basketball,"BOCHKAREV, Arkadi",URS,Men,basketball,Silver,0
+1956,Boxing,Boxing,"NICHOLLS, Thomas G.",GBR,Men,54 - 57kg (featherweight),Silver,0
+1956,Canoe / Kayak,Canoe / Kayak F,"ROTMAN, Leon",ROU,Men,C-1 1000m (canoe single),Gold,0
+1956,Canoe / Kayak,Canoe / Kayak F,"HERNEK, Istvan",HUN,Men,C-1 1000m (canoe single),Silver,0
+1956,Canoe / Kayak,Canoe / Kayak F,"FARKAS, Imre",HUN,Men,C-2 10000m,Bronze,0
+1956,Canoe / Kayak,Canoe / Kayak F,"HUNICS, Jozsef",HUN,Men,C-2 10000m,Bronze,0
+1956,Canoe / Kayak,Canoe / Kayak F,"BOTEV, Gratsian",URS,Men,C-2 10000m,Gold,0
+1956,Canoe / Kayak,Canoe / Kayak F,"KHARIN, Pavel",URS,Men,C-2 10000m,Gold,0
+1956,Canoe / Kayak,Canoe / Kayak F,"DRANSART, Georges",FRA,Men,C-2 10000m,Silver,0
+1956,Canoe / Kayak,Canoe / Kayak F,"RENAUD, Marcel",FRA,Men,C-2 10000m,Silver,0
+1956,Canoe / Kayak,Canoe / Kayak F,"MOHACSI, Ferenc",HUN,Men,C-2 1000m (canoe double),Bronze,0
+1956,Canoe / Kayak,Canoe / Kayak F,"WIELAND, Karoly",HUN,Men,C-2 1000m (canoe double),Bronze,0
+1956,Canoe / Kayak,Canoe / Kayak F,"DUMITRU, Alexe",ROU,Men,C-2 1000m (canoe double),Gold,0
+1956,Canoe / Kayak,Canoe / Kayak F,"BUKHARIN, Gennady",URS,Men,C-1 1000m (canoe single),Bronze,0
+1956,Canoe / Kayak,Canoe / Kayak F,"ISMAILCIUC, Simion",ROU,Men,C-2 1000m (canoe double),Gold,0
+1956,Canoe / Kayak,Canoe / Kayak F,"KHARIN, Pavel",URS,Men,C-2 1000m (canoe double),Silver,0
+1956,Canoe / Kayak,Canoe / Kayak F,"SCHEUER, Michael",EUA,Men,K-1 10000m,Bronze,0
+1956,Canoe / Kayak,Canoe / Kayak F,"FREDRIKSSON, Gert",SWE,Men,K-1 10000m,Gold,0
+1956,Canoe / Kayak,Canoe / Kayak F,"HATLACZKY, Ferenc",HUN,Men,K-1 10000m,Silver,0
+1956,Canoe / Kayak,Canoe / Kayak F,"KISS, Lajos",HUN,Men,K-1 1000m (kayak single),Bronze,0
+1956,Canoe / Kayak,Canoe / Kayak F,"FREDRIKSSON, Gert",SWE,Men,K-1 1000m (kayak single),Gold,0
+1956,Canoe / Kayak,Canoe / Kayak F,"PISSAREV, Igor",URS,Men,K-1 1000m (kayak single),Silver,0
+1956,Canoe / Kayak,Canoe / Kayak F,"SÃBY, Tove Goltermann",DEN,Women,K-1 500m (kayak single),Bronze,0
+1956,Canoe / Kayak,Canoe / Kayak F,"DEMENTYEVA, Elizaveta",URS,Women,K-1 500m (kayak single),Gold,0
+1956,Canoe / Kayak,Canoe / Kayak F,"ZENZ, Therese",EUA,Women,K-1 500m (kayak single),Silver,0
+1956,Boxing,Boxing,"SAFRONOV, Vladimir",URS,Men,54 - 57kg (featherweight),Gold,0
+1956,Canoe / Kayak,Canoe / Kayak F,"BOTEV, Gratsian",URS,Men,C-2 1000m (canoe double),Silver,0
+1956,Canoe / Kayak,Canoe / Kayak F,"PARTI, Janos",HUN,Men,C-1 10000m,Silver,0
+1956,Canoe / Kayak,Canoe / Kayak F,"BROWN, Walter William",AUS,Men,K-2 10000m,Bronze,0
+1956,Canoe / Kayak,Canoe / Kayak F,"BUKHARIN, Gennady",URS,Men,C-1 10000m,Bronze,0
+1956,Canoe / Kayak,Canoe / Kayak F,"ROTMAN, Leon",ROU,Men,C-1 10000m,Gold,0
+1956,Boxing,Boxing,"LAGETKO, Anatoli",URS,Men,57 - 60kg (lightweight),Bronze,0
+1956,Boxing,Boxing,"MCTAGGART, Richard",GBR,Men,57 - 60kg (lightweight),Gold,0
+1956,Boxing,Boxing,"KURSCHAT, Harry",EUA,Men,57 - 60kg (lightweight),Silver,0
+1956,Boxing,Boxing,"DUMITRESCU, Constantin",ROU,Men,60 - 63.5kg (light-welterweight),Bronze,0
+1956,Boxing,Boxing,"LOUBSCHER, Henry James",RSA,Men,60 - 63.5kg (light-welterweight),Bronze,0
+1956,Boxing,Boxing,"ENGIBARYAN, Vladimir",URS,Men,60 - 63.5kg (light-welterweight),Gold,0
+1956,Boxing,Boxing,"NENCI, Franco",ITA,Men,60 - 63.5kg (light-welterweight),Silver,0
+1956,Boxing,Boxing,"GARGANO, Nicholas",GBR,Men,63.5 - 67kg (welterweight),Bronze,0
+1956,Boxing,Boxing,"HOGARTH, Kevin John",AUS,Men,63.5 - 67kg (welterweight),Bronze,0
+1956,Boxing,Boxing,"LINCA, Nicolae",ROU,Men,63.5 - 67kg (welterweight),Gold,0
+1956,Boxing,Boxing,"TIEDT, Fred",IRL,Men,63.5 - 67kg (welterweight),Silver,0
+1956,Boxing,Boxing,"BYRNE, Anthony",IRL,Men,57 - 60kg (lightweight),Bronze,0
+1956,Boxing,Boxing,"PIETRZYKOWSKI, Zbigniew",POL,Men,67 - 71kg (light-middleweight),Bronze,0
+1956,Boxing,Boxing,"PAPP, Laszlo",HUN,Men,67 - 71kg (light-middleweight),Gold,0
+1956,Boxing,Boxing,"TORRES, Jose Louis Chegui",USA,Men,67 - 71kg (light-middleweight),Silver,0
+1956,Boxing,Boxing,"CHAPRON, Gilbert",FRA,Men,71-75kg,Bronze,0
+1956,Boxing,Boxing,"ZALAZAR, Victor",ARG,Men,71-75kg,Bronze,0
+1956,Boxing,Boxing,"SHATKOV, Gennadi",URS,Men,71-75kg,Gold,0
+1956,Boxing,Boxing,"TAPIA, Ramon",CHI,Men,71-75kg,Silver,0
+1956,Boxing,Boxing,"LUCAS, Carlos",CHI,Men,75 - 81kg (light-heavyweight),Bronze,0
+1956,Boxing,Boxing,"MURAUSKAS, Romualdas",URS,Men,75 - 81kg (light-heavyweight),Bronze,0
+1956,Boxing,Boxing,"BOYD, James Felton",USA,Men,75 - 81kg (light-heavyweight),Gold,0
+1956,Boxing,Boxing,"NEGREA, Gheorghe",ROU,Men,75 - 81kg (light-heavyweight),Silver,0
+1956,Boxing,Boxing,"MCCORMACK, John",GBR,Men,67 - 71kg (light-middleweight),Bronze,0

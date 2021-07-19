@@ -1,0 +1,1186 @@
+year,sport,discipline,athlete,country_code,gender,event,medal,medal_value
+1972,Handball,Handball,"HABR, Vladimir",TCH,Men,handball,Silver,0
+1972,Handball,Handball,"KLIMCICK, Arnost",TCH,Men,handball,Silver,0
+1972,Handball,Handball,"KAVAN, Jiri",TCH,Men,handball,Silver,0
+1972,Handball,Handball,"JARY, Vladimir",TCH,Men,handball,Silver,0
+1972,Handball,Handball,"KONENCNY, Jaroslav",TCH,Men,handball,Silver,0
+1972,Handball,Handball,"VIDOVIC, Albin",YUG,Men,handball,Gold,0
+1972,Handball,Handball,"BENES, Ladislav",TCH,Men,handball,Silver,0
+1972,Handball,Handball,"ZORKO, Zdenko",YUG,Men,handball,Gold,0
+1972,Handball,Handball,"ZIVKOVIC, Zoran",YUG,Men,handball,Gold,0
+1972,Handball,Handball,"POPOVIC, Nebojsa",YUG,Men,handball,Gold,0
+1972,Handball,Handball,"PRIBANIC, Miroslav",YUG,Men,handball,Gold,0
+1972,Handball,Handball,"KRALIK, Frantisek",TCH,Men,handball,Silver,0
+1972,Handball,Handball,"POKRAJAC, Branislav",YUG,Men,handball,Gold,0
+1972,Handball,Handball,"BRUNA, Frantisek",TCH,Men,handball,Silver,0
+1972,Handball,Handball,"KREPINDL, Jindrich",TCH,Men,handball,Silver,0
+1972,Hockey,Hockey,"SINGH, Ajitpal",IND,Men,hockey,Bronze,0
+1972,Handball,Handball,"LUKOSIK, Andrej",TCH,Men,handball,Silver,0
+1972,Hockey,Hockey,"SINGH, Harcharan",IND,Men,hockey,Bronze,0
+1972,Hockey,Hockey,"SINGH, Harbinder",IND,Men,hockey,Bronze,0
+1972,Handball,Handball,"MISKOVIC, Slobodan",YUG,Men,handball,Gold,0
+1972,Hockey,Hockey,"PERUMAL, Krishnanurthy",IND,Men,hockey,Bronze,0
+1972,Hockey,Hockey,"MOLLERAPOOVAYYA, Ganesh",IND,Men,hockey,Bronze,0
+1972,Hockey,Hockey,"KUMAR, Ashok",IND,Men,hockey,Bronze,0
+1972,Hockey,Hockey,"KINDO, Michael",IND,Men,hockey,Bronze,0
+1972,Hockey,Hockey,"FREDERICK, Manuel",IND,Men,hockey,Bronze,0
+1972,Hockey,Hockey,"CHARLES, Cornelius",IND,Men,hockey,Bronze,0
+1972,Hockey,Hockey,"BILLIMOGAPUTTASWAMY, Govind",IND,Men,hockey,Bronze,0
+1972,Handball,Handball,"SKARVAN, Jaroslav",TCH,Men,handball,Silver,0
+1972,Handball,Handball,"SKARA, Zdenek",TCH,Men,handball,Silver,0
+1972,Handball,Handball,"SATRAPA, Ivan",TCH,Men,handball,Silver,0
+1972,Handball,Handball,"POSPISIL, Petr",TCH,Men,handball,Silver,0
+1972,Handball,Handball,"MIKES, Pavel",TCH,Men,handball,Silver,0
+1972,Handball,Handball,"LAFKO, Vincent",TCH,Men,handball,Silver,0
+1972,Handball,Handball,"MILJAK, Zdravko",YUG,Men,handball,Gold,0
+1972,Gymnastics,Artistic G.,"KORBUT, Olga",URS,Women,uneven bars,Silver,0
+1972,Handball,Handball,"LAVRNIC, Djoko",YUG,Men,handball,Gold,0
+1972,Gymnastics,Artistic G.,"ZUCHOLD, Erika",GDR,Women,vault,Silver,0
+1972,Gymnastics,Artistic G.,"JANZ, Karin",GDR,Women,vault,Gold,0
+1972,Gymnastics,Artistic G.,"TURISCHEVA, Lyudmila",URS,Women,vault,Bronze,0
+1972,Gymnastics,Artistic G.,"KLIMENKO, Viktor",URS,Men,vault,Silver,0
+1972,Gymnastics,Artistic G.,"KÃSTE, Klaus",GDR,Men,vault,Gold,0
+1972,Gymnastics,Artistic G.,"ANDRIANOV, Nikolay",URS,Men,vault,Bronze,0
+1972,Gymnastics,Artistic G.,"ZUCHOLD, Erika",GDR,Women,uneven bars,Silver,0
+1972,Gymnastics,Artistic G.,"JANZ, Karin",GDR,Women,uneven bars,Gold,0
+1972,Gymnastics,Artistic G.,"ZUCHOLD, Erika",GDR,Women,team competition,Silver,0
+1972,Gymnastics,Artistic G.,"SCHMITT, Christine",GDR,Women,team competition,Silver,0
+1972,Gymnastics,Artistic G.,"SCHMEISSER, Richarda",GDR,Women,team competition,Silver,0
+1972,Gymnastics,Artistic G.,"JANZ, Karin",GDR,Women,team competition,Silver,0
+1972,Gymnastics,Artistic G.,"ABEL, Irene",GDR,Women,team competition,Silver,0
+1972,Hockey,Hockey,"SINGH, Harmik",IND,Men,hockey,Bronze,0
+1972,Gymnastics,Artistic G.,"HELLMANN, Angelika",GDR,Women,team competition,Silver,0
+1972,Handball,Handball,"BIRTALAN, Stefan",ROU,Men,handball,Bronze,0
+1972,Handball,Handball,"LAZAREVIC, Milan",YUG,Men,handball,Gold,0
+1972,Handball,Handball,"COSMA, Adrian",ROU,Men,handball,Bronze,0
+1972,Handball,Handball,"GATU, Cristian",ROU,Men,handball,Bronze,0
+1972,Handball,Handball,"KARALIC, Milorad",YUG,Men,handball,Gold,0
+1972,Handball,Handball,"HORVAT, Hrvoje",YUG,Men,handball,Gold,0
+1972,Handball,Handball,"FAJFRIC, Petar",YUG,Men,handball,Gold,0
+1972,Handball,Handball,"ARSLANAGIC, Abaz",YUG,Men,handball,Gold,0
+1972,Handball,Handball,"VOINEA, Radu",ROU,Men,handball,Bronze,0
+1972,Handball,Handball,"TUDOSIE, Constantin",ROU,Men,handball,Bronze,0
+1972,Handball,Handball,"STOCKL, Werner",ROU,Men,handball,Bronze,0
+1972,Handball,Handball,"SOBEL, Simion",ROU,Men,handball,Bronze,0
+1972,Handball,Handball,"SAMUNGI, Valentin",ROU,Men,handball,Bronze,0
+1972,Handball,Handball,"PENU, Cornel",ROU,Men,handball,Bronze,0
+1972,Handball,Handball,"MARIN, Daniel",ROU,Men,handball,Bronze,0
+1972,Handball,Handball,"LICU, Ghita",ROU,Men,handball,Bronze,0
+1972,Handball,Handball,"KICSID, Gabriel",ROU,Men,handball,Bronze,0
+1972,Handball,Handball,"GUNES, Roland",ROU,Men,handball,Bronze,0
+1972,Handball,Handball,"GRUIA, Gheorghe",ROU,Men,handball,Bronze,0
+1972,Handball,Handball,"DINCA, Alexandru",ROU,Men,handball,Bronze,0
+1972,Hockey,Hockey,"SINGH, Kulwant",IND,Men,hockey,Bronze,0
+1972,Modern Pentathlon,Modern Pentath.,"HURME, Risto",FIN,Men,Team competition,Bronze,0
+1972,Hockey,Hockey,"SINGH, Virinder",IND,Men,hockey,Bronze,0
+1972,Judo,Judo,"CHOCHOSHVILI, Shota",URS,Men,80 - 93kg (half-heavyweight),Gold,0
+1972,Judo,Judo,"ISHII, Chiaki",BRA,Men,80 - 93kg (half-heavyweight),Bronze,0
+1972,Judo,Judo,"BARTH, Paul",FRG,Men,80 - 93kg (half-heavyweight),Bronze,0
+1972,Judo,Judo,"OH, Seung-Lip",KOR,Men,70 - 80kg (middleweight),Silver,0
+1972,Judo,Judo,"SEKINE, Shinobu",JPN,Men,70 - 80kg (middleweight),Gold,0
+1972,Judo,Judo,"JACKS, Brian Albert Thomas",GBR,Men,70 - 80kg (middleweight),Bronze,0
+1972,Judo,Judo,"STARBROOK, David Colin",GBR,Men,80 - 93kg (half-heavyweight),Silver,0
+1972,Judo,Judo,"COCHE, Jean-Paul",FRA,Men,70 - 80kg (middleweight),Bronze,0
+1972,Judo,Judo,"NOMURA, Toyokazu",JPN,Men,63 - 70kg (half-middleweight),Gold,0
+1972,Judo,Judo,"NOVIKOV, Anatoli",URS,Men,63 - 70kg (half-middleweight),Bronze,0
+1972,Judo,Judo,"HÃTGER, Dietmar",GDR,Men,63 - 70kg (half-middleweight),Bronze,0
+1972,Judo,Judo,"GLAHN, Klaus",FRG,Men,+ 93kg (heavyweight),Silver,0
+1972,Judo,Judo,"RUSKA, Willem",NED,Men,+ 93kg (heavyweight),Gold,0
+1972,Judo,Judo,"ONASHVILI, Givi",URS,Men,+ 93kg (heavyweight),Bronze,0
+1972,Judo,Judo,"ZAJKOWSKI, Antoni",POL,Men,63 - 70kg (half-middleweight),Silver,0
+1972,Judo,Judo,"BRONDANI, Jean-Claude",FRA,Men,open category,Bronze,0
+1972,Judo,Judo,"PARISI, Angelo",GBR,Men,open category,Bronze,0
+1972,Judo,Judo,"RUSKA, Willem",NED,Men,open category,Gold,0
+1972,Rowing,Rowing,"STOKVIS, Rudolf (Ruud)",NED,Men,coxless pair (2-),Bronze,0
+1972,Gymnastics,Artistic G.,"TURISCHEVA, Lyudmila",URS,Women,team competition,Gold,0
+1972,Rowing,Rowing,"LUYNENBURG, Roelof Johan",NED,Men,coxless pair (2-),Bronze,0
+1972,Modern Pentathlon,Modern Pentath.,"VILLANYI, Zsigmond",HUN,Men,Team competition,Silver,0
+1972,Modern Pentathlon,Modern Pentath.,"BALCZO, Andras",HUN,Men,Team competition,Silver,0
+1972,Modern Pentathlon,Modern Pentath.,"BAKO, Pal",HUN,Men,Team competition,Silver,0
+1972,Modern Pentathlon,Modern Pentath.,"SHMELEV, Vladimir",URS,Men,Team competition,Gold,0
+1972,Modern Pentathlon,Modern Pentath.,"ONISHENKO, Boris",URS,Men,Team competition,Gold,0
+1972,Modern Pentathlon,Modern Pentath.,"LEDNEV, Pavel",URS,Men,Team competition,Gold,0
+1972,Modern Pentathlon,Modern Pentath.,"SALMINEN, Veikko",FIN,Men,Team competition,Bronze,0
+1972,Modern Pentathlon,Modern Pentath.,"KETELÃ, Martti Einari",FIN,Men,Team competition,Bronze,0
+1972,Modern Pentathlon,Modern Pentath.,"ONISHENKO, Boris",URS,Men,Individual competition,Silver,0
+1972,Modern Pentathlon,Modern Pentath.,"BALCZO, Andras",HUN,Men,Individual competition,Gold,0
+1972,Modern Pentathlon,Modern Pentath.,"LEDNEV, Pavel",URS,Men,Individual competition,Bronze,0
+1972,Judo,Judo,"KUZNETSOV, Vitali",URS,Men,open category,Silver,0
+1972,Judo,Judo,"NISHIMURA, Motoki",JPN,Men,+ 93kg (heavyweight),Bronze,0
+1972,Hockey,Hockey,"SINGH, Mukhbain",IND,Men,hockey,Bronze,0
+1972,Judo,Judo,"KAWAGUCHI, Takao",JPN,Men,- 63kg (lightweight),Gold,0
+1972,Judo,Judo,"KIM, Yong Ik",PRK,Men,- 63kg (lightweight),Bronze,0
+1972,Hockey,Hockey,"STRODTER, Wolfgang",FRG,Men,hockey,Gold,0
+1972,Hockey,Hockey,"SEIFERT, Rainer",FRG,Men,hockey,Gold,0
+1972,Hockey,Hockey,"SCHMIDT, Fritz",FRG,Men,hockey,Gold,0
+1972,Hockey,Hockey,"ROTT, Wolfgang",FRG,Men,hockey,Gold,0
+1972,Hockey,Hockey,"PETER, Michael",FRG,Men,hockey,Gold,0
+1972,Hockey,Hockey,"KRAUSE, Michael",FRG,Men,hockey,Gold,0
+1972,Hockey,Hockey,"SUHL, Eckard",FRG,Men,hockey,Gold,0
+1972,Hockey,Hockey,"KRAUS, Peter",FRG,Men,hockey,Gold,0
+1972,Hockey,Hockey,"KITTSTEIN, Detlef",FRG,Men,hockey,Gold,0
+1972,Hockey,Hockey,"KELLER, Carsten",FRG,Men,hockey,Gold,0
+1972,Hockey,Hockey,"KAESSMANN, Werner",FRG,Men,hockey,Gold,0
+1972,Hockey,Hockey,"FREISE, Dieter",FRG,Men,hockey,Gold,0
+1972,Hockey,Hockey,"DROSE, Horst",FRG,Men,hockey,Gold,0
+1972,Hockey,Hockey,"BAUMGART, Wolfgang",FRG,Men,hockey,Gold,0
+1972,Hockey,Hockey,"KLAES, Ulrich",FRG,Men,hockey,Gold,0
+1972,Hockey,Hockey,"THELEN, Eduard",FRG,Men,hockey,Gold,0
+1972,Hockey,Hockey,"TRUMP, Peter",FRG,Men,hockey,Gold,0
+1972,Hockey,Hockey,"VOS, Ulrich",FRG,Men,hockey,Gold,0
+1972,Hockey,Hockey,"ZAHID, Muhammad",PAK,Men,hockey,Silver,0
+1972,Hockey,Hockey,"SYED, Mudassar Ashgar",PAK,Men,hockey,Silver,0
+1972,Hockey,Hockey,"SYED, Iftikar Ahmed",PAK,Men,hockey,Silver,0
+1972,Hockey,Hockey,"SHERWANI, Saleem",PAK,Men,hockey,Silver,0
+1972,Hockey,Hockey,"SAEED, Anwar",PAK,Men,hockey,Silver,0
+1972,Hockey,Hockey,"RIAZ, Ahmad",PAK,Men,hockey,Silver,0
+1972,Hockey,Hockey,"MUNAWAR, Uz-Zaman",PAK,Men,hockey,Silver,0
+1972,Hockey,Hockey,"MUHAMMAD, Shahnaz",PAK,Men,hockey,Silver,0
+1972,Hockey,Hockey,"MALIK, Muhammad Azam",PAK,Men,hockey,Silver,0
+1972,Hockey,Hockey,"ISLAH, Ud Din",PAK,Men,hockey,Silver,0
+1972,Hockey,Hockey,"FAZAL, Ur Rehman",PAK,Men,hockey,Silver,0
+1972,Hockey,Hockey,"BUTT, Jahangir Ahmad",PAK,Men,hockey,Silver,0
+1972,Hockey,Hockey,"AKHTAR, Ul Islam",PAK,Men,hockey,Silver,0
+1972,Hockey,Hockey,"AKHTAR, Rasool",PAK,Men,hockey,Silver,0
+1972,Hockey,Hockey,"ABDUL, Rashid III",PAK,Men,hockey,Silver,0
+1972,Judo,Judo,"MOUNIER, Jean-Jacques",FRA,Men,- 63kg (lightweight),Bronze,0
+1972,Gymnastics,Artistic G.,"SAADI, Elvira",URS,Women,team competition,Gold,0
+1972,Fencing,Fencing,"RAKITA, Mark",URS,Men,sabre team,Silver,0
+1972,Gymnastics,Artistic G.,"KOSHEL, Antonina",URS,Women,team competition,Gold,0
+1972,Football,Football,"SPARWASSER, JÃ¼rgen",GDR,Men,football,Bronze,0
+1972,Football,Football,"SEMENOV, Vyacheslav",URS,Men,football,Bronze,0
+1972,Football,Football,"SEGUIN, Wolfgang",GDR,Men,football,Bronze,0
+1972,Football,Football,"SCHULENBERG, Ralf",GDR,Men,football,Bronze,0
+1972,Football,Football,"SABO, Iosef",URS,Men,football,Bronze,0
+1972,Football,Football,"RUDAKOV, Yevgeni",URS,Men,football,Bronze,0
+1972,Football,Football,"STREICH, Joachim",GDR,Men,football,Bronze,0
+1972,Football,Football,"POMMERENKE, JÃ¼rgen",GDR,Men,football,Bronze,0
+1972,Football,Football,"ONISHCHENKO, Vladimir",URS,Men,football,Bronze,0
+1972,Football,Football,"OLSHANSKY, Sergei",URS,Men,football,Bronze,0
+1972,Football,Football,"LOVCHEV, Yevgeni",URS,Men,football,Bronze,0
+1972,Football,Football,"KURBJUWEIT, Lothar",GDR,Men,football,Bronze,0
+1972,Football,Football,"KUKSOV, Anatoli",URS,Men,football,Bronze,0
+1972,Football,Football,"KREISCHE, Hans-JÃ¼rgen",GDR,Men,football,Bronze,0
+1972,Football,Football,"PILGUI, Vladimir",URS,Men,football,Bronze,0
+1972,Football,Football,"VOGEL, Eberhard",GDR,Men,football,Bronze,0
+1972,Football,Football,"WATZLICH, Siegmar",GDR,Men,football,Bronze,0
+1972,Football,Football,"WEISE, Konrad",GDR,Men,football,Bronze,0
+1972,Football,Football,"MARX, Joachim",POL,Men,football,Gold,0
+1972,Football,Football,"LUBANSKI, Wlodzimierz",POL,Men,football,Gold,0
+1972,Football,Football,"LATO, Grzegorz",POL,Men,football,Gold,0
+1972,Football,Football,"KRASKA, Jerzy",POL,Men,football,Gold,0
+1972,Football,Football,"KOSTKA, Hubert",POL,Men,football,Gold,0
+1972,Football,Football,"KMIECIK, Kazimierz",POL,Men,football,Gold,0
+1972,Football,Football,"GUT, Zbigniew",POL,Men,football,Gold,0
+1972,Football,Football,"GORGON, Jerzy",POL,Men,football,Gold,0
+1972,Football,Football,"GADOCHA, Robert",POL,Men,football,Gold,0
+1972,Football,Football,"DEYNA, Kazimierz",POL,Men,football,Gold,0
+1972,Football,Football,"CMIKIEWICZ, Leslaw",POL,Men,football,Gold,0
+1972,Football,Football,"ANCZOK, Zygmunt",POL,Men,football,Gold,0
+1972,Football,Football,"ZAPF, Manfred",GDR,Men,football,Bronze,0
+1972,Football,Football,"ZANAZANYAN, Oganes",URS,Men,football,Bronze,0
+1972,Football,Football,"YAKUBIK, Andrei",URS,Men,football,Bronze,0
+1972,Football,Football,"KOLOTOV, Viktor",URS,Men,football,Bronze,0
+1972,Football,Football,"MASZCZYK, Zygmunt",POL,Men,football,Gold,0
+1972,Football,Football,"KHURCILAVA, Murtaz",URS,Men,football,Bronze,0
+1972,Football,Football,"ISTOMIN, Yuri",URS,Men,football,Bronze,0
+1972,Fencing,Fencing,"MAFFEI, Michele",ITA,Men,sabre team,Gold,0
+1972,Fencing,Fencing,"PEZSA, Tibor",HUN,Men,sabre team,Bronze,0
+1972,Fencing,Fencing,"MAROTH, Peter",HUN,Men,sabre team,Bronze,0
+1972,Fencing,Fencing,"KOVACS, Tamas",HUN,Men,sabre team,Bronze,0
+1972,Fencing,Fencing,"GEREVICH, Pal",HUN,Men,sabre team,Bronze,0
+1972,Fencing,Fencing,"BAKONYI, Peter",HUN,Men,sabre team,Bronze,0
+1972,Fencing,Fencing,"MONTANO, Mario Aldo",ITA,Men,sabre team,Gold,0
+1972,Fencing,Fencing,"MAROTH, Peter",HUN,Men,sabre individual,Silver,0
+1972,Fencing,Fencing,"NAZLYMOV, Vladimir",URS,Men,sabre individual,Bronze,0
+1972,Fencing,Fencing,"SCHWARCZENBERGER, Ildiko",HUN,Women,foil team,Silver,0
+1972,Fencing,Fencing,"REJTO-UJLAKI, Ildiko",HUN,Women,foil team,Silver,0
+1972,Fencing,Fencing,"MATUSCAK-RONAY, Ildiko",HUN,Women,foil team,Silver,0
+1972,Fencing,Fencing,"GULACSI-SZOLNOKI, Maria",HUN,Women,foil team,Silver,0
+1972,Rowing,Rowing,"BRIETZKE, Siegfried",GDR,Men,coxless pair (2-),Gold,0
+1972,Fencing,Fencing,"SIDYAK, Viktor",URS,Men,sabre individual,Gold,0
+1972,Fencing,Fencing,"MONTANO, Mario Tullio",ITA,Men,sabre team,Gold,0
+1972,Fencing,Fencing,"RIGOLI, Rolando",ITA,Men,sabre team,Gold,0
+1972,Fencing,Fencing,"SALVADORI, Cesare",ITA,Men,sabre team,Gold,0
+1972,Football,Football,"IRMSCHER, Harald",GDR,Men,football,Bronze,0
+1972,Football,Football,"HÃFNER, Reinhard",GDR,Men,football,Bronze,0
+1972,Football,Football,"GANZERA, Frank",GDR,Men,football,Bronze,0
+1972,Football,Football,"EVRYUZHIKHIN, Gennadi",URS,Men,football,Bronze,0
+1972,Football,Football,"ELISEEV, Yuri",URS,Men,football,Bronze,0
+1972,Football,Football,"DZODZUASHVILI, Revaz",URS,Men,football,Bronze,0
+1972,Football,Football,"DUCKE, Peter",GDR,Men,football,Bronze,0
+1972,Football,Football,"CROY, JÃ¼rgen",GDR,Men,football,Bronze,0
+1972,Football,Football,"BRANSCH, Bernd",GDR,Men,football,Bronze,0
+1972,Football,Football,"BLOKHIN, Oleg",URS,Men,football,Bronze,0
+1972,Football,Football,"ANDRIASYAN, Arkadi",URS,Men,football,Bronze,0
+1972,Fencing,Fencing,"VINOKUROV, Eduard",URS,Men,sabre team,Silver,0
+1972,Fencing,Fencing,"SIDYAK, Viktor",URS,Men,sabre team,Silver,0
+1972,Fencing,Fencing,"NAZLYMOV, Vladimir",URS,Men,sabre team,Silver,0
+1972,Fencing,Fencing,"BASHENOV, Viktor",URS,Men,sabre team,Silver,0
+1972,Football,Football,"KAPLICHNY, Vladimir",URS,Men,football,Bronze,0
+1972,Football,Football,"OSTAFINSKI, Marjan",POL,Men,football,Gold,0
+1972,Football,Football,"SZOLTYSIK, Zygfryd",POL,Men,football,Gold,0
+1972,Football,Football,"SZYMANOWSKI, Antoni",POL,Men,football,Gold,0
+1972,Gymnastics,Artistic G.,"KASAMATSU, Shigeru",JPN,Men,team competition,Gold,0
+1972,Gymnastics,Artistic G.,"THÃNE, Wolfgang",GDR,Men,team competition,Bronze,0
+1972,Gymnastics,Artistic G.,"RYCHLY, Reinhard",GDR,Men,team competition,Bronze,0
+1972,Gymnastics,Artistic G.,"PAEKE, JÃ¼rgen",GDR,Men,team competition,Bronze,0
+1972,Gymnastics,Artistic G.,"KÃSTE, Klaus",GDR,Men,team competition,Bronze,0
+1972,Gymnastics,Artistic G.,"KLOTZ, Wolfgang",GDR,Men,team competition,Bronze,0
+1972,Gymnastics,Artistic G.,"KATO, Sawao",JPN,Men,team competition,Gold,0
+1972,Gymnastics,Artistic G.,"BREHME, Matthias",GDR,Men,team competition,Bronze,0
+1972,Gymnastics,Artistic G.,"NAKAYAMA, Akinori",JPN,Men,rings,Gold,0
+1972,Gymnastics,Artistic G.,"TSUKAHARA, Mitsuo",JPN,Men,rings,Bronze,0
+1972,Gymnastics,Artistic G.,"KATO, Sawao",JPN,Men,pommel horse,Silver,0
+1972,Gymnastics,Artistic G.,"KLIMENKO, Viktor",URS,Men,pommel horse,Gold,0
+1972,Gymnastics,Artistic G.,"KENMOTSU, Eizo",JPN,Men,pommel horse,Bronze,0
+1972,Gymnastics,Artistic G.,"KASAMATSU, Shigeru",JPN,Men,parallel bars,Silver,0
+1972,Gymnastics,Artistic G.,"VORONIN, Mikhail",URS,Men,rings,Silver,0
+1972,Gymnastics,Artistic G.,"KENMOTSU, Eizo",JPN,Men,team competition,Gold,0
+1972,Gymnastics,Artistic G.,"NAKAYAMA, Akinori",JPN,Men,team competition,Gold,0
+1972,Gymnastics,Artistic G.,"OKAMURA, Teruichi",JPN,Men,team competition,Gold,0
+1972,Gymnastics,Artistic G.,"KORBUT, Olga",URS,Women,team competition,Gold,0
+1972,Gymnastics,Artistic G.,"BURDA, Lyubov",URS,Women,team competition,Gold,0
+1972,Gymnastics,Artistic G.,"NAGY, Zsuzsa",HUN,Women,team competition,Bronze,0
+1972,Gymnastics,Artistic G.,"MEDVECZKY, Krisztina",HUN,Women,team competition,Bronze,0
+1972,Gymnastics,Artistic G.,"KERY, Aniko",HUN,Women,team competition,Bronze,0
+1972,Gymnastics,Artistic G.,"KELEMEN, Marta",HUN,Women,team competition,Bronze,0
+1972,Gymnastics,Artistic G.,"CSASZAR, Monika",HUN,Women,team competition,Bronze,0
+1972,Gymnastics,Artistic G.,"BEKESI, Ilona",HUN,Women,team competition,Bronze,0
+1972,Gymnastics,Artistic G.,"VORONIN, Mikhail",URS,Men,team competition,Silver,0
+1972,Gymnastics,Artistic G.,"SHUKIN, Vladimir",URS,Men,team competition,Silver,0
+1972,Gymnastics,Artistic G.,"MIKAELIAN, Edvard",URS,Men,team competition,Silver,0
+1972,Gymnastics,Artistic G.,"MALEEV, Aleksandr",URS,Men,team competition,Silver,0
+1972,Gymnastics,Artistic G.,"KLIMENKO, Viktor",URS,Men,team competition,Silver,0
+1972,Gymnastics,Artistic G.,"ANDRIANOV, Nikolay",URS,Men,team competition,Silver,0
+1972,Gymnastics,Artistic G.,"TSUKAHARA, Mitsuo",JPN,Men,team competition,Gold,0
+1972,Gymnastics,Artistic G.,"KATO, Sawao",JPN,Men,parallel bars,Gold,0
+1972,Gymnastics,Artistic G.,"KENMOTSU, Eizo",JPN,Men,parallel bars,Bronze,0
+1972,Gymnastics,Artistic G.,"JANZ, Karin",GDR,Women,individual all-round,Silver,0
+1972,Gymnastics,Artistic G.,"TURISCHEVA, Lyudmila",URS,Women,individual all-round,Gold,0
+1972,Football,Football,"TOTH, Kalman",HUN,Men,football,Silver,0
+1972,Football,Football,"SZUCS, Lajos",HUN,Men,football,Silver,0
+1972,Football,Football,"ROTHERMEL, Adam",HUN,Men,football,Silver,0
+1972,Football,Football,"PANCSICS, Miklos",HUN,Men,football,Silver,0
+1972,Football,Football,"KU, Lajos",HUN,Men,football,Silver,0
+1972,Football,Football,"KOZMA, Mihaly",HUN,Men,football,Silver,0
+1972,Football,Football,"KOVACS, Jozsef",HUN,Men,football,Silver,0
+1972,Football,Football,"KOCSIS, Lajos",HUN,Men,football,Silver,0
+1972,Football,Football,"JUHASZ, Peter",HUN,Men,football,Silver,0
+1972,Football,Football,"GECZI, Istvan",HUN,Men,football,Silver,0
+1972,Football,Football,"DUNAI, Ede",HUN,Men,football,Silver,0
+1972,Football,Football,"DUNAI, Antal",HUN,Men,football,Silver,0
+1972,Football,Football,"BRANIKOVICS, Laszlo",HUN,Men,football,Silver,0
+1972,Football,Football,"BALINT, Laszlo",HUN,Men,football,Silver,0
+1972,Football,Football,"SZYMCZAK, Ryszard",POL,Men,football,Gold,0
+1972,Football,Football,"VARADI, Bela",HUN,Men,football,Silver,0
+1972,Gymnastics,Artistic G.,"LAZAKOVICH, Tamara",URS,Women,team competition,Gold,0
+1972,Football,Football,"VEPI, Peter",HUN,Men,football,Silver,0
+1972,Gymnastics,Artistic G.,"JANZ, Karin",GDR,Women,balance beam,Bronze,0
+1972,Gymnastics,Artistic G.,"LAZAKOVICH, Tamara",URS,Women,individual all-round,Bronze,0
+1972,Gymnastics,Artistic G.,"KENMOTSU, Eizo",JPN,Men,individual all-round,Silver,0
+1972,Gymnastics,Artistic G.,"KATO, Sawao",JPN,Men,individual all-round,Gold,0
+1972,Gymnastics,Artistic G.,"NAKAYAMA, Akinori",JPN,Men,individual all-round,Bronze,0
+1972,Gymnastics,Artistic G.,"KATO, Sawao",JPN,Men,horizontal bar,Silver,0
+1972,Gymnastics,Artistic G.,"TSUKAHARA, Mitsuo",JPN,Men,horizontal bar,Gold,0
+1972,Gymnastics,Artistic G.,"KASAMATSU, Shigeru",JPN,Men,horizontal bar,Bronze,0
+1972,Gymnastics,Artistic G.,"TURISCHEVA, Lyudmila",URS,Women,floor exercises,Silver,0
+1972,Gymnastics,Artistic G.,"KORBUT, Olga",URS,Women,floor exercises,Gold,0
+1972,Gymnastics,Artistic G.,"LAZAKOVICH, Tamara",URS,Women,floor exercises,Bronze,0
+1972,Gymnastics,Artistic G.,"NAKAYAMA, Akinori",JPN,Men,floor exercises,Silver,0
+1972,Gymnastics,Artistic G.,"ANDRIANOV, Nikolay",URS,Men,floor exercises,Gold,0
+1972,Gymnastics,Artistic G.,"KASAMATSU, Shigeru",JPN,Men,floor exercises,Bronze,0
+1972,Gymnastics,Artistic G.,"LAZAKOVICH, Tamara",URS,Women,balance beam,Silver,0
+1972,Gymnastics,Artistic G.,"KORBUT, Olga",URS,Women,balance beam,Gold,0
+1972,Football,Football,"VIDACS, Csaba",HUN,Men,football,Silver,0
+1972,Rowing,Rowing,"MAGER, Wolfgang",GDR,Men,coxless pair (2-),Gold,0
+1972,Wrestling,Wrestling Free.,"IORGA, Vasile",ROU,Men,74 - 82kg (middleweight),Bronze,0
+1972,Rowing,Rowing,"FISCHER, Heinrich",SUI,Men,coxless pair (2-),Silver,0
+1972,Volleyball,Volleyball,"OINUMA, Sumie",JPN,Women,volleyball,Silver,0
+1972,Volleyball,Volleyball,"MATSUMURA, Katsumi",JPN,Women,volleyball,Silver,0
+1972,Volleyball,Volleyball,"IWAHARA, Toyoko",JPN,Women,volleyball,Silver,0
+1972,Volleyball,Volleyball,"IIDA, Takako",JPN,Women,volleyball,Silver,0
+1972,Volleyball,Volleyball,"HAMA, Keiko",JPN,Women,volleyball,Silver,0
+1972,Volleyball,Volleyball,"FURUKAWA, Makiko",JPN,Women,volleyball,Silver,0
+1972,Volleyball,Volleyball,"OKAMOTO, Mariko",JPN,Women,volleyball,Silver,0
+1972,Volleyball,Volleyball,"TURINA, Lyubov",URS,Women,volleyball,Gold,0
+1972,Volleyball,Volleyball,"SARYCHEVA, Tatyana",URS,Women,volleyball,Gold,0
+1972,Volleyball,Volleyball,"SALIKHOVA, Roza",URS,Women,volleyball,Gold,0
+1972,Volleyball,Volleyball,"RYSKAL, Inna",URS,Women,volleyball,Gold,0
+1972,Volleyball,Volleyball,"PONYAEVA-TRETYAKOVA, Tatyana",URS,Women,volleyball,Gold,0
+1972,Volleyball,Volleyball,"LEONTYEVA, Galina",URS,Women,volleyball,Gold,0
+1972,Volleyball,Volleyball,"KUDREVA, Natalya",URS,Women,volleyball,Gold,0
+1972,Volleyball,Volleyball,"SMOLEEVA, Nina",URS,Women,volleyball,Gold,0
+1972,Volleyball,Volleyball,"SHIMAKAGE, Seiko",JPN,Women,volleyball,Silver,0
+1972,Volleyball,Volleyball,"SHIOKAWA, Michiko",JPN,Women,volleyball,Silver,0
+1972,Volleyball,Volleyball,"SHIRAI, Takako",JPN,Women,volleyball,Silver,0
+1972,Weightlifting,Weightlifting,"KACZMAREK, Zbigniew",POL,Men,"60 - 67.5kg, total (lightweight)",Bronze,0
+1972,Weightlifting,Weightlifting,"SHANIDZE, Dito",URS,Men,"56 - 60kg, total (featherweight)",Silver,0
+1972,Weightlifting,Weightlifting,"NURIKIAN, Norair",BUL,Men,"56 - 60kg, total (featherweight)",Gold,0
+1972,Weightlifting,Weightlifting,"BENEDEK, Janos",HUN,Men,"56 - 60kg, total (featherweight)",Bronze,0
+1972,Weightlifting,Weightlifting,"NASSIRI-SERESHT, Mohammad",IRI,Men,"52 - 56kg, total (bantamweight)",Silver,0
+1972,Weightlifting,Weightlifting,"FÃLDI, Imre",HUN,Men,"52 - 56kg, total (bantamweight)",Gold,0
+1972,Weightlifting,Weightlifting,"CHETIN, Gennadi",URS,Men,"52 - 56kg, total (bantamweight)",Bronze,0
+1972,Weightlifting,Weightlifting,"MANG, Rudolf",FRG,Men,"+ 110kg, total (super heavyweight)",Silver,0
+1972,Weightlifting,Weightlifting,"ALEKSEYEV, Vasily",URS,Men,"+ 110kg, total (super heavyweight)",Gold,0
+1972,Weightlifting,Weightlifting,"BONK, Gerd",GDR,Men,"+ 110kg, total (super heavyweight)",Bronze,0
+1972,Weightlifting,Weightlifting,"SZÃCS, Lajos",HUN,Men,"- 52kg, total (flyweight)",Silver,0
+1972,Weightlifting,Weightlifting,"SMALCERZ, Zygmunt",POL,Men,"- 52kg, total (flyweight)",Gold,0
+1972,Weightlifting,Weightlifting,"HOLCZREITER, Sandor",HUN,Men,"- 52kg, total (flyweight)",Bronze,0
+1972,Volleyball,Volleyball,"YAMAZAKI, Yaeko",JPN,Women,volleyball,Silver,0
+1972,Volleyball,Volleyball,"YAMASHITA, Noriko",JPN,Women,volleyball,Silver,0
+1972,Volleyball,Volleyball,"GONOBOBLEVA, Tatyana",URS,Women,volleyball,Gold,0
+1972,Weightlifting,Weightlifting,"KIRZHINOV, Mukharbi",URS,Men,"60 - 67.5kg, total (lightweight)",Gold,0
+1972,Volleyball,Volleyball,"GALUSHKA-DUYUNOVA, Vera",URS,Women,volleyball,Gold,0
+1972,Volleyball,Volleyball,"BOROZNA, Lyudmila",URS,Women,volleyball,Gold,0
+1972,Volleyball,Volleyball,"MAUNE, Jurgen",GDR,Men,volleyball,Silver,0
+1972,Volleyball,Volleyball,"MAIBOHM, Wolfgang",GDR,Men,volleyball,Silver,0
+1972,Volleyball,Volleyball,"LÃWE, Wolfgang",GDR,Men,volleyball,Silver,0
+1972,Volleyball,Volleyball,"HAGEN, Horst",GDR,Men,volleyball,Silver,0
+1972,Volleyball,Volleyball,"YOKOTA, Tadayoshi",JPN,Men,volleyball,Gold,0
+1972,Volleyball,Volleyball,"SHIMAOKA, Kenji",JPN,Men,volleyball,Gold,0
+1972,Volleyball,Volleyball,"PETER, Horst",GDR,Men,volleyball,Silver,0
+1972,Volleyball,Volleyball,"SATO, Tetsuo",JPN,Men,volleyball,Gold,0
+1972,Volleyball,Volleyball,"NOGUCHI, Yasuhiro",JPN,Men,volleyball,Gold,0
+1972,Volleyball,Volleyball,"NISHIMOTO, Tetsuo",JPN,Men,volleyball,Gold,0
+1972,Volleyball,Volleyball,"NEKODA, Katsutoshi",JPN,Men,volleyball,Gold,0
+1972,Volleyball,Volleyball,"NAKAMURA, Yuzo",JPN,Men,volleyball,Gold,0
+1972,Volleyball,Volleyball,"MORITA, Jungo",JPN,Men,volleyball,Gold,0
+1972,Volleyball,Volleyball,"MINAMI, Masayuki",JPN,Men,volleyball,Gold,0
+1972,Volleyball,Volleyball,"OKO, Seiji",JPN,Men,volleyball,Gold,0
+1972,Volleyball,Volleyball,"PIETZSCH, Eckehard",GDR,Men,volleyball,Silver,0
+1972,Volleyball,Volleyball,"SCHNEIDER, Siegfried",GDR,Men,volleyball,Silver,0
+1972,Volleyball,Volleyball,"SCHULZ, Arnold",GDR,Men,volleyball,Silver,0
+1972,Volleyball,Volleyball,"RYOM, Chun Ja",PRK,Women,volleyball,Bronze,0
+1972,Volleyball,Volleyball,"RI, Chun Ok",PRK,Women,volleyball,Bronze,0
+1972,Volleyball,Volleyball,"PAEK, Myong Suk",PRK,Women,volleyball,Bronze,0
+1972,Volleyball,Volleyball,"KIM, Un Ja",PRK,Women,volleyball,Bronze,0
+1972,Volleyball,Volleyball,"KIM, Su Dae",PRK,Women,volleyball,Bronze,0
+1972,Volleyball,Volleyball,"KIM, Myong Suk",PRK,Women,volleyball,Bronze,0
+1972,Volleyball,Volleyball,"KIM, Jung Bok",PRK,Women,volleyball,Bronze,0
+1972,Volleyball,Volleyball,"KANG, Ok Sun",PRK,Women,volleyball,Bronze,0
+1972,Volleyball,Volleyball,"HWANG, Hye Suk",PRK,Women,volleyball,Bronze,0
+1972,Volleyball,Volleyball,"CHONG, Ok Jin",PRK,Women,volleyball,Bronze,0
+1972,Volleyball,Volleyball,"CHANG, Ok Rim",PRK,Women,volleyball,Bronze,0
+1972,Volleyball,Volleyball,"WEISE, Wolfgang",GDR,Men,volleyball,Silver,0
+1972,Volleyball,Volleyball,"WEBNER, Wolfgang",GDR,Men,volleyball,Silver,0
+1972,Volleyball,Volleyball,"TSCHARKE, Rainer",GDR,Men,volleyball,Silver,0
+1972,Volleyball,Volleyball,"SCHUMANN, Rudi",GDR,Men,volleyball,Silver,0
+1972,Volleyball,Volleyball,"BULDAKOVA, Lyudmila",URS,Women,volleyball,Gold,0
+1972,Volleyball,Volleyball,"KIMURA, Kenji",JPN,Men,volleyball,Gold,0
+1972,Weightlifting,Weightlifting,"KUTCHEV, Mladen",BUL,Men,"60 - 67.5kg, total (lightweight)",Silver,0
+1972,Weightlifting,Weightlifting,"BIKOV, Yordan",BUL,Men,"67.5 - 75kg, total (middleweight)",Gold,0
+1972,Wrestling,Wrestling Gre-R,"VEIL, Hans-JÃ¼rgen",FRG,Men,52 - 57kg (bantamweight),Silver,0
+1972,Wrestling,Wrestling Gre-R,"KAZAKOV, Rustem",URS,Men,52 - 57kg (bantamweight),Gold,0
+1972,Wrestling,Wrestling Gre-R,"BJÃRLIN, Risto",FIN,Men,52 - 57kg (bantamweight),Bronze,0
+1972,Wrestling,Wrestling Gre-R,"HIRAYAMA, Koichiro",JPN,Men,48 - 52kg (flyweight),Silver,0
+1972,Wrestling,Wrestling Gre-R,"KIROV, Petar",BUL,Men,48 - 52kg (flyweight),Gold,0
+1972,Wrestling,Wrestling Gre-R,"BOGNANNI, Giuseppe",ITA,Men,48 - 52kg (flyweight),Bronze,0
+1972,Wrestling,Wrestling Gre-R,"LIPIEN, Kazimierz",POL,Men,57 - 62kg (featherweight),Bronze,0
+1972,Wrestling,Wrestling Gre-R,"TOMOV, Aleksandr",BUL,Men,+ 100kg (super heavyweight),Silver,0
+1972,Wrestling,Wrestling Gre-R,"DOLIPSCHI, Victor",ROU,Men,+ 100kg (super heavyweight),Bronze,0
+1972,Wrestling,Wrestling Gre-R,"ALIABADI, Rahim",IRI,Men,- 48kg (light-flyweight),Silver,0
+1972,Wrestling,Wrestling Gre-R,"BERCEANU, Gheorghe",ROU,Men,- 48kg (light-flyweight),Gold,0
+1972,Wrestling,Wrestling Gre-R,"ANGELOV, Stefan",BUL,Men,- 48kg (light-flyweight),Bronze,0
+1972,Wrestling,Wrestling Free.,"BAYANMUNK, Khorloo",MGL,Men,90 - 100kg (heavyweight),Silver,0
+1972,Wrestling,Wrestling Free.,"YARYGIN, Ivan",URS,Men,90 - 100kg (heavyweight),Gold,0
+1972,Wrestling,Wrestling Gre-R,"ROSHCHIN, Anatoli",URS,Men,+ 100kg (super heavyweight),Gold,0
+1972,Wrestling,Wrestling Gre-R,"MARKOV, Georghi",BUL,Men,57 - 62kg (featherweight),Gold,0
+1972,Wrestling,Wrestling Gre-R,"WEHLING, Heinz-Helmut",GDR,Men,57 - 62kg (featherweight),Silver,0
+1972,Wrestling,Wrestling Gre-R,"RANZI, Gian Matteo",ITA,Men,62 - 68kg (lightweight),Bronze,0
+1972,Fencing,Fencing,"BOBIS-FERKASINSZKY, Ildiko",HUN,Women,foil team,Silver,0
+1972,Wrestling,Wrestling Gre-R,"YAKOVENKO, Nikolai",URS,Men,90 - 100kg (heavyweight),Silver,0
+1972,Wrestling,Wrestling Gre-R,"MARTINESCU, Nicolae",ROU,Men,90 - 100kg (heavyweight),Gold,0
+1972,Wrestling,Wrestling Gre-R,"KISS, Ferenc",HUN,Men,90 - 100kg (heavyweight),Bronze,0
+1972,Wrestling,Wrestling Gre-R,"CORAK, Josip",YUG,Men,82 - 90kg (light-heavyweight),Silver,0
+1972,Wrestling,Wrestling Gre-R,"REZANTSEV, Valeri",URS,Men,82 - 90kg (light-heavyweight),Gold,0
+1972,Wrestling,Wrestling Gre-R,"KWIECINSKI, Czeslaw",POL,Men,82 - 90kg (light-heavyweight),Bronze,0
+1972,Wrestling,Wrestling Gre-R,"NAZARENKO, Anatoli",URS,Men,74 - 82kg (middleweight),Silver,0
+1972,Wrestling,Wrestling Gre-R,"HEGEDÃS, Csaba",HUN,Men,74 - 82kg (middleweight),Gold,0
+1972,Wrestling,Wrestling Gre-R,"NENADIC, Milovan",YUG,Men,74 - 82kg (middleweight),Bronze,0
+1972,Wrestling,Wrestling Gre-R,"GALAKTOPOULOS, Petros",GRE,Men,68 - 74kg (welterweight),Silver,0
+1972,Wrestling,Wrestling Gre-R,"MACHA, Vitezslav",TCH,Men,68 - 74kg (welterweight),Gold,0
+1972,Wrestling,Wrestling Gre-R,"KARLSSON, Jan",SWE,Men,68 - 74kg (welterweight),Bronze,0
+1972,Wrestling,Wrestling Gre-R,"APOSTOLOV, Stoyan",BUL,Men,62 - 68kg (lightweight),Silver,0
+1972,Wrestling,Wrestling Gre-R,"KHISAMUTDINOV, Shamil",URS,Men,62 - 68kg (lightweight),Gold,0
+1972,Wrestling,Wrestling Free.,"CSATARI, Jozsef",HUN,Men,90 - 100kg (heavyweight),Bronze,0
+1972,Weightlifting,Weightlifting,"SILVINO, Anselmo",ITA,Men,"67.5 - 75kg, total (middleweight)",Bronze,0
+1972,Wrestling,Wrestling Free.,"STRAKHOV, Gennadi",URS,Men,82 - 90kg (light-heavyweight),Silver,0
+1972,Wrestling,Wrestling Free.,"BAJKO, Karoly",HUN,Men,82 - 90kg (light-heavyweight),Bronze,0
+1972,Wrestling,Wrestling Free.,"TAYLOR, Christopher J.",USA,Men,+ 100kg (super heavyweight),Bronze,0
+1972,Wrestling,Wrestling Free.,"NIKOLOV, Ognian",BUL,Men,- 48kg (light-flyweight),Silver,0
+1972,Wrestling,Wrestling Free.,"DMITRIEV, Roman",URS,Men,- 48kg (light-flyweight),Gold,0
+1972,Wrestling,Wrestling Free.,"JAVADIPOUR, Ebrahim",IRI,Men,- 48kg (light-flyweight),Bronze,0
+1972,Weightlifting,Weightlifting,"KRAITCHEV, Aleksandar",BUL,Men,"91 - 110kg, total (heavyweight)",Silver,0
+1972,Weightlifting,Weightlifting,"TALTS, Yan",URS,Men,"91 - 110kg, total (heavyweight)",Gold,0
+1972,Wrestling,Wrestling Free.,"MEDVED, Aleksandr",URS,Men,+ 100kg (super heavyweight),Gold,0
+1972,Weightlifting,Weightlifting,"GRÃTZNER, Stefan",GDR,Men,"91 - 110kg, total (heavyweight)",Bronze,0
+1972,Weightlifting,Weightlifting,"NIKOLOV, Andon",BUL,Men,"82.5 - 90kg, total (middle-heavyweight)",Gold,0
+1972,Weightlifting,Weightlifting,"BETTEMBOURG, Hans",SWE,Men,"82.5 - 90kg, total (middle-heavyweight)",Bronze,0
+1972,Weightlifting,Weightlifting,"OZIMEK, Norbert",POL,Men,"75 - 82.5kg, total (light-heavyweight)",Silver,0
+1972,Weightlifting,Weightlifting,"JENSSEN, Leif Goran",NOR,Men,"75 - 82.5kg, total (light-heavyweight)",Gold,0
+1972,Weightlifting,Weightlifting,"HORVATH, GyÃ¶rgy",HUN,Men,"75 - 82.5kg, total (light-heavyweight)",Bronze,0
+1972,Weightlifting,Weightlifting,"TARABULSI, Kheir Mohamed",LIB,Men,"67.5 - 75kg, total (middleweight)",Silver,0
+1972,Weightlifting,Weightlifting,"SHOPOV, Atanas",BUL,Men,"82.5 - 90kg, total (middle-heavyweight)",Silver,0
+1972,Wrestling,Wrestling Free.,"DURALIEV, Osman",BUL,Men,+ 100kg (super heavyweight),Silver,0
+1972,Wrestling,Wrestling Free.,"KIM, Gwong Hyong",PRK,Men,48 - 52kg (flyweight),Bronze,0
+1972,Wrestling,Wrestling Free.,"KATO, Kiyomi",JPN,Men,48 - 52kg (flyweight),Gold,0
+1972,Wrestling,Wrestling Free.,"PETERSON, John Allan",USA,Men,74 - 82kg (middleweight),Silver,0
+1972,Wrestling,Wrestling Free.,"TEDIASHVILI, Levan",URS,Men,74 - 82kg (middleweight),Gold,0
+1972,Wrestling,Wrestling Free.,"KARLSSON, Jan",SWE,Men,68 - 74kg (welterweight),Silver,0
+1972,Wrestling,Wrestling Free.,"WELLS, Wayne Turner",USA,Men,68 - 74kg (welterweight),Gold,0
+1972,Wrestling,Wrestling Free.,"SEGER, Adolf",FRG,Men,68 - 74kg (welterweight),Bronze,0
+1972,Wrestling,Wrestling Free.,"WADA, Kikuo",JPN,Men,62 - 68kg (lightweight),Silver,0
+1972,Wrestling,Wrestling Free.,"GABLE, Daniel Mack",USA,Men,62 - 68kg (lightweight),Gold,0
+1972,Wrestling,Wrestling Free.,"ASHURALIEV, Ruslan",URS,Men,62 - 68kg (lightweight),Bronze,0
+1972,Wrestling,Wrestling Free.,"AKDAG, Vehbi",TUR,Men,57 - 62kg (featherweight),Silver,0
+1972,Wrestling,Wrestling Free.,"ABDULBEKOV, Zagalav",URS,Men,57 - 62kg (featherweight),Gold,0
+1972,Wrestling,Wrestling Free.,"KRASTEV, Ivan",BUL,Men,57 - 62kg (featherweight),Bronze,0
+1972,Wrestling,Wrestling Free.,"SANDERS, Richard Joseph",USA,Men,52 - 57kg (bantamweight),Silver,0
+1972,Wrestling,Wrestling Free.,"YANAGIDA, Hideaki",JPN,Men,52 - 57kg (bantamweight),Gold,0
+1972,Wrestling,Wrestling Free.,"KLINGA, Laszlo",HUN,Men,52 - 57kg (bantamweight),Bronze,0
+1972,Wrestling,Wrestling Free.,"ALAKHVERDIEV, Arsen",URS,Men,48 - 52kg (flyweight),Silver,0
+1972,Wrestling,Wrestling Free.,"PETERSON, Benjamin Lee",USA,Men,82 - 90kg (light-heavyweight),Gold,0
+1972,Volleyball,Volleyball,"FUKAO, Yoshihide",JPN,Men,volleyball,Gold,0
+1972,Volleyball,Volleyball,"ZAIKO, Leonid",URS,Men,volleyball,Bronze,0
+1972,Volleyball,Volleyball,"STARUNSKY, Yuri",URS,Men,volleyball,Bronze,0
+1972,Rowing,Rowing,"AUER, Gerhard",FRG,Men,four-oared shell with coxswain (4-),Gold,0
+1972,Rowing,Rowing,"PROVAZNIK, Frantisek",TCH,Men,four-oared shell with coxswain (4-),Bronze,0
+1972,Rowing,Rowing,"PETRICEK, Vladimir",TCH,Men,four-oared shell with coxswain (4-),Bronze,0
+1972,Rowing,Rowing,"NEFFE, Karel",TCH,Men,four-oared shell with coxswain (4-),Bronze,0
+1972,Rowing,Rowing,"MARECEK, Otakar",TCH,Men,four-oared shell with coxswain (4-),Bronze,0
+1972,Rowing,Rowing,"JANOS, Vladimir",TCH,Men,four-oared shell with coxswain (4-),Bronze,0
+1972,Rowing,Rowing,"BENTER, Uwe",FRG,Men,four-oared shell with coxswain (4-),Gold,0
+1972,Rowing,Rowing,"TONKS, Richard",NZL,Men,four without coxswain (4-),Silver,0
+1972,Rowing,Rowing,"MILLS, Noel",NZL,Men,four without coxswain (4-),Silver,0
+1972,Rowing,Rowing,"COLLINGE, Ross Hounsell",NZL,Men,four without coxswain (4-),Silver,0
+1972,Rowing,Rowing,"SCHUBERT, Dieter",GDR,Men,four without coxswain (4-),Gold,0
+1972,Rowing,Rowing,"RÃHLE, Frank",GDR,Men,four without coxswain (4-),Gold,0
+1972,Rowing,Rowing,"GRAHN, Dieter",GDR,Men,four without coxswain (4-),Gold,0
+1972,Rowing,Rowing,"FORBERGER, Frank",GDR,Men,four without coxswain (4-),Gold,0
+1972,Rowing,Rowing,"STOREY, Dudley Leonard",NZL,Men,four without coxswain (4-),Silver,0
+1972,Rowing,Rowing,"BERGER, Peter",FRG,Men,four-oared shell with coxswain (4-),Gold,0
+1972,Rowing,Rowing,"BIERL, Alois",FRG,Men,four-oared shell with coxswain (4-),Gold,0
+1972,Rowing,Rowing,"FÃRBER, Hans-Johann",FRG,Men,four-oared shell with coxswain (4-),Gold,0
+1972,Rowing,Rowing,"GÃLDENPFENNIG, Wolfgang",GDR,Men,single sculls (1x),Bronze,0
+1972,Rowing,Rowing,"SVOJANOVSKY, Pavel",TCH,Men,pair-oared shell with coxswain (2+),Silver,0
+1972,Rowing,Rowing,"SVOJANOVSKY, Oldrich",TCH,Men,pair-oared shell with coxswain (2+),Silver,0
+1972,Rowing,Rowing,"PETRICEK, Vladimir",TCH,Men,pair-oared shell with coxswain (2+),Silver,0
+1972,Rowing,Rowing,"NEUBERT, Klaus-Dieter",GDR,Men,pair-oared shell with coxswain (2+),Gold,0
+1972,Rowing,Rowing,"LUCKE, JÃ¶rg",GDR,Men,pair-oared shell with coxswain (2+),Gold,0
+1972,Rowing,Rowing,"GUNKEL, Wolfgang",GDR,Men,pair-oared shell with coxswain (2+),Gold,0
+1972,Rowing,Rowing,"TUDOR, Stefan",ROU,Men,pair-oared shell with coxswain (2+),Bronze,0
+1972,Rowing,Rowing,"LOVRENSCHI, Ladislau",ROU,Men,pair-oared shell with coxswain (2+),Bronze,0
+1972,Rowing,Rowing,"CEAPURA, Petre",ROU,Men,pair-oared shell with coxswain (2+),Bronze,0
+1972,Rowing,Rowing,"ZANDER, Dietrich",GDR,Men,four-oared shell with coxswain (4-),Silver,0
+1972,Rowing,Rowing,"MARTENS, Eckhard",GDR,Men,four-oared shell with coxswain (4-),Silver,0
+1972,Rowing,Rowing,"LUDWIG, Klaus-Dieter",GDR,Men,four-oared shell with coxswain (4-),Silver,0
+1972,Rowing,Rowing,"JOBST, Rolf",GDR,Men,four-oared shell with coxswain (4-),Silver,0
+1972,Rowing,Rowing,"GUST, Reinhard",GDR,Men,four-oared shell with coxswain (4-),Silver,0
+1972,Rowing,Rowing,"PLOTTKE, Wolfgang",FRG,Men,four without coxswain (4-),Bronze,0
+1972,Rowing,Rowing,"MALISHEV, Yuri",URS,Men,single sculls (1x),Gold,0
+1972,Rowing,Rowing,"HELD, Franz",FRG,Men,four without coxswain (4-),Bronze,0
+1972,Rowing,Rowing,"EHRIG, Joachim Werner",FRG,Men,four without coxswain (4-),Bronze,0
+1972,Rowing,Rowing,"SCHREIBER, Hartmut",GDR,Men,eight with coxswain (8+),Bronze,0
+1972,Rowing,Rowing,"SCHNEIDER, Manfred",GDR,Men,eight with coxswain (8+),Bronze,0
+1972,Rowing,Rowing,"SCHMORDE, Manfred",GDR,Men,eight with coxswain (8+),Bronze,0
+1972,Rowing,Rowing,"MEDEROW, Heinrich",GDR,Men,eight with coxswain (8+),Bronze,0
+1972,Rowing,Rowing,"LANDVOIGT, JÃ¶rg",GDR,Men,eight with coxswain (8+),Bronze,0
+1972,Rowing,Rowing,"LANDVOIGT, Bernd",GDR,Men,eight with coxswain (8+),Bronze,0
+1972,Rowing,Rowing,"SCHWARZ, Dietmar",GDR,Men,eight with coxswain (8+),Bronze,0
+1972,Rowing,Rowing,"DIMKE, Harold",GDR,Men,eight with coxswain (8+),Bronze,0
+1972,Rowing,Rowing,"THÃGERSEN, Svein Th.",NOR,Men,double sculls (2x),Silver,0
+1972,Rowing,Rowing,"HANSEN, Frank",NOR,Men,double sculls (2x),Silver,0
+1972,Rowing,Rowing,"TIMOSHININ, Aleksandr",URS,Men,double sculls (2x),Gold,0
+1972,Rowing,Rowing,"KORSHIKOV, Gennadi",URS,Men,double sculls (2x),Gold,0
+1972,Rowing,Rowing,"SCHMIED, Hans-Ulrich",GDR,Men,double sculls (2x),Bronze,0
+1972,Rowing,Rowing,"BÃHMER, Joachim",GDR,Men,double sculls (2x),Bronze,0
+1972,Rowing,Rowing,"BORZYM, Hans-Joachim",GDR,Men,eight with coxswain (8+),Bronze,0
+1972,Rowing,Rowing,"COKER, Trevor",NZL,Men,eight with coxswain (8+),Gold,0
+1972,Rowing,Rowing,"DICKIE, Simon Charles",NZL,Men,eight with coxswain (8+),Gold,0
+1972,Rowing,Rowing,"EARL, Athol",NZL,Men,eight with coxswain (8+),Gold,0
+1972,Rowing,Rowing,"TERRY, Lawrence Jr.",USA,Men,eight with coxswain (8+),Silver,0
+1972,Rowing,Rowing,"RAYMOND, Peter Harlow",USA,Men,eight with coxswain (8+),Silver,0
+1972,Rowing,Rowing,"MICKELSON, Timothy Carl",USA,Men,eight with coxswain (8+),Silver,0
+1972,Rowing,Rowing,"LIVINGSTON, Michael Kent",USA,Men,eight with coxswain (8+),Silver,0
+1972,Rowing,Rowing,"LIVINGSTON, John Cleve",USA,Men,eight with coxswain (8+),Silver,0
+1972,Rowing,Rowing,"HOFFMAN, Paul",USA,Men,eight with coxswain (8+),Silver,0
+1972,Rowing,Rowing,"HOBBS, William Barton Rogers",USA,Men,eight with coxswain (8+),Silver,0
+1972,Rowing,Rowing,"HOBBS, Franklin Warren Iv",USA,Men,eight with coxswain (8+),Silver,0
+1972,Rowing,Rowing,"CLAPP, Eugene Howard Iv",USA,Men,eight with coxswain (8+),Silver,0
+1972,Rowing,Rowing,"WILSON, Lindsay",NZL,Men,eight with coxswain (8+),Gold,0
+1972,Rowing,Rowing,"VELDMAN, Gerard Wybo",NZL,Men,eight with coxswain (8+),Gold,0
+1972,Rowing,Rowing,"ROBERTSON, Gary",NZL,Men,eight with coxswain (8+),Gold,0
+1972,Rowing,Rowing,"JOYCE, Richard John",NZL,Men,eight with coxswain (8+),Gold,0
+1972,Rowing,Rowing,"HURT, Anthony",NZL,Men,eight with coxswain (8+),Gold,0
+1972,Rowing,Rowing,"HUNTER, John Andrew",NZL,Men,eight with coxswain (8+),Gold,0
+1972,Rowing,Rowing,"FUNNEKÃTTER, Peter",FRG,Men,four without coxswain (4-),Bronze,0
+1972,Rowing,Rowing,"DEMIDDI, Alberto",ARG,Men,single sculls (1x),Silver,0
+1972,Sailing,Sailing,"COHAN, Donald Smith",USA,Men,dragon,Bronze,0
+1972,Sailing,Sailing,"HORTER, Charles John",USA,Men,dragon,Bronze,0
+1972,Shooting,Shooting,"AUER, Victor Lee",USA,Men,50m rifle prone (60 shots),Silver,0
+1972,Shooting,Shooting,"LI, Ho-Jun",PRK,Men,50m rifle prone (60 shots),Gold,0
+1972,Shooting,Shooting,"ROTARU, Nicolae",ROU,Men,50m rifle prone (60 shots),Bronze,0
+1972,Shooting,Shooting,"BASSHAM, Lance Robert",USA,Men,50m rifle 3 positions (3x40 shots),Silver,0
+1972,Shooting,Shooting,"WRITER, John Henry",USA,Men,50m rifle 3 positions (3x40 shots),Gold,0
+1972,Shooting,Shooting,"LIPPOLDT, Werner",GDR,Men,50m rifle 3 positions (3x40 shots),Bronze,0
+1972,Shooting,Shooting,"KYNOCH, John Marriott",GBR,Men,50m running target (30+30 shots),Bronze,0
+1972,Shooting,Shooting,"IUGA, Daniel",ROU,Men,50m pistol (60 shots),Silver,0
+1972,Shooting,Shooting,"DOLLINGER, Rudolf",AUT,Men,50m pistol (60 shots),Bronze,0
+1972,Shooting,Shooting,"MELNIK, Boris",URS,Men,300m free rifle 3 positions (3x40 shots),Silver,0
+1972,Shooting,Shooting,"WIGGER, Lones Wesley Jr.",USA,Men,300m free rifle 3 positions (3x40 shots),Gold,0
+1972,Shooting,Shooting,"PAPP, Lajos",HUN,Men,300m free rifle 3 positions (3x40 shots),Bronze,0
+1972,Shooting,Shooting,"FALTA, Ladislav",TCH,Men,25m rapid fire pistol (60 shots),Silver,0
+1972,Shooting,Shooting,"ZAPEDZKI, Jozef",POL,Men,25m rapid fire pistol (60 shots),Gold,0
+1972,Shooting,Shooting,"SKANÃKER, Ragnar",SWE,Men,50m pistol (60 shots),Gold,0
+1972,Shooting,Shooting,"ZHELEZNYAK, Yakov",URS,Men,50m running target (30+30 shots),Gold,0
+1972,Shooting,Shooting,"BELLINGRODT, Helmut",COL,Men,50m running target (30+30 shots),Silver,0
+1972,Shooting,Shooting,"BUCHHEIM, Michael",GDR,Men,skeet (125 targets),Bronze,0
+1972,Volleyball,Volleyball,"SAPRYKIN, Aleksandr",URS,Men,volleyball,Bronze,0
+1972,Volleyball,Volleyball,"PUTYATOV, Vladimir",URS,Men,volleyball,Bronze,0
+1972,Volleyball,Volleyball,"POYARKOV, Yuri",URS,Men,volleyball,Bronze,0
+1972,Volleyball,Volleyball,"PATKIN, Vladimir",URS,Men,volleyball,Bronze,0
+1972,Volleyball,Volleyball,"LAPINSKY, Yevgeni",URS,Men,volleyball,Bronze,0
+1972,Volleyball,Volleyball,"KRAVCHENKO, Valeri",URS,Men,volleyball,Bronze,0
+1972,Volleyball,Volleyball,"KONDRA, Vladimir",URS,Men,volleyball,Bronze,0
+1972,Volleyball,Volleyball,"DOMANI, Vyacheslav",URS,Men,volleyball,Bronze,0
+1972,Volleyball,Volleyball,"CHULAK, Yefim",URS,Men,volleyball,Bronze,0
+1972,Volleyball,Volleyball,"BORSHCH, Viktor",URS,Men,volleyball,Bronze,0
+1972,Shooting,Shooting,"CARREGA, Michel",FRA,Men,trap (125 targets),Silver,0
+1972,Shooting,Shooting,"SCALZONE, Angelo",ITA,Men,trap (125 targets),Gold,0
+1972,Shooting,Shooting,"BASAGNI, Silvano",ITA,Men,trap (125 targets),Bronze,0
+1972,Shooting,Shooting,"PETROV, Yevgeni",URS,Men,skeet (125 targets),Silver,0
+1972,Shooting,Shooting,"WIRNHIER, Konrad",FRG,Men,skeet (125 targets),Gold,0
+1972,Shooting,Shooting,"TORSHIN, Viktor",URS,Men,25m rapid fire pistol (60 shots),Bronze,0
+1972,Sailing,Sailing,"WESTERDAHL, Stellan",SWE,Men,two-person keelboat open (Star),Silver,0
+1972,Sailing,Sailing,"PETTERSON, Pelle",SWE,Men,two-person keelboat open (Star),Silver,0
+1972,Sailing,Sailing,"FORBES, David John Oliver",AUS,Men,two-person keelboat open (Star),Gold,0
+1972,Sailing,Sailing,"KROOK, Stefan",SWE,Men,fleet/match race keelboat open (Soling),Silver,0
+1972,Sailing,Sailing,"KNAPE, Bo",SWE,Men,fleet/match race keelboat open (Soling),Silver,0
+1972,Sailing,Sailing,"MELGES, Harry Clemens",USA,Men,fleet/match race keelboat open (Soling),Gold,0
+1972,Sailing,Sailing,"BENTSEN, William Bruce",USA,Men,fleet/match race keelboat open (Soling),Gold,0
+1972,Sailing,Sailing,"ALLEN, William Charles",USA,Men,fleet/match race keelboat open (Soling),Gold,0
+1972,Sailing,Sailing,"MILLER, David Sidney",CAN,Men,fleet/match race keelboat open (Soling),Bronze,0
+1972,Sailing,Sailing,"EKELS, John",CAN,Men,fleet/match race keelboat open (Soling),Bronze,0
+1972,Sailing,Sailing,"COTE, Paul",CAN,Men,fleet/match race keelboat open (Soling),Bronze,0
+1972,Sailing,Sailing,"WEICHERT, Konrad",GDR,Men,dragon,Silver,0
+1972,Sailing,Sailing,"THUN, Karl-Heinz",GDR,Men,dragon,Silver,0
+1972,Sailing,Sailing,"BOROWSKI, Paul",GDR,Men,dragon,Silver,0
+1972,Sailing,Sailing,"SHAW, John Cameron",AUS,Men,dragon,Gold,0
+1972,Sailing,Sailing,"CUNEO, John Bruce",AUS,Men,dragon,Gold,0
+1972,Sailing,Sailing,"ANDERSON, Thomas James",AUS,Men,dragon,Gold,0
+1972,Sailing,Sailing,"MARSHALL, John Knox",USA,Men,dragon,Bronze,0
+1972,Sailing,Sailing,"WENNERSTRÃ, Stig",SWE,Men,fleet/match race keelboat open (Soling),Silver,0
+1972,Rowing,Rowing,"BACHMANN, Alfred",SUI,Men,coxless pair (2-),Silver,0
+1972,Sailing,Sailing,"LIBOR, Ullrich",FRG,Men,flying dutchman,Bronze,0
+1972,Sailing,Sailing,"DAVIES, Christopher",GBR,Men,flying dutchman,Gold,0
+1972,Sailing,Sailing,"ANDERSON, John",AUS,Men,two-person keelboat open (Star),Gold,0
+1972,Sailing,Sailing,"MEYER, Max Adolf Karsten",FRG,Men,two-person keelboat open (Star),Bronze,0
+1972,Sailing,Sailing,"KUHWEIDE, Wilhelm",FRG,Men,two-person keelboat open (Star),Bronze,0
+1972,Sailing,Sailing,"WARREN, Alan Kemp",GBR,Men,tempest,Silver,0
+1972,Sailing,Sailing,"HUNT, David Charles Gower",GBR,Men,tempest,Silver,0
+1972,Sailing,Sailing,"MANKIN, Valentyn",URS,Men,tempest,Gold,0
+1972,Sailing,Sailing,"DYRDYRA, Vitali",URS,Men,tempest,Gold,0
+1972,Sailing,Sailing,"FOSTER, Glenn Seward II",USA,Men,tempest,Bronze,0
+1972,Sailing,Sailing,"DEAN, Peter Sweetser",USA,Men,tempest,Bronze,0
+1972,Sailing,Sailing,"HADZIPAVLIS, Ilias",GRE,Men,single-handed dinghy (Finn),Silver,0
+1972,Sailing,Sailing,"MAURY, Serge",FRA,Men,single-handed dinghy (Finn),Gold,0
+1972,Sailing,Sailing,"POTAPOV, Viktor",URS,Men,single-handed dinghy (Finn),Bronze,0
+1972,Sailing,Sailing,"PAJOT, Yves",FRA,Men,flying dutchman,Silver,0
+1972,Sailing,Sailing,"PAJOT, Marc",FRA,Men,flying dutchman,Silver,0
+1972,Sailing,Sailing,"PATTISSON, Rodney Stuart",GBR,Men,flying dutchman,Gold,0
+1972,Sailing,Sailing,"NAUMANN, Peter",FRG,Men,flying dutchman,Bronze,0
+1972,Fencing,Fencing,"ZABELINA, Aleksandra",URS,Women,foil team,Gold,0
+1972,Athletics,Athletics,"TARMAK, Yuri",URS,Men,high jump,Gold,0
+1972,Fencing,Fencing,"NOVIKOVA-BELOVA, Elena",URS,Women,foil team,Gold,0
+1972,Athletics,Athletics,"KEINO, Kipchoge",KEN,Men,1500m,Silver,0
+1972,Athletics,Athletics,"VASALA, Pekka",FIN,Men,1500m,Gold,0
+1972,Athletics,Athletics,"DIXON, Rodney",NZL,Men,1500m,Bronze,0
+1972,Athletics,Athletics,"DRUT, Guy",FRA,Men,110m hurdles,Silver,0
+1972,Athletics,Athletics,"MILBURN, Rodney Jr.",USA,Men,110m hurdles,Gold,0
+1972,Athletics,Athletics,"HILL, Thomas",USA,Men,110m hurdles,Bronze,0
+1972,Athletics,Athletics,"PIGNI-CACCHI, Paola",ITA,Women,1500m,Bronze,0
+1972,Athletics,Athletics,"BUFANU-STEFANESCU, Valeria",ROU,Women,100m hurdles,Silver,0
+1972,Athletics,Athletics,"RICHERT-BALZER, Karin",GDR,Women,100m hurdles,Bronze,0
+1972,Athletics,Athletics,"BOYLE, Raelene Ann",AUS,Women,100m,Silver,0
+1972,Athletics,Athletics,"STECHER, Renate",GDR,Women,100m,Gold,0
+1972,Athletics,Athletics,"CHIVAS BARO, Silvia",CUB,Women,100m,Bronze,0
+1972,Athletics,Athletics,"TAYLOR, Robert",USA,Men,100m,Silver,0
+1972,Athletics,Athletics,"BORZOV, Valery",URS,Men,100m,Gold,0
+1972,Athletics,Athletics,"EHRHARDT, Annelie",GDR,Women,100m hurdles,Gold,0
+1972,Athletics,Athletics,"BRAGINA, Lyudmila",URS,Women,1500m,Gold,0
+1972,Athletics,Athletics,"HOFFMEISTER, Gunhild",GDR,Women,1500m,Silver,0
+1972,Athletics,Athletics,"MENNEA, Pietro",ITA,Men,200m,Bronze,0
+1972,Athletics,Athletics,"HAMMOND, Kathleen",USA,Women,400m,Bronze,0
+1972,Athletics,Athletics,"COLLETT, Wayne Curtis",USA,Men,400m,Silver,0
+1972,Athletics,Athletics,"MATTHEWS, Vincent Edward",USA,Men,400m,Gold,0
+1972,Athletics,Athletics,"SANG, Julius",KEN,Men,400m,Bronze,0
+1972,Athletics,Athletics,"JIPCHO, Benjamin Wabura",KEN,Men,3000m steeplechase,Silver,0
+1972,Athletics,Athletics,"KEINO, Kipchoge",KEN,Men,3000m steeplechase,Gold,0
+1972,Athletics,Athletics,"KANTANEN, Tapio",FIN,Men,3000m steeplechase,Bronze,0
+1972,Athletics,Athletics,"GOLUBNICHY, Vladimir",URS,Men,20km walk,Silver,0
+1972,Athletics,Athletics,"FRENKEL, Peter",GDR,Men,20km walk,Gold,0
+1972,Athletics,Athletics,"REIMANN, Hans",GDR,Men,20km walk,Bronze,0
+1972,Athletics,Athletics,"BOYLE, Raelene Ann",AUS,Women,200m,Silver,0
+1972,Athletics,Athletics,"STECHER, Renate",GDR,Women,200m,Gold,0
+1972,Athletics,Athletics,"SZEWINSKA, Irena",POL,Women,200m,Bronze,0
+1972,Athletics,Athletics,"BLACK, Lawrence J.",USA,Men,200m,Silver,0
+1972,Athletics,Athletics,"BORZOV, Valery",URS,Men,200m,Gold,0
+1972,Athletics,Athletics,"MILLER, Lennox",JAM,Men,100m,Bronze,0
+1972,Athletics,Athletics,"ZEHRT, Monika",GDR,Women,400m,Gold,0
+1972,Athletics,Athletics,"PUTTEMANS, Emiel",BEL,Men,10000m,Silver,0
+1972,Athletics,Athletics,"YIFTER, Miruts",ETH,Men,10000m,Bronze,0
+1972,Aquatics,Water polo,"SHIDLOVSKY, Aleksandr",URS,Men,water polo,Gold,0
+1972,Aquatics,Water polo,"OSIPOV, Leonid",URS,Men,water polo,Gold,0
+1972,Aquatics,Water polo,"MELNIKOV, Nikolai",URS,Men,water polo,Gold,0
+1972,Aquatics,Water polo,"KABANOV, Aleksandr",URS,Men,water polo,Gold,0
+1972,Aquatics,Water polo,"GULYAEV, Vadim",URS,Men,water polo,Gold,0
+1972,Aquatics,Water polo,"DREVAL, Aleksandr",URS,Men,water polo,Gold,0
+1972,Aquatics,Water polo,"SHMUDSKY, Vladimir",URS,Men,water polo,Gold,0
+1972,Aquatics,Water polo,"DOLGUSHIN, Aleksandr",URS,Men,water polo,Gold,0
+1972,Aquatics,Water polo,"AKIMOV, Anatoli",URS,Men,water polo,Gold,0
+1972,Aquatics,Water polo,"WEITZENBERG, Charles Barry",USA,Men,water polo,Bronze,0
+1972,Aquatics,Water polo,"WEBB, Russell Irving",USA,Men,water polo,Bronze,0
+1972,Aquatics,Water polo,"SLATTON, James Walter",USA,Men,water polo,Bronze,0
+1972,Aquatics,Water polo,"SHEERER, Gary Peter",USA,Men,water polo,Bronze,0
+1972,Aquatics,Water polo,"PARKER, John Michael",USA,Men,water polo,Bronze,0
+1972,Aquatics,Water polo,"BARKALOV, Aleksei",URS,Men,water polo,Gold,0
+1972,Aquatics,Water polo,"SOBCHENKO, Viacheslav",URS,Men,water polo,Gold,0
+1972,Aquatics,Water polo,"BODNAR, Andras",HUN,Men,water polo,Silver,0
+1972,Aquatics,Water polo,"CSERVENYAK, Tibor",HUN,Men,water polo,Silver,0
+1972,Archery,Archery,"SZYDLOWSKA, Irena",POL,Women,individual FITA round,Silver,0
+1972,Archery,Archery,"WILBER, Doreen Viola Hansen",USA,Women,individual FITA round,Gold,0
+1972,Archery,Archery,"GAPCHENKO, Emma",URS,Women,individual FITA round,Bronze,0
+1972,Archery,Archery,"JERVILL, Gunnar",SWE,Men,individual FITA round,Silver,0
+1972,Archery,Archery,"WILLIAMS, John Chester",USA,Men,individual FITA round,Gold,0
+1972,Archery,Archery,"LAASONEN, KyÃ¶sti Kalevi",FIN,Men,individual FITA round,Bronze,0
+1972,Aquatics,Water polo,"SZIVOS, Istvan",HUN,Men,water polo,Silver,0
+1972,Aquatics,Water polo,"SAROSI, Laszlo",HUN,Men,water polo,Silver,0
+1972,Aquatics,Water polo,"POCSIK, Denes",HUN,Men,water polo,Silver,0
+1972,Aquatics,Water polo,"MOLNAR, Endre",HUN,Men,water polo,Silver,0
+1972,Aquatics,Water polo,"MAGAS, Istvan",HUN,Men,water polo,Silver,0
+1972,Aquatics,Water polo,"KONRAD, Ferenc",HUN,Men,water polo,Silver,0
+1972,Aquatics,Water polo,"KASAS, Zoltan",HUN,Men,water polo,Silver,0
+1972,Aquatics,Water polo,"GÃRGENYI, Istvan",HUN,Men,water polo,Silver,0
+1972,Aquatics,Water polo,"FARAGO, Tamas",HUN,Men,water polo,Silver,0
+1972,Athletics,Athletics,"VIREN, Lasse",FIN,Men,10000m,Gold,0
+1972,Aquatics,Water polo,"LINDROTH, Eric Emil",USA,Men,water polo,Bronze,0
+1972,Athletics,Athletics,"WILDEN-JAHN, Rita",FRG,Women,400m,Silver,0
+1972,Athletics,Athletics,"AKII-BUA, John",UGA,Men,400m hurdles,Gold,0
+1972,Athletics,Athletics,"VIREN, Lasse",FIN,Men,5000m,Gold,0
+1972,Athletics,Athletics,"STEWART, Ian",GBR,Men,5000m,Bronze,0
+1972,Athletics,Athletics,"TOUSSAINT, Cheryl Renee",USA,Women,4x400m relay,Silver,0
+1972,Athletics,Athletics,"MANNING-JACKSON, Madeline",USA,Women,4x400m relay,Silver,0
+1972,Athletics,Athletics,"HAMMOND, Kathleen",USA,Women,4x400m relay,Silver,0
+1972,Athletics,Athletics,"FERGERSON, Mabel",USA,Women,4x400m relay,Silver,0
+1972,Athletics,Athletics,"GAMMOUDI, Mohamed",TUN,Men,5000m,Silver,0
+1972,Athletics,Athletics,"ZEHRT, Monika",GDR,Women,4x400m relay,Gold,0
+1972,Athletics,Athletics,"KÃHNE, Rita",GDR,Women,4x400m relay,Gold,0
+1972,Athletics,Athletics,"KÃSLING, Dagmar",GDR,Women,4x400m relay,Gold,0
+1972,Athletics,Athletics,"WILDEN-JAHN, Rita",FRG,Women,4x400m relay,Bronze,0
+1972,Athletics,Athletics,"RÃCKES, Anette",FRG,Women,4x400m relay,Bronze,0
+1972,Athletics,Athletics,"FALCK-JANZE, Hildegard",FRG,Women,4x400m relay,Bronze,0
+1972,Athletics,Athletics,"BÃDDING-ECKHOFF, Inge",FRG,Women,4x400m relay,Bronze,0
+1972,Athletics,Athletics,"SEIDLER, Helga",GDR,Women,4x400m relay,Gold,0
+1972,Athletics,Athletics,"YOUNG, Lawrence Dean",USA,Men,50km walk,Bronze,0
+1972,Athletics,Athletics,"KANNENBERG, Bernd",FRG,Men,50km walk,Gold,0
+1972,Athletics,Athletics,"SOLDATENKO, Veniamin",URS,Men,50km walk,Silver,0
+1972,Athletics,Athletics,"MENIS, Argentina",ROU,Women,discus throw,Silver,0
+1972,Athletics,Athletics,"MELNIK, Faina",URS,Women,discus throw,Gold,0
+1972,Athletics,Athletics,"STOEVA, Vassilka",BUL,Women,discus throw,Bronze,0
+1972,Athletics,Athletics,"SILVESTER, L.Jay",USA,Men,discus throw,Silver,0
+1972,Athletics,Athletics,"DANEK, Ludvik",TCH,Men,discus throw,Gold,0
+1972,Athletics,Athletics,"BRUCH, Rickard",SWE,Men,discus throw,Bronze,0
+1972,Athletics,Athletics,"LITVINENKO, Leonid",URS,Men,decathlon,Silver,0
+1972,Athletics,Athletics,"AVILOV, Nikolai",URS,Men,decathlon,Gold,0
+1972,Athletics,Athletics,"KATUS, Ryszard",POL,Men,decathlon,Bronze,0
+1972,Athletics,Athletics,"SABAITE, Niole",URS,Women,800m,Silver,0
+1972,Athletics,Athletics,"FALCK-JANZE, Hildegard",FRG,Women,800m,Gold,0
+1972,Athletics,Athletics,"HOFFMEISTER, Gunhild",GDR,Women,800m,Bronze,0
+1972,Athletics,Athletics,"ARZHANOV, Yevgeni",URS,Men,800m,Silver,0
+1972,Athletics,Athletics,"WOTTLE, David James",USA,Men,800m,Gold,0
+1972,Athletics,Athletics,"BOIT, Michael",KEN,Men,800m,Bronze,0
+1972,Athletics,Athletics,"REYNOLDS, Martin Edward",GBR,Men,4x400m relay,Silver,0
+1972,Athletics,Athletics,"HEMERY, David Peter",GBR,Men,400m hurdles,Bronze,0
+1972,Athletics,Athletics,"PASCOE, Alan Peter",GBR,Men,4x400m relay,Silver,0
+1972,Athletics,Athletics,"HEMERY, David Peter",GBR,Men,4x400m relay,Silver,0
+1972,Athletics,Athletics,"CHIVAS BARO, Silvia",CUB,Women,4x100m relay,Bronze,0
+1972,Athletics,Athletics,"SILOVS, Yuris",URS,Men,4x100m relay,Silver,0
+1972,Athletics,Athletics,"LOVETSKY, Vladimir",URS,Men,4x100m relay,Silver,0
+1972,Athletics,Athletics,"KORNELYUK, Aleksandr",URS,Men,4x100m relay,Silver,0
+1972,Athletics,Athletics,"BORZOV, Valery",URS,Men,4x100m relay,Silver,0
+1972,Athletics,Athletics,"TINKER, Gerald A.",USA,Men,4x100m relay,Gold,0
+1972,Athletics,Athletics,"ELEJALDE DIAZ, Marlene",CUB,Women,4x100m relay,Bronze,0
+1972,Athletics,Athletics,"TAYLOR, Robert",USA,Men,4x100m relay,Gold,0
+1972,Athletics,Athletics,"BLACK, Lawrence J.",USA,Men,4x100m relay,Gold,0
+1972,Athletics,Athletics,"WUCHERER, Gerhard",FRG,Men,4x100m relay,Bronze,0
+1972,Athletics,Athletics,"KLOTZ, Karlheinz",FRG,Men,4x100m relay,Bronze,0
+1972,Athletics,Athletics,"HIRSCHT, Jobst",FRG,Men,4x100m relay,Bronze,0
+1972,Athletics,Athletics,"EHL, Klaus",FRG,Men,4x100m relay,Bronze,0
+1972,Athletics,Athletics,"MANN, Ralph Vernon",USA,Men,400m hurdles,Silver,0
+1972,Athletics,Athletics,"HART, Edward James",USA,Men,4x100m relay,Gold,0
+1972,Athletics,Athletics,"ROMAY MARTINEZ, Fulgencia",CUB,Women,4x100m relay,Bronze,0
+1972,Athletics,Athletics,"VALDES CAPOTE, Carmen",CUB,Women,4x100m relay,Bronze,0
+1972,Athletics,Athletics,"BECKER-MICKLER, Ingrid",FRG,Women,4x100m relay,Gold,0
+1972,Athletics,Athletics,"SANG, Julius",KEN,Men,4x400m relay,Gold,0
+1972,Athletics,Athletics,"OUKO, Robert",KEN,Men,4x400m relay,Gold,0
+1972,Athletics,Athletics,"NYAMAU, Hezekiah Munyoro",KEN,Men,4x400m relay,Gold,0
+1972,Athletics,Athletics,"ASATI, Charles",KEN,Men,4x400m relay,Gold,0
+1972,Athletics,Athletics,"VELASQUES, Daniel Roger",FRA,Men,4x400m relay,Bronze,0
+1972,Athletics,Athletics,"KERBIROU, Francis",FRA,Men,4x400m relay,Bronze,0
+1972,Athletics,Athletics,"CARETTE, Jacques",FRA,Men,4x400m relay,Bronze,0
+1972,Athletics,Athletics,"BERTOULD, Gilles",FRA,Men,4x400m relay,Bronze,0
+1972,Athletics,Athletics,"STRUPPERT, BÃ¤rbel",GDR,Women,4x100m relay,Silver,0
+1972,Athletics,Athletics,"STECHER, Renate",GDR,Women,4x100m relay,Silver,0
+1972,Athletics,Athletics,"KAUFER, Evelyn",GDR,Women,4x100m relay,Silver,0
+1972,Athletics,Athletics,"HEINICH, Christina",GDR,Women,4x100m relay,Silver,0
+1972,Athletics,Athletics,"ROSENDAHL, Heidemarie",FRG,Women,4x100m relay,Gold,0
+1972,Athletics,Athletics,"RICHTER-IRRGANG, Annegret",FRG,Women,4x100m relay,Gold,0
+1972,Athletics,Athletics,"KRAUSE, Christiane",FRG,Women,4x100m relay,Gold,0
+1972,Athletics,Athletics,"JENKINS, David Andrew",GBR,Men,4x400m relay,Silver,0
+1972,Aquatics,Water polo,"FERGUSON, James Michael",USA,Men,water polo,Bronze,0
+1972,Aquatics,Water polo,"COLE, Stanley Clark",USA,Men,water polo,Bronze,0
+1972,Aquatics,Water polo,"BRADLEY, Myron Bruce",USA,Men,water polo,Bronze,0
+1972,Aquatics,Swimming,"SCHOENFIELD, Dana Lee",USA,Women,200m breaststroke,Silver,0
+1972,Aquatics,Swimming,"WHITFIELD, Beverley Joy",AUS,Women,200m breaststroke,Gold,0
+1972,Aquatics,Swimming,"PROZUMENSCHIKOVA-STEPANOVA, Galina",URS,Women,200m breaststroke,Bronze,0
+1972,Aquatics,Swimming,"WILKIE, David Andrew",GBR,Men,200m breaststroke,Silver,0
+1972,Aquatics,Swimming,"HENCKEN, John Frederick",USA,Men,200m breaststroke,Gold,0
+1972,Aquatics,Swimming,"TAGUCHI, Nobutaka",JPN,Men,200m breaststroke,Bronze,0
+1972,Aquatics,Swimming,"BACKHAUS, Robin James",USA,Men,200m butterfly,Bronze,0
+1972,Aquatics,Swimming,"ATWOOD, Susanne Jean",USA,Women,200m backstroke,Silver,0
+1972,Aquatics,Swimming,"GURR, Donna Marie",CAN,Women,200m backstroke,Bronze,0
+1972,Aquatics,Swimming,"STAMM, Michael Eugene",USA,Men,200m backstroke,Silver,0
+1972,Aquatics,Swimming,"MATTHES, Roland",GDR,Men,200m backstroke,Gold,0
+1972,Aquatics,Swimming,"IVEY, Mitchell",USA,Men,200m backstroke,Bronze,0
+1972,Aquatics,Swimming,"WINDEATT, Graham Claud",AUS,Men,1500m freestyle,Silver,0
+1972,Aquatics,Swimming,"BURTON, Michael Jay",USA,Men,1500m freestyle,Gold,0
+1972,Aquatics,Swimming,"BELOTE, Melissa Louise",USA,Women,200m backstroke,Gold,0
+1972,Aquatics,Swimming,"SPITZ, Mark",USA,Men,200m butterfly,Gold,0
+1972,Aquatics,Swimming,"HALL, Gary Wayne",USA,Men,200m butterfly,Silver,0
+1972,Aquatics,Swimming,"DANIEL, Eleanor Suzanne",USA,Women,200m butterfly,Bronze,0
+1972,Aquatics,Swimming,"MCBREEN, Thomas Sean",USA,Men,400m freestyle,Bronze,0
+1972,Aquatics,Swimming,"ENDER, Kornelia",GDR,Women,200m individual medley,Silver,0
+1972,Aquatics,Swimming,"GOULD, Shane",AUS,Women,200m individual medley,Gold,0
+1972,Aquatics,Swimming,"VIDALI, Lynn Marie",USA,Women,200m individual medley,Bronze,0
+1972,Aquatics,Swimming,"MCKEE, Alexander Timothy",USA,Men,200m individual medley,Silver,0
+1972,Aquatics,Swimming,"LARSSON, Gunnar",SWE,Men,200m individual medley,Gold,0
+1972,Aquatics,Swimming,"FURNISS, Steven Charles",USA,Men,200m individual medley,Bronze,0
+1972,Aquatics,Swimming,"BABASHOFF, Shirley Farber",USA,Women,200m freestyle,Silver,0
+1972,Aquatics,Swimming,"GOULD, Shane",AUS,Women,200m freestyle,Gold,0
+1972,Aquatics,Swimming,"ROTHHAMMER, Keena Ruth",USA,Women,200m freestyle,Bronze,0
+1972,Aquatics,Swimming,"GENTER, Robert Steven",USA,Men,200m freestyle,Silver,0
+1972,Aquatics,Swimming,"SPITZ, Mark",USA,Men,200m freestyle,Gold,0
+1972,Aquatics,Swimming,"LAMPE, Werner",FRG,Men,200m freestyle,Bronze,0
+1972,Aquatics,Swimming,"COLELLA, Lynn Ann",USA,Women,200m butterfly,Silver,0
+1972,Aquatics,Swimming,"MOE-THORNTON, Karen Patricia",USA,Women,200m butterfly,Gold,0
+1972,Aquatics,Swimming,"NORTHWAY, Douglas Dale",USA,Men,1500m freestyle,Bronze,0
+1972,Aquatics,Swimming,"COOPER, Bradford Paul",AUS,Men,400m freestyle,Gold,0
+1972,Aquatics,Swimming,"BABASHOFF, Shirley Farber",USA,Women,100m freestyle,Silver,0
+1972,Aquatics,Swimming,"GOULD, Shane",AUS,Women,100m freestyle,Bronze,0
+1972,Aquatics,Swimming,"MATTHES, Roland",GDR,Men,100m backstroke,Gold,0
+1972,Aquatics,Swimming,"MURPHY, John Joseph",USA,Men,100m backstroke,Bronze,0
+1972,Aquatics,Diving,"KNAPE-LINDBERGH, Ulrika",SWE,Women,3m springboard,Silver,0
+1972,Aquatics,Diving,"KING, Maxine Joyce",USA,Women,3m springboard,Gold,0
+1972,Aquatics,Diving,"JANICKE, Marina",GDR,Women,3m springboard,Bronze,0
+1972,Aquatics,Diving,"CAGNOTTO, Giorgio Franco",ITA,Men,3m springboard,Silver,0
+1972,Aquatics,Swimming,"STAMM, Michael Eugene",USA,Men,100m backstroke,Silver,0
+1972,Aquatics,Diving,"VASIN, Vladimir",URS,Men,3m springboard,Gold,0
+1972,Aquatics,Diving,"DUCHKOVA, Milena",TCH,Women,10m platform,Silver,0
+1972,Aquatics,Diving,"KNAPE-LINDBERGH, Ulrika",SWE,Women,10m platform,Gold,0
+1972,Aquatics,Diving,"JANICKE, Marina",GDR,Women,10m platform,Bronze,0
+1972,Aquatics,Diving,"RYDZE, Richard Anthony",USA,Men,10m platform,Silver,0
+1972,Aquatics,Diving,"DIBIASI, Klaus",ITA,Men,10m platform,Gold,0
+1972,Aquatics,Diving,"CAGNOTTO, Giorgio Franco",ITA,Men,10m platform,Bronze,0
+1972,Aquatics,Diving,"LINCOLN, Craig Howard",USA,Men,3m springboard,Bronze,0
+1972,Aquatics,Swimming,"ATWOOD, Susanne Jean",USA,Women,100m backstroke,Bronze,0
+1972,Aquatics,Swimming,"BELOTE, Melissa Louise",USA,Women,100m backstroke,Gold,0
+1972,Aquatics,Swimming,"GYARMATI, Andrea",HUN,Women,100m backstroke,Silver,0
+1972,Aquatics,Swimming,"HEIDENREICH, Jerry Alan",USA,Men,100m freestyle,Silver,0
+1972,Aquatics,Swimming,"SPITZ, Mark",USA,Men,100m freestyle,Gold,0
+1972,Aquatics,Swimming,"BURE, Vladimir",URS,Men,100m freestyle,Bronze,0
+1972,Aquatics,Swimming,"BEIER, Roswitha",GDR,Women,100m butterfly,Silver,0
+1972,Aquatics,Swimming,"AOKI, Mayumi",JPN,Women,100m butterfly,Gold,0
+1972,Aquatics,Swimming,"GYARMATI, Andrea",HUN,Women,100m butterfly,Bronze,0
+1972,Aquatics,Swimming,"ROBERTSON, Bruce Richard",CAN,Men,100m butterfly,Silver,0
+1972,Aquatics,Swimming,"SPITZ, Mark",USA,Men,100m butterfly,Gold,0
+1972,Aquatics,Swimming,"HEIDENREICH, Jerry Alan",USA,Men,100m butterfly,Bronze,0
+1972,Aquatics,Swimming,"PROZUMENSCHIKOVA-STEPANOVA, Galina",URS,Women,100m breaststroke,Silver,0
+1972,Aquatics,Swimming,"CARR, Catherine L.",USA,Women,100m breaststroke,Gold,0
+1972,Aquatics,Swimming,"WHITFIELD, Beverley Joy",AUS,Women,100m breaststroke,Bronze,0
+1972,Aquatics,Swimming,"BRUCE, Thomas Edwin",USA,Men,100m breaststroke,Silver,0
+1972,Aquatics,Swimming,"TAGUCHI, Nobutaka",JPN,Men,100m breaststroke,Gold,0
+1972,Aquatics,Swimming,"HENCKEN, John Frederick",USA,Men,100m breaststroke,Bronze,0
+1972,Aquatics,Swimming,"NEILSON, Alexandra Lynn",USA,Women,100m freestyle,Gold,0
+1972,Aquatics,Swimming,"GENTER, Robert Steven",USA,Men,400m freestyle,Silver,0
+1972,Aquatics,Swimming,"WEGNER, Gudrun",GDR,Women,400m freestyle,Bronze,0
+1972,Aquatics,Swimming,"GOULD, Shane",AUS,Women,400m freestyle,Gold,0
+1972,Aquatics,Swimming,"BEIER, Roswitha",GDR,Women,4x100m medley relay,Silver,0
+1972,Aquatics,Swimming,"NEILSON, Alexandra Lynn",USA,Women,4x100m medley relay,Gold,0
+1972,Aquatics,Swimming,"DEARDRUFF, Deena Diana",USA,Women,4x100m medley relay,Gold,0
+1972,Aquatics,Swimming,"CARR, Catherine L.",USA,Women,4x100m medley relay,Gold,0
+1972,Aquatics,Swimming,"BELOTE, Melissa Louise",USA,Women,4x100m medley relay,Gold,0
+1972,Aquatics,Swimming,"REINECK, Heidemarie",FRG,Women,4x100m medley relay,Bronze,0
+1972,Aquatics,Swimming,"ENDER, Kornelia",GDR,Women,4x100m medley relay,Silver,0
+1972,Aquatics,Swimming,"PIELEN, Silke",FRG,Women,4x100m medley relay,Bronze,0
+1972,Aquatics,Swimming,"BECKMANN, Gudrun",FRG,Women,4x100m medley relay,Bronze,0
+1972,Aquatics,Swimming,"UNGER, Lutz",GDR,Men,4x100m medley relay,Silver,0
+1972,Aquatics,Swimming,"MATTHES, Roland",GDR,Men,4x100m medley relay,Silver,0
+1972,Aquatics,Swimming,"KATZUR, Klaus",GDR,Men,4x100m medley relay,Silver,0
+1972,Aquatics,Swimming,"FLÃCKNER, Hartmut",GDR,Men,4x100m medley relay,Silver,0
+1972,Aquatics,Swimming,"STAMM, Michael Eugene",USA,Men,4x100m medley relay,Gold,0
+1972,Aquatics,Swimming,"EBERLE, Verena (Vreni)",FRG,Women,4x100m medley relay,Bronze,0
+1972,Aquatics,Swimming,"HERBST, Christine",GDR,Women,4x100m medley relay,Silver,0
+1972,Aquatics,Swimming,"VOGEL, Renate",GDR,Women,4x100m medley relay,Silver,0
+1972,Aquatics,Swimming,"BURE, Vladimir",URS,Men,4x200m freestyle relay,Bronze,0
+1972,Aquatics,Water polo,"BARNETT, Steven William",USA,Men,water polo,Bronze,0
+1972,Aquatics,Water polo,"ASCH, Peter Gregory",USA,Men,water polo,Bronze,0
+1972,Aquatics,Swimming,"GOULD, Shane",AUS,Women,800m freestyle,Silver,0
+1972,Aquatics,Swimming,"ROTHHAMMER, Keena Ruth",USA,Women,800m freestyle,Gold,0
+1972,Aquatics,Swimming,"CALLIGARIS, Novella",ITA,Women,800m freestyle,Bronze,0
+1972,Aquatics,Swimming,"VOSSELER, Hans-GÃ¼nther",FRG,Men,4x200m freestyle relay,Silver,0
+1972,Aquatics,Swimming,"STEINBACH, Klaus",FRG,Men,4x200m freestyle relay,Silver,0
+1972,Aquatics,Swimming,"LAMPE, Werner",FRG,Men,4x200m freestyle relay,Silver,0
+1972,Aquatics,Swimming,"FASSNACHT, Hans",FRG,Men,4x200m freestyle relay,Silver,0
+1972,Aquatics,Swimming,"TYLER, Frederick Daniel",USA,Men,4x200m freestyle relay,Gold,0
+1972,Aquatics,Swimming,"SPITZ, Mark",USA,Men,4x200m freestyle relay,Gold,0
+1972,Aquatics,Swimming,"KINSELLA, John Pitann",USA,Men,4x200m freestyle relay,Gold,0
+1972,Aquatics,Swimming,"MAZANOV, Viktor",URS,Men,4x200m freestyle relay,Bronze,0
+1972,Aquatics,Swimming,"KULIKOV, Georgi",URS,Men,4x200m freestyle relay,Bronze,0
+1972,Aquatics,Swimming,"GRIVENNIKOV, Igor",URS,Men,4x200m freestyle relay,Bronze,0
+1972,Aquatics,Swimming,"SPITZ, Mark",USA,Men,4x100m medley relay,Gold,0
+1972,Aquatics,Swimming,"HEIDENREICH, Jerry Alan",USA,Men,4x100m medley relay,Gold,0
+1972,Aquatics,Swimming,"BRUCE, Thomas Edwin",USA,Men,4x100m medley relay,Gold,0
+1972,Aquatics,Swimming,"ROBERTSON, Bruce Richard",CAN,Men,4x100m medley relay,Bronze,0
+1972,Aquatics,Swimming,"SPITZ, Mark",USA,Men,4x100m freestyle relay,Gold,0
+1972,Aquatics,Swimming,"MURPHY, John Joseph",USA,Men,4x100m freestyle relay,Gold,0
+1972,Aquatics,Swimming,"HEIDENREICH, Jerry Alan",USA,Men,4x100m freestyle relay,Gold,0
+1972,Aquatics,Swimming,"EDGAR, David Holmes",USA,Men,4x100m freestyle relay,Gold,0
+1972,Aquatics,Swimming,"UNGER, Lutz",GDR,Men,4x100m freestyle relay,Bronze,0
+1972,Aquatics,Swimming,"MATTHES, Roland",GDR,Men,4x100m freestyle relay,Bronze,0
+1972,Aquatics,Swimming,"HARTUNG, Wilfried",GDR,Men,4x100m freestyle relay,Bronze,0
+1972,Aquatics,Swimming,"BRUCH, Peter",GDR,Men,4x100m freestyle relay,Bronze,0
+1972,Aquatics,Swimming,"CLIFF, Leslie",CAN,Women,400m individual medley,Silver,0
+1972,Aquatics,Swimming,"NEALL, Gail",AUS,Women,400m individual medley,Gold,0
+1972,Aquatics,Swimming,"CALLIGARIS, Novella",ITA,Women,400m individual medley,Bronze,0
+1972,Aquatics,Swimming,"MCKEE, Alexander Timothy",USA,Men,400m individual medley,Silver,0
+1972,Aquatics,Swimming,"LARSSON, Gunnar",SWE,Men,400m individual medley,Gold,0
+1972,Aquatics,Swimming,"HARGITAY, Andras",HUN,Men,400m individual medley,Bronze,0
+1972,Aquatics,Swimming,"CALLIGARIS, Novella",ITA,Women,400m freestyle,Silver,0
+1972,Aquatics,Swimming,"ABOIMOV, Viktor",URS,Men,4x100m freestyle relay,Silver,0
+1972,Athletics,Athletics,"KHMELEVSKY, Vasili",URS,Men,hammer throw,Bronze,0
+1972,Aquatics,Swimming,"BURE, Vladimir",URS,Men,4x100m freestyle relay,Silver,0
+1972,Aquatics,Swimming,"MAZANOV, Viktor",URS,Men,4x100m freestyle relay,Silver,0
+1972,Aquatics,Swimming,"MAHONY, William",CAN,Men,4x100m medley relay,Bronze,0
+1972,Aquatics,Swimming,"KASTING, Robert",CAN,Men,4x100m medley relay,Bronze,0
+1972,Aquatics,Swimming,"FISH, Erik",CAN,Men,4x100m medley relay,Bronze,0
+1972,Aquatics,Swimming,"WETZKO, Gabriele",GDR,Women,4x100m freestyle relay,Silver,0
+1972,Aquatics,Swimming,"SEHMISCH, Elke",GDR,Women,4x100m freestyle relay,Silver,0
+1972,Aquatics,Swimming,"ENDER, Kornelia",GDR,Women,4x100m freestyle relay,Silver,0
+1972,Aquatics,Swimming,"EIFE, Andrea",GDR,Women,4x100m freestyle relay,Silver,0
+1972,Aquatics,Swimming,"NEILSON, Alexandra Lynn",USA,Women,4x100m freestyle relay,Gold,0
+1972,Aquatics,Swimming,"KEMP, Jennifer Jo",USA,Women,4x100m freestyle relay,Gold,0
+1972,Aquatics,Swimming,"BARKMAN, Jane Louise",USA,Women,4x100m freestyle relay,Gold,0
+1972,Aquatics,Swimming,"BABASHOFF, Shirley Farber",USA,Women,4x100m freestyle relay,Gold,0
+1972,Aquatics,Swimming,"WEBER, Judith (Jutta)",FRG,Women,4x100m freestyle relay,Bronze,0
+1972,Aquatics,Swimming,"STEINBACH, Angela",FRG,Women,4x100m freestyle relay,Bronze,0
+1972,Aquatics,Swimming,"REINECK, Heidemarie",FRG,Women,4x100m freestyle relay,Bronze,0
+1972,Aquatics,Swimming,"BECKMANN, Gudrun",FRG,Women,4x100m freestyle relay,Bronze,0
+1972,Aquatics,Swimming,"GRIVENNIKOV, Igor",URS,Men,4x100m freestyle relay,Silver,0
+1972,Athletics,Athletics,"BONDARCHUK, Anatoli",URS,Men,hammer throw,Gold,0
+1972,Aquatics,Swimming,"GENTER, Robert Steven",USA,Men,4x200m freestyle relay,Gold,0
+1972,Athletics,Athletics,"STONES, Dwight Edwin",USA,Men,high jump,Bronze,0
+1972,Cycling,Cycling Track,"HARITZ, GÃ¼nter",FRG,Men,Team Pursuit (4000m),Gold,0
+1972,Cycling,Cycling Track,"COLOMBO, JÃ¼rgen",FRG,Men,Team Pursuit (4000m),Gold,0
+1972,Cycling,Cycling Track,"MOORE, William",GBR,Men,Team Pursuit (4000m),Bronze,0
+1972,Cycling,Cycling Track,"KEEBLE, Ronald James",GBR,Men,Team Pursuit (4000m),Bronze,0
+1972,Cycling,Cycling Track,"HALLAM, Ian",GBR,Men,Team Pursuit (4000m),Bronze,0
+1972,Cycling,Cycling Track,"BENNETT, Michael John",GBR,Men,Team Pursuit (4000m),Bronze,0
+1972,Cycling,Cycling Track,"HEMPEL, Udo",FRG,Men,Team Pursuit (4000m),Gold,0
+1972,Cycling,Cycling Track,"NICHOLSON, John Michael",AUS,Men,Sprint indivual,Silver,0
+1972,Cycling,Cycling Track,"PKHAKADZE, Omar",URS,Men,Sprint indivual,Bronze,0
+1972,Cycling,Cycling Track,"KURMANN, Xaver",SUI,Men,Individual Pursuit,Silver,0
+1972,Cycling,Cycling Track,"KNUDSEN, Knut",NOR,Men,Individual Pursuit,Gold,0
+1972,Cycling,Cycling Track,"LUTZ, Hans",FRG,Men,Individual Pursuit,Bronze,0
+1972,Cycling,Cycling Track,"OTTO, Werner",GDR,Men,2000m tandem,Silver,0
+1972,Cycling,Cycling Track,"GESCHKE, Hans-JÃ¼rgen",GDR,Men,2000m tandem,Silver,0
+1972,Cycling,Cycling Track,"MORELON, Daniel",FRA,Men,Sprint indivual,Gold,0
+1972,Cycling,Cycling Track,"SCHUHMACHER, GÃ¼nther",FRG,Men,Team Pursuit (4000m),Gold,0
+1972,Cycling,Cycling Track,"HUSCHKE, Thomas",GDR,Men,Team Pursuit (4000m),Silver,0
+1972,Cycling,Cycling Track,"RICHTER, Heinz",GDR,Men,Team Pursuit (4000m),Silver,0
+1972,Equestrian,Eventing,"JÃNSSON, Jan",SWE,Men,individual,Bronze,0
+1972,Equestrian,Dressage,"SCHLÃTER-SCHMIDT, Karin",FRG,Women,team,Silver,0
+1972,Equestrian,Dressage,"LINSENHOFF, Liselott",FRG,Women,team,Silver,0
+1972,Equestrian,Dressage,"PETUSHKOVA, Elena",URS,Women,team,Gold,0
+1972,Equestrian,Dressage,"VON ROSEN, Maud",SWE,Women,team,Bronze,0
+1972,Equestrian,Dressage,"SWAAB, Ninna",SWE,Women,team,Bronze,0
+1972,Equestrian,Dressage,"HAKANSSON, Ulla",SWE,Women,team,Bronze,0
+1972,Equestrian,Dressage,"NECKERMANN, Josef",FRG,Men,team,Silver,0
+1972,Equestrian,Dressage,"KIZIMOV, Ivan",URS,Men,team,Gold,0
+1972,Equestrian,Dressage,"KALITA, Ivan",URS,Men,team,Gold,0
+1972,Equestrian,Dressage,"PETUSHKOVA, Elena",URS,Women,individual,Silver,0
+1972,Equestrian,Dressage,"LINSENHOFF, Liselott",FRG,Women,individual,Gold,0
+1972,Equestrian,Dressage,"NECKERMANN, Josef",FRG,Men,individual,Bronze,0
+1972,Cycling,Cycling Track,"UNTERWALDER, Uwe",GDR,Men,Team Pursuit (4000m),Silver,0
+1972,Cycling,Cycling Track,"RICHTER, Herbert",GDR,Men,Team Pursuit (4000m),Silver,0
+1972,Cycling,Cycling Track,"TSELOVALNIKOV, Igor",URS,Men,2000m tandem,Gold,0
+1972,Equestrian,Eventing,"MEADE, Richard John Hanray",GBR,Men,individual,Gold,0
+1972,Cycling,Cycling Track,"SEMENETS, Vladimir",URS,Men,2000m tandem,Gold,0
+1972,Cycling,Cycling Track,"BEK, Andrzej",POL,Men,2000m tandem,Bronze,0
+1972,Canoe / Kayak,Canoe / Kayak S,"SCHUMACHER, Hans-Otto",FRG,Men,C-2 (canoe double),Silver,0
+1972,Canoe / Kayak,Canoe / Kayak S,"BAUES, Wilhelm Bernd",FRG,Men,C-2 (canoe double),Silver,0
+1972,Canoe / Kayak,Canoe / Kayak S,"HOFMANN, Walter",GDR,Men,C-2 (canoe double),Gold,0
+1972,Canoe / Kayak,Canoe / Kayak S,"AMEND, Rolf-Dieter",GDR,Men,C-2 (canoe double),Gold,0
+1972,Canoe / Kayak,Canoe / Kayak S,"OLRY, Jean-Louis",FRA,Men,C-2 (canoe double),Bronze,0
+1972,Canoe / Kayak,Canoe / Kayak S,"OLRY, Jean-Claude",FRA,Men,C-2 (canoe double),Bronze,0
+1972,Canoe / Kayak,Canoe / Kayak S,"GIMPEL, Harald",GDR,Men,K-1 (kayak single),Bronze,0
+1972,Canoe / Kayak,Canoe / Kayak S,"KAUDER, Reinhold",FRG,Men,C-1 (canoe single),Silver,0
+1972,Canoe / Kayak,Canoe / Kayak S,"MCEWAN, James Patrick",USA,Men,C-1 (canoe single),Bronze,0
+1972,Canoe / Kayak,Canoe / Kayak F,"ZAFIU, Mihai",ROU,Men,K-4 1000m (kayak four),Silver,0
+1972,Canoe / Kayak,Canoe / Kayak F,"VERNESCU, Aurel",ROU,Men,K-4 1000m (kayak four),Silver,0
+1972,Canoe / Kayak,Canoe / Kayak F,"VARTOLOMEU, Roman",ROU,Men,K-4 1000m (kayak four),Silver,0
+1972,Canoe / Kayak,Canoe / Kayak F,"SCIOTNIC, Atanase",ROU,Men,K-4 1000m (kayak four),Silver,0
+1972,Canoe / Kayak,Canoe / Kayak F,"STETSENKO, Yuri",URS,Men,K-4 1000m (kayak four),Gold,0
+1972,Canoe / Kayak,Canoe / Kayak S,"EIBEN, Reinhard",GDR,Men,C-1 (canoe single),Gold,0
+1972,Canoe / Kayak,Canoe / Kayak S,"HORN, Siegbert",GDR,Men,K-1 (kayak single),Gold,0
+1972,Canoe / Kayak,Canoe / Kayak S,"SATTLER, Norbert",AUT,Men,K-1 (kayak single),Silver,0
+1972,Canoe / Kayak,Canoe / Kayak S,"WUNDERLICH, Magdalena",FRG,Women,K-1 (kayak single),Bronze,0
+1972,Cycling,Cycling Track,"CLARK, Daniel",AUS,Men,1km time trial,Silver,0
+1972,Cycling,Cycling Track,"FREDBORG, Niels Christian",DEN,Men,1km time trial,Gold,0
+1972,Cycling,Cycling Track,"SCHÃTZE, JÃ¼rgen",GDR,Men,1km time trial,Bronze,0
+1972,Cycling,Cycling Road,"SZURKOWSKI, Ryszard",POL,Men,team time trial,Silver,0
+1972,Cycling,Cycling Road,"SZOZDA, Stanislaw",POL,Men,team time trial,Silver,0
+1972,Cycling,Cycling Road,"LIS, Lucjan",POL,Men,team time trial,Silver,0
+1972,Cycling,Cycling Road,"BARCIK, Edward",POL,Men,team time trial,Silver,0
+1972,Cycling,Cycling Road,"YARDY, Valery",URS,Men,team time trial,Gold,0
+1972,Cycling,Cycling Road,"SHUKHOV, Boris",URS,Men,team time trial,Gold,0
+1972,Cycling,Cycling Road,"LIKHACHEV, Valery",URS,Men,team time trial,Gold,0
+1972,Cycling,Cycling Road,"KOMNATOV, Gennadi",URS,Men,team time trial,Gold,0
+1972,Cycling,Cycling Road,"SEFTON, Clyde",AUS,Men,individual road race,Silver,0
+1972,Cycling,Cycling Road,"KUIPER, Hennie",NED,Men,individual road race,Gold,0
+1972,Canoe / Kayak,Canoe / Kayak S,"GROTHAUS, Gisela",FRG,Women,K-1 (kayak single),Silver,0
+1972,Canoe / Kayak,Canoe / Kayak S,"BAHMANN, Angelika",GDR,Women,K-1 (kayak single),Gold,0
+1972,Cycling,Cycling Track,"KOCOT, Benedykt",POL,Men,2000m tandem,Bronze,0
+1972,Canoe / Kayak,Canoe / Kayak F,"MOROZOV, Vladimir",URS,Men,K-4 1000m (kayak four),Gold,0
+1972,Equestrian,Eventing,"ARGENTON, Alessandro",ITA,Men,individual,Silver,0
+1972,Equestrian,Eventing,"KARSTEN, Horst",FRG,Men,team,Bronze,0
+1972,Fencing,Fencing,"NOÃL, Christian",FRA,Men,foil team,Bronze,0
+1972,Fencing,Fencing,"MAGNAN, Jean-Claude",FRA,Men,foil team,Bronze,0
+1972,Fencing,Fencing,"BEROLATTI, Gilles",FRA,Men,foil team,Bronze,0
+1972,Fencing,Fencing,"BOBIS-FERKASINSZKY, Ildiko",HUN,Women,foil individual,Silver,0
+1972,Fencing,Fencing,"RAGNO-LONZI, Antonella",ITA,Women,foil individual,Gold,0
+1972,Fencing,Fencing,"GOROKHOVA, Galina",URS,Women,foil individual,Bronze,0
+1972,Fencing,Fencing,"REVENU, Daniel",FRA,Men,foil team,Bronze,0
+1972,Fencing,Fencing,"KAMUTI, JenÃ¶",HUN,Men,foil individual,Silver,0
+1972,Fencing,Fencing,"NOÃL, Christian",FRA,Men,foil individual,Bronze,0
+1972,Fencing,Fencing,"SUCHANECKI, Francois",SUI,Men,Ã©pÃ©e team,Silver,0
+1972,Fencing,Fencing,"LÃTSCHER, Peter",SUI,Men,Ã©pÃ©e team,Silver,0
+1972,Fencing,Fencing,"KAUTER, Christian",SUI,Men,Ã©pÃ©e team,Silver,0
+1972,Fencing,Fencing,"GIGER, Daniel",SUI,Men,Ã©pÃ©e team,Silver,0
+1972,Fencing,Fencing,"EVEQUOZ, Guy",SUI,Men,Ã©pÃ©e team,Silver,0
+1972,Fencing,Fencing,"WOYDA, Witold",POL,Men,foil individual,Gold,0
+1972,Fencing,Fencing,"TALVARD, Bernard",FRA,Men,foil team,Bronze,0
+1972,Fencing,Fencing,"DABROWSKI, Marek",POL,Men,foil team,Gold,0
+1972,Fencing,Fencing,"GODEL, Arkadiusz",POL,Men,foil team,Gold,0
+1972,Athletics,Athletics,"SACHSE, Jochen",GDR,Men,hammer throw,Silver,0
+1972,Fencing,Fencing,"GOROKHOVA, Galina",URS,Women,foil team,Gold,0
+1972,Fencing,Fencing,"CHIRKOVA, Svetlana",URS,Women,foil team,Gold,0
+1972,Fencing,Fencing,"ORBAN-SZABO, Olga",ROU,Women,foil team,Bronze,0
+1972,Fencing,Fencing,"IENCIC-STAHL, Ecaterina Clara",ROU,Women,foil team,Bronze,0
+1972,Fencing,Fencing,"GYULAI-DRIMBA-JENEI, Ileana",ROU,Women,foil team,Bronze,0
+1972,Fencing,Fencing,"DERSIDAN-ENE-PASCU, Ana",ROU,Women,foil team,Bronze,0
+1972,Fencing,Fencing,"STANKOVICH, Vasili",URS,Men,foil team,Silver,0
+1972,Fencing,Fencing,"ROMANOV, Leonid",URS,Men,foil team,Silver,0
+1972,Fencing,Fencing,"PUTYATIN, Viktor",URS,Men,foil team,Silver,0
+1972,Fencing,Fencing,"KOTETSEV, Anatoli",URS,Men,foil team,Silver,0
+1972,Fencing,Fencing,"DENISOV, Vladimir",URS,Men,foil team,Silver,0
+1972,Fencing,Fencing,"WOYDA, Witold",POL,Men,foil team,Gold,0
+1972,Fencing,Fencing,"KOZIEJOWSKI, Lech",POL,Men,foil team,Gold,0
+1972,Fencing,Fencing,"KACZMAREK, Jerzy",POL,Men,foil team,Gold,0
+1972,Fencing,Fencing,"SCHMITT, Pal",HUN,Men,Ã©pÃ©e team,Gold,0
+1972,Equestrian,Eventing,"GOESSING, Ludwig (Lutz)",FRG,Men,team,Bronze,0
+1972,Fencing,Fencing,"OSZTRICS, Istvan",HUN,Men,Ã©pÃ©e team,Gold,0
+1972,Fencing,Fencing,"FENYVESI, Csaba",HUN,Men,Ã©pÃ©e team,Gold,0
+1972,Equestrian,Jumping,"D'INZEO, Raimondo",ITA,Men,team,Bronze,0
+1972,Equestrian,Jumping,"D'INZEO, Piero",ITA,Men,team,Bronze,0
+1972,Equestrian,Jumping,"MOORE, Ann Elizabeth",GBR,Women,individual,Silver,0
+1972,Equestrian,Jumping,"MANCINELLI, Graziano",ITA,Men,individual,Gold,0
+1972,Equestrian,Jumping,"SHAPIRO, Neal",USA,Men,individual,Bronze,0
+1972,Equestrian,Eventing,"PARKER, Bridget",GBR,Women,team,Gold,0
+1972,Equestrian,Jumping,"MANCINELLI, Graziano",ITA,Men,team,Bronze,0
+1972,Equestrian,Eventing,"GORDON-WATSON, Mary Diana",GBR,Women,team,Gold,0
+1972,Equestrian,Eventing,"PLUMB, John Michael",USA,Men,team,Silver,0
+1972,Equestrian,Eventing,"FREEMAN, Kevin John",USA,Men,team,Silver,0
+1972,Equestrian,Eventing,"DAVIDSON, Bruce Oram",USA,Men,team,Silver,0
+1972,Equestrian,Eventing,"PHILLIPS, Mark Anthony Peter",GBR,Men,team,Gold,0
+1972,Equestrian,Eventing,"SCHULTZ, Karl",FRG,Men,team,Bronze,0
+1972,Equestrian,Eventing,"KLUGMANN, Harry",FRG,Men,team,Bronze,0
+1972,Equestrian,Eventing,"WOFFORD, James Cunningham",USA,Men,team,Silver,0
+1972,Equestrian,Jumping,"ORLANDI, Vittorio",ITA,Men,team,Bronze,0
+1972,Equestrian,Jumping,"LIGGES, Fritz",FRG,Men,team,Gold,0
+1972,Equestrian,Jumping,"STEENKEN, Hartwig",FRG,Men,team,Gold,0
+1972,Fencing,Fencing,"ERDÃS, Sandor",HUN,Men,Ã©pÃ©e team,Gold,0
+1972,Fencing,Fencing,"ZAZHITSKY, Georgi",URS,Men,Ã©pÃ©e team,Bronze,0
+1972,Fencing,Fencing,"VALETOV, Igor",URS,Men,Ã©pÃ©e team,Bronze,0
+1972,Fencing,Fencing,"PARAMONOV, Sergei",URS,Men,Ã©pÃ©e team,Bronze,0
+1972,Fencing,Fencing,"MODZALEVSKY, Viktor",URS,Men,Ã©pÃ©e team,Bronze,0
+1972,Fencing,Fencing,"KRISS, Grigori",URS,Men,Ã©pÃ©e team,Bronze,0
+1972,Fencing,Fencing,"LADEGAILLERIE, Jacques",FRA,Men,Ã©pÃ©e individual,Silver,0
+1972,Fencing,Fencing,"FENYVESI, Csaba",HUN,Men,Ã©pÃ©e individual,Gold,0
+1972,Fencing,Fencing,"KULCSAR, GyÃ¶zÃ¶",HUN,Men,Ã©pÃ©e individual,Bronze,0
+1972,Equestrian,Jumping,"KUSNER, Kathryn Hallowell",USA,Women,team,Silver,0
+1972,Equestrian,Jumping,"STEINKRAUS, William Clark",USA,Men,team,Silver,0
+1972,Equestrian,Jumping,"SHAPIRO, Neal",USA,Men,team,Silver,0
+1972,Equestrian,Jumping,"CHAPOT, Frank Davis",USA,Men,team,Silver,0
+1972,Equestrian,Jumping,"WINKLER, Hans GÃ¼nter",FRG,Men,team,Gold,0
+1972,Equestrian,Jumping,"WILTFANG, Gerhard (Gerd)",FRG,Men,team,Gold,0
+1972,Fencing,Fencing,"KULCSAR, GyÃ¶zÃ¶",HUN,Men,Ã©pÃ©e team,Gold,0
+1972,Canoe / Kayak,Canoe / Kayak F,"FILATOV, Yuri",URS,Men,K-4 1000m (kayak four),Gold,0
+1972,Equestrian,Eventing,"MEADE, Richard John Hanray",GBR,Men,team,Gold,0
+1972,Canoe / Kayak,Canoe / Kayak F,"SÃBY, Egil Wike",NOR,Men,K-4 1000m (kayak four),Bronze,0
+1972,Basketball,Basketball,"EDESHKO, Ivan",URS,Men,basketball,Gold,0
+1972,Basketball,Basketball,"DVORNY, Ivan",URS,Men,basketball,Gold,0
+1972,Basketball,Basketball,"BOLOSHEV, Aleksandr",URS,Men,basketball,Gold,0
+1972,Basketball,Basketball,"BELOV, Sergei",URS,Men,basketball,Gold,0
+1972,Basketball,Basketball,"BELOV, Aleksandr",URS,Men,basketball,Gold,0
+1972,Basketball,Basketball,"VARONA VARONA, Oscar",CUB,Men,basketball,Bronze,0
+1972,Basketball,Basketball,"KORKIYA, Mikhail",URS,Men,basketball,Gold,0
+1972,Basketball,Basketball,"URGELLES GUIBOT, Alejandro",CUB,Men,basketball,Bronze,0
+1972,Basketball,Basketball,"ROCA BRUNET, Juan",CUB,Men,basketball,Bronze,0
+1972,Basketball,Basketball,"PEREZ ARMENTEROS, Conrado",CUB,Men,basketball,Bronze,0
+1972,Basketball,Basketball,"HERRERA TABIO, Ruperto",CUB,Men,basketball,Bronze,0
+1972,Basketball,Basketball,"HERRERA MARTINEZ, Tomas",CUB,Men,basketball,Bronze,0
+1972,Basketball,Basketball,"DOMECQ FORTUONDO, Juan Carlos",CUB,Men,basketball,Bronze,0
+1972,Basketball,Basketball,"CHAPPE GARCIA, Pedro",CUB,Men,basketball,Bronze,0
+1972,Basketball,Basketball,"STANDARD JOHNSON, Franklin",CUB,Men,basketball,Bronze,0
+1972,Basketball,Basketball,"KOVALENKO, Sergei",URS,Men,basketball,Gold,0
+1972,Basketball,Basketball,"PAULAUSKAS, Modestas",URS,Men,basketball,Gold,0
+1972,Basketball,Basketball,"POLIVODA, Anatoli",URS,Men,basketball,Gold,0
+1972,Basketball,Basketball,"RATLEFF, William Edward",USA,Men,basketball,Silver,0
+1972,Basketball,Basketball,"MCMILLEN, Charles Thomas",USA,Men,basketball,Silver,0
+1972,Basketball,Basketball,"JOYCE, Kevin Francis",USA,Men,basketball,Silver,0
+1972,Basketball,Basketball,"JONES, Robert Clyde",USA,Men,basketball,Silver,0
+1972,Basketball,Basketball,"JONES, Dwight Elmo",USA,Men,basketball,Silver,0
+1972,Basketball,Basketball,"HENDERSON, Thomas Edward",USA,Men,basketball,Silver,0
+1972,Basketball,Basketball,"FORBES, James Ricardo",USA,Men,basketball,Silver,0
+1972,Basketball,Basketball,"DAVIS, Kenneth Bryan",USA,Men,basketball,Silver,0
+1972,Basketball,Basketball,"COLLINS, Paul Douglas",USA,Men,basketball,Silver,0
+1972,Basketball,Basketball,"BURLESON, Thomas Loren",USA,Men,basketball,Silver,0
+1972,Basketball,Basketball,"BREWER, James Turner",USA,Men,basketball,Silver,0
+1972,Basketball,Basketball,"BANTOM, Michael Allen",USA,Men,basketball,Silver,0
+1972,Basketball,Basketball,"ZHARMUKHAMEDOV, Alzhan",URS,Men,basketball,Gold,0
+1972,Basketball,Basketball,"VOLNOV, Gennadi",URS,Men,basketball,Gold,0
+1972,Basketball,Basketball,"SAKANDELIDZE, Zurab",URS,Men,basketball,Gold,0
+1972,Basketball,Basketball,"CANIZARES POEY, Rafael",CUB,Men,basketball,Bronze,0
+1972,Basketball,Basketball,"CALDERON GOMEZ, Miguel",CUB,Men,basketball,Bronze,0
+1972,Athletics,Athletics,"DREHMEL, JÃ¶rg",GDR,Men,triple jump,Silver,0
+1972,Athletics,Athletics,"SANEEV, Viktor",URS,Men,triple jump,Gold,0
+1972,Athletics,Athletics,"BAUMGARTNER, Hans",FRG,Men,long jump,Silver,0
+1972,Athletics,Athletics,"WILLIAMS, Randel Luvelle",USA,Men,long jump,Gold,0
+1972,Athletics,Athletics,"ROBINSON, Arnie",USA,Men,long jump,Bronze,0
+1972,Athletics,Athletics,"TODTEN-HEIN, Jaqueline",GDR,Women,javelin throw,Silver,0
+1972,Athletics,Athletics,"FUCHS, Ruth",GDR,Women,javelin throw,Gold,0
+1972,Athletics,Athletics,"SCHMIDT, Kathryn Joan",USA,Women,javelin throw,Bronze,0
+1972,Athletics,Athletics,"LUSIS, Yanis",URS,Men,javelin throw,Silver,0
+1972,Athletics,Athletics,"WOLFERMANN, Klaus",FRG,Men,javelin throw,Gold,0
+1972,Athletics,Athletics,"SCHMIDT, William David",USA,Men,javelin throw,Bronze,0
+1972,Athletics,Athletics,"BLAGOEVA-DIMITROVA, Yordanka",BUL,Women,high jump,Silver,0
+1972,Athletics,Athletics,"MEYFARTH, Ulrike",FRG,Women,high jump,Gold,0
+1972,Athletics,Athletics,"GUSENBAUER-MAJDAN, Ilona",AUT,Women,high jump,Bronze,0
+1972,Athletics,Athletics,"JUNGE, Stefan",GDR,Men,high jump,Silver,0
+1972,Canoe / Kayak,Canoe / Kayak F,"DIDENKO, Valeri",URS,Men,K-4 1000m (kayak four),Gold,0
+1972,Fencing,Fencing,"PETRENKO-SAMUSENKO, Tatyana",URS,Women,foil team,Gold,0
+1972,Athletics,Athletics,"SURANOVA, Eva",TCH,Women,long jump,Bronze,0
+1972,Boxing,Boxing,"EVANS, Ralph",GBR,Men,- 48kg (light-flyweight),Bronze,0
+1972,Athletics,Athletics,"ROSENDAHL, Heidemarie",FRG,Women,long jump,Gold,0
+1972,Athletics,Athletics,"WOLDE, Mamo",ETH,Men,marathon,Bronze,0
+1972,Athletics,Athletics,"PRUDENCIO, Nelson",BRA,Men,triple jump,Bronze,0
+1972,Athletics,Athletics,"HELMBOLD-GUMMEL, Margitta",GDR,Women,shot put,Silver,0
+1972,Athletics,Athletics,"CHIZHOVA, Nadezhda",URS,Women,shot put,Gold,0
+1972,Athletics,Athletics,"CHRISTOVA-TODOROVA, Ivanka Mikailova",BUL,Women,shot put,Bronze,0
+1972,Athletics,Athletics,"WOODS, George Roger",USA,Men,shot put,Silver,0
+1972,Athletics,Athletics,"KOMAR, Wladyslaw",POL,Men,shot put,Gold,0
+1972,Athletics,Athletics,"BRIESENICK, Hartmut",GDR,Men,shot put,Bronze,0
+1972,Athletics,Athletics,"SEAGREN, Robert Lloyd",USA,Men,pole vault,Silver,0
+1972,Athletics,Athletics,"NORDWIG, Wolfgang",GDR,Men,pole vault,Gold,0
+1972,Athletics,Athletics,"JOHNSON, Jan Eric",USA,Men,pole vault,Bronze,0
+1972,Athletics,Athletics,"ROSENDAHL, Heidemarie",FRG,Women,pentathlon,Silver,0
+1972,Athletics,Athletics,"PETERS, Mary",GBR,Women,pentathlon,Gold,0
+1972,Athletics,Athletics,"POLLAK, Burglinde",GDR,Women,pentathlon,Bronze,0
+1972,Athletics,Athletics,"LISMONT, Karel",BEL,Men,marathon,Silver,0
+1972,Athletics,Athletics,"SHORTER, Frank Charles",USA,Men,marathon,Gold,0
+1972,Athletics,Athletics,"CHRISTOVA-YORGOVA, Diana",BUL,Women,long jump,Silver,0
+1972,Boxing,Boxing,"RODRIGUEZ CAL, Enrique",ESP,Men,- 48kg (light-flyweight),Bronze,0
+1972,Basketball,Basketball,"ALVAREZ POZO, Miguel",CUB,Men,basketball,Bronze,0
+1972,Boxing,Boxing,"KIM, U Gil",PRK,Men,- 48kg (light-flyweight),Silver,0
+1972,Canoe / Kayak,Canoe / Kayak F,"SHAPARENKO, Aleksandr",URS,Men,K-1 1000m (kayak single),Gold,0
+1972,Canoe / Kayak,Canoe / Kayak F,"CSAPO, Geza",HUN,Men,K-1 1000m (kayak single),Bronze,0
+1972,Canoe / Kayak,Canoe / Kayak F,"PATZAICHIN, Ivan",ROU,Men,C-2 1000m (canoe double),Silver,0
+1972,Canoe / Kayak,Canoe / Kayak F,"COVALIOV, Serghei",ROU,Men,C-2 1000m (canoe double),Silver,0
+1972,Canoe / Kayak,Canoe / Kayak F,"LOBANOV, Yuri",URS,Men,C-2 1000m (canoe double),Gold,0
+1972,Canoe / Kayak,Canoe / Kayak F,"CHESSYUNAS, Vladislavas",URS,Men,C-2 1000m (canoe double),Gold,0
+1972,Canoe / Kayak,Canoe / Kayak F,"PFEFFER, Anna",HUN,Women,K-1 500m (kayak single),Bronze,0
+1972,Canoe / Kayak,Canoe / Kayak F,"DAMIANOV, Fedia",BUL,Men,C-2 1000m (canoe double),Bronze,0
+1972,Canoe / Kayak,Canoe / Kayak F,"WICHMANN, Tamas",HUN,Men,C-1 1000m (canoe single),Silver,0
+1972,Canoe / Kayak,Canoe / Kayak F,"PATZAICHIN, Ivan",ROU,Men,C-1 1000m (canoe single),Gold,0
+1972,Canoe / Kayak,Canoe / Kayak F,"LEWE, Detlef",FRG,Men,C-1 1000m (canoe single),Bronze,0
+1972,Boxing,Boxing,"CARRILLO QUESADA, Gilberto",CUB,Men,75 - 81kg (light-heavyweight),Silver,0
+1972,Boxing,Boxing,"PARLOV, Mate",YUG,Men,75 - 81kg (light-heavyweight),Gold,0
+1972,Boxing,Boxing,"IKHOURIA, Isaac",NGR,Men,75 - 81kg (light-heavyweight),Bronze,0
+1972,Canoe / Kayak,Canoe / Kayak F,"BURTCHIN, Ivan",BUL,Men,C-2 1000m (canoe double),Bronze,0
+1972,Canoe / Kayak,Canoe / Kayak F,"RYABCHINSKAYA, Yulia",URS,Women,K-1 500m (kayak single),Gold,0
+1972,Canoe / Kayak,Canoe / Kayak F,"JAAPIES, Marie (Mieke)",NED,Women,K-1 500m (kayak single),Silver,0
+1972,Canoe / Kayak,Canoe / Kayak F,"PISZCZ, Rafal Maciej",POL,Men,K-2 1000m (kayak double),Bronze,0
+1972,Canoe / Kayak,Canoe / Kayak F,"JOHANSEN, Jan",NOR,Men,K-4 1000m (kayak four),Bronze,0
+1972,Canoe / Kayak,Canoe / Kayak F,"BERGER, Tore",NOR,Men,K-4 1000m (kayak four),Bronze,0
+1972,Boxing,Boxing,"GEDO, GyÃ¶rgy",HUN,Men,- 48kg (light-flyweight),Gold,0
+1972,Canoe / Kayak,Canoe / Kayak F,"AMUNDSEN, Steinar",NOR,Men,K-4 1000m (kayak four),Bronze,0
+1972,Canoe / Kayak,Canoe / Kayak F,"KASCHUBE, Ilse",GDR,Women,K-2 500m (kayak double),Silver,0
+1972,Canoe / Kayak,Canoe / Kayak F,"GRABOWSKY, Petra",GDR,Women,K-2 500m (kayak double),Silver,0
+1972,Canoe / Kayak,Canoe / Kayak F,"KURYSHKO, Ekaterina",URS,Women,K-2 500m (kayak double),Gold,0
+1972,Canoe / Kayak,Canoe / Kayak F,"KHVEDOSYUK-PINAEVA, Lyudmila",URS,Women,K-2 500m (kayak double),Gold,0
+1972,Canoe / Kayak,Canoe / Kayak F,"NICHIFOROV-MIHOREANU, Maria",ROU,Women,K-2 500m (kayak double),Bronze,0
+1972,Canoe / Kayak,Canoe / Kayak F,"DUMITRU, Viorica",ROU,Women,K-2 500m (kayak double),Bronze,0
+1972,Canoe / Kayak,Canoe / Kayak F,"RATKAI, Janos",HUN,Men,K-2 1000m (kayak double),Silver,0
+1972,Canoe / Kayak,Canoe / Kayak F,"DEME, Jozsef",HUN,Men,K-2 1000m (kayak double),Silver,0
+1972,Canoe / Kayak,Canoe / Kayak F,"KRATASYUK, Viktor",URS,Men,K-2 1000m (kayak double),Gold,0
+1972,Canoe / Kayak,Canoe / Kayak F,"GORBACHEV, Nikolai",URS,Men,K-2 1000m (kayak double),Gold,0
+1972,Canoe / Kayak,Canoe / Kayak F,"SZUSZKIEWICZ, Wladyslaw",POL,Men,K-2 1000m (kayak double),Bronze,0
+1972,Boxing,Boxing,"GORTAT, Janusz",POL,Men,75 - 81kg (light-heavyweight),Bronze,0
+1972,Boxing,Boxing,"VIRTANEN, Reima Valdemar",FIN,Men,71-75kg,Silver,0
+1972,Canoe / Kayak,Canoe / Kayak F,"PETERSON, Rolf",SWE,Men,K-1 1000m (kayak single),Silver,0
+1972,Boxing,Boxing,"MARTINEZ ROMERO, Orlando",CUB,Men,51 - 54kg (bantamweight),Gold,0
+1972,Boxing,Boxing,"KUZNETSOV, Boris",URS,Men,54 - 57kg (featherweight),Gold,0
+1972,Boxing,Boxing,"ROJAS, Clemente",COL,Men,54 - 57kg (featherweight),Bronze,0
+1972,Boxing,Boxing,"BOTOS, Andras",HUN,Men,54 - 57kg (featherweight),Bronze,0
+1972,Boxing,Boxing,"HUSSING, Peter",FRG,Men,+ 81kg (heavyweight),Bronze,0
+1972,Boxing,Boxing,"ZAMORA, Alfonso",MEX,Men,51 - 54kg (bantamweight),Silver,0
+1972,Boxing,Boxing,"TURPIN, George",GBR,Men,51 - 54kg (bantamweight),Bronze,0
+1972,Boxing,Boxing,"MBUGUA, Samuel",KEN,Men,57 - 60kg (lightweight),Bronze,0
+1972,Boxing,Boxing,"CARRERAS, Ricardo Luis",USA,Men,51 - 54kg (bantamweight),Bronze,0
+1972,Boxing,Boxing,"KOSTADINOV, Georghi",BUL,Men,48 - 51kg (flyweight),Gold,0
+1972,Boxing,Boxing,"RODRIGUEZ GUARDIOLA, Douglas",CUB,Men,48 - 51kg (flyweight),Bronze,0
+1972,Boxing,Boxing,"BLAZYNSKI, Leszek",POL,Men,48 - 51kg (flyweight),Bronze,0
+1972,Boxing,Boxing,"ALEXE, Ion",ROU,Men,+ 81kg (heavyweight),Silver,0
+1972,Boxing,Boxing,"LEMECHEW, Viacheslav",URS,Men,71-75kg,Gold,0
+1972,Boxing,Boxing,"STEVENSON, Teofilo",CUB,Men,+ 81kg (heavyweight),Gold,0
+1972,Boxing,Boxing,"RWABDOGO, Leo",UGA,Men,48 - 51kg (flyweight),Silver,0
+1972,Boxing,Boxing,"PEREZ, Alfonso",COL,Men,57 - 60kg (lightweight),Bronze,0
+1972,Boxing,Boxing,"WARUINGE, Philip",KEN,Men,54 - 57kg (featherweight),Silver,0
+1972,Boxing,Boxing,"SZCZEPANSKI, Jan",POL,Men,57 - 60kg (lightweight),Gold,0
+1972,Boxing,Boxing,"JOHNSON, Marvin L.",USA,Men,71-75kg,Bronze,0
+1972,Boxing,Boxing,"AMARTEY, Prince",GHA,Men,71-75kg,Bronze,0
+1972,Boxing,Boxing,"RUDKOWSKI, Wieslaw",POL,Men,67 - 71kg (light-middleweight),Silver,0
+1972,Boxing,Boxing,"KOTTYSCH, Dieter",FRG,Men,67 - 71kg (light-middleweight),Gold,0
+1972,Boxing,Boxing,"TIEPOLD, Peter",GDR,Men,67 - 71kg (light-middleweight),Bronze,0
+1972,Boxing,Boxing,"MINTER, Alan",GBR,Men,67 - 71kg (light-middleweight),Bronze,0
+1972,Boxing,Boxing,"CORREA VAILLANT, Emilio",CUB,Men,63.5 - 67kg (welterweight),Gold,0
+1972,Boxing,Boxing,"VALDEZ, John (Jesse)",USA,Men,63.5 - 67kg (welterweight),Bronze,0
+1972,Boxing,Boxing,"KAJDI, Janos",HUN,Men,63.5 - 67kg (welterweight),Silver,0
+1972,Boxing,Boxing,"MURUNGA, Richard (Tiger)",KEN,Men,63.5 - 67kg (welterweight),Bronze,0
+1972,Boxing,Boxing,"ANGELOV, Angel",BUL,Men,60 - 63.5kg (light-welterweight),Silver,0
+1972,Boxing,Boxing,"SEALES, Ray P.",USA,Men,60 - 63.5kg (light-welterweight),Gold,0
+1972,Boxing,Boxing,"VUJIN, Zvonimir",YUG,Men,60 - 63.5kg (light-welterweight),Bronze,0
+1972,Boxing,Boxing,"DABORG, Issaka",NIG,Men,60 - 63.5kg (light-welterweight),Bronze,0
+1972,Boxing,Boxing,"ORBAN, Laszlo",HUN,Men,57 - 60kg (lightweight),Silver,0
+1972,Boxing,Boxing,"THOMSEN, Hasse",SWE,Men,+ 81kg (heavyweight),Bronze,0
