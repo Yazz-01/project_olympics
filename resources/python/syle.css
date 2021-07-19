@@ -1,55 +1,8 @@
-/* Body */
-label{
-  position: absolute;
-}
-.right{
-  top: 0;
-  left: 100%;
-}
-.left{
-  top: 0;
-  right: 100%;
-}
-.top{
-  bottom: 100%;
-  left: 0;
-}
-.bottom{
-  top: 100%;
-  left: 0;
-}
-body{
-    background-color: #666666; 
-  }
-  /* Navbar */
-  .navbar{
-    max-height: 57px; 
-  }
-  
-  .navbar{
-    background-color: white; 
-    font-size: 15px; 
-  }
-  .active, .dropdown-menu .dropdown-item:active a:hover{
-    background-color: white !important; 
-  }
 
-  /* Body */
-  .dropdownMenuButton1{
-    margin-left: 121px;
-    margin-top: 1px;
-    width: 84px;
-    height: 45px;   
-    background: transparent;
-    border: none;
-    color: white;   
-    font-size:14px;
-    font-weight:700;
-  }
   /* Images */
   img{
-    width:100% !important;
-    height:100% !important;
+    width:10% !important;
+    height: 1px;
   }
   .active, .panel:hover{
     border-color:#0BADA6;
