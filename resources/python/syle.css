@@ -1,4 +1,23 @@
 /* Body */
+label{
+  position: absolute;
+}
+.right{
+  top: 0;
+  left: 100%;
+}
+.left{
+  top: 0;
+  right: 100%;
+}
+.top{
+  bottom: 100%;
+  left: 0;
+}
+.bottom{
+  top: 100%;
+  left: 0;
+}
 body{
     background-color: #666666; 
   }
