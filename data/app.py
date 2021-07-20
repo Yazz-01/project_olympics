@@ -1,68 +1,64 @@
 # 1. Import Flask
--*- coding: utf-8 -*-
+
 import numpy as np
+
 import sqlalchemy
 from sqlalchemy.ext.automap import automap_base
 from sqlalchemy.orm import Session
 from sqlalchemy import create_engine, func
-​from sqlalchemy import asc, desc
-from flask import Flask, jsonify
-​
-​
+from flask import Flask, jsonify, request
 #################################################
 # Database Setup
 #################################################
+
+from config import password
 engine = create_engine(f'postgresql://postgres:{password}@localhost:5432/project_olympics')
 
 # # reflect an existing database into a new model
-# Base = automap_base()
+Base = automap_base()
 # # reflect the tables
-# Base.prepare(engine, reflect=True)
+Base.prepare(engine, reflect=True)
 # ​
 # # Save reference to the tables
-# Measurement = Base.classes.measurement
-# Station = Base.classes.station
+Summer_1948 = Base.classes.summer_1948
+Summer_1952 = Base.classes.summer_1952
+Summer_1956 = Base.classes.summer_1956
+Summer_1960 = Base.classes.summer_1960
+
+#Station = Base.classes.station
 # ​
 # #################################################
 # # Flask Setup
 # #################################################
-# app = Flask(__name__)
-# ​
+app = Flask(__name__)
 # ​
 # ​
 # # 3. Define static routes
-# @app.route("/")
-# def home():
-#     return (
-#         f"Welcome to the SQLAlchemy Homework - Surfs Up!<br/>"
+@app.route("/")
+def home():
+    return (
+    f"Welcome to the SQLAlchemy Homework - Surfs Up!<br/>"
 #         f"Available Routes:<br/>"
-#         f"/api/v1.0/precipitation <br/>"
+         f"/api/v1.0/summer_1948"
 #         f"/api/v1.0/stations <br/>"
 #         f"/api/v1.0/tobs <br/>"
 #         f"/api/v1.0/start/<start> <br/>"
 #         f"/api/v1.0/start-end/<start>/<end> <br/>"
-#     )
-# ​
+    )
 # ​
 # # Precipitation Dict 
-# @app.route("/api/v1.0/precipitation")
-# def precipitation():
+@app.route("/api/v1.0/summer_1948")
+def precipitation():
 #     # Create our session (link) from Python to the DB
-#     session = Session(engine)
+    session = Session(engine)
 #     # Query 
-#     results = session.query(Measurement.date, Measurement.prcp).all()
-#     session.close()
+    results = session.query(Summer_1948.year, Summer_1948.medal).all()
+    session.close()
 # ​
 #     #Create a dictionary, it should be date:prcp value 
-#     all_data = []
-#     for date, prcp in results:
-#         prcp_dict = {}
-#         prcp_dict[date] = prcp
-# ​
-#         all_data.append(prcp_dict)
-# ​
-#     return jsonify(all_data)
-# ​
+    result = list(np.ravel(results))
+        
+    return jsonify(result)
 # # Stations List 
 # @app.route("/api/v1.0/stations")
 # def stations():
@@ -122,5 +118,5 @@ engine = create_engine(f'postgresql://postgres:{password}@localhost:5432/project
 # ​
 #     return jsonify(all_data)
 # ​
- if __name__ == "__main__":
-     app.run(debug=True)
+if __name__ == "__main__":
+    app.run(debug=True)
