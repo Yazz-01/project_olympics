@@ -10,9 +10,11 @@ from flask import Flask, jsonify, request
 #################################################
 # Database Setup
 #################################################
-
+# Create an engine that allo us to to communicate with the database
 from config import password
 engine = create_engine(f'postgresql://postgres:{password}@localhost:5432/project_olympics')
+
+
 
 # # reflect an existing database into a new model
 Base = automap_base()
