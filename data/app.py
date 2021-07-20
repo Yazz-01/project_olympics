@@ -59,7 +59,7 @@ def precipitation():
     result = list(np.ravel(results))
         
     return jsonify(result)
-# # Stations List 
+#Stations List 
 # @app.route("/api/v1.0/stations")
 # def stations():
 #     session = Session(engine)
