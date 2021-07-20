@@ -1,80 +1,10 @@
-
-  /* Images */
-  img{
-    width:10% !important;
-    height: 1px;
-  }
-  .active, .panel:hover{
-    border-color:#0BADA6;
-    border-style: solid; 
-    
-  }
-  .vizualization{
-    width:50% !important;
-    height:50% !important;
-  }
-  
-  /* Title Class  */
-  .title{
-    color: #0BADA6;  
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    font-weight: bolder; 
-    padding-top: 25px; 
-  }
-  /* Paragraph Element */
-  p{
-  color: #6D8092;
-  font-family: Arial, Helvetica, sans-serif;
-  font-size: 17px; 
-  }
-  /* Box Class */
-  .box {
-    margin-top: 60px; 
-    margin-bottom: 62px; 
-    padding: 10px 20px 15px; 
-    color:black;
-    background-color: white; 
-  
-  }
-  /* Table */
-  .table{
-    font-size: 15px; 
-    border-top-color: white !important; 
-  }
-  
-  .navigation .navbar-brand{
-      color: white; 
-      margin-left: 30px; 
-      padding: inherit; 
-      font-weight: bold; 
-      background-color: turquoise;
-      font-family: Georgia, 'Times New Roman', Times, serif;
-    }
-  
-  /* Media Queries */
-  @media(max-width: 600px){
-  .navbar-expand-lg{
-  background-color: aqua;
-  }
-  .navbar{
-    max-height: none; 
-    padding: inherit;
-  }
-  .navbar div{
-    margin: inherit; 
-    background-color: white;  
-  }
-  .navbar-brand{
-    padding: 10px !important; 
-  }
-  
-  button{
-    margin-right: 30px; 
-  }
-  button:focus {
-  
-    outline: 1px dotted;
-    outline: 5px auto -webkit-focusring-color;
-    
-    }
-  }
+body{
+  background: url(https://png.pngtree.com/thumb_back/fw800/back_pic/03/63/48/2057ac31ae07890.jpg);
+}
+#labels {
+  border:2px solid darkgray;
+  background-color: white;
+}
+nav{
+  background-color: white;
+}
