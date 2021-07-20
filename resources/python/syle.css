@@ -2,7 +2,7 @@ body{
   background: url(https://images.vexels.com/media/users/3/184474/raw/499e4cc407307ccacf0ee10b6e7d006a-diseno-de-fondo-de-los-juegos-olimpicos-de-tokio-2020.jpg);
 }
 #labels {
-  border:2px solid darkgray;
+  border:2px solid green;
   background-color: white;
 }
 nav{
