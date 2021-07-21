@@ -12,7 +12,7 @@ from flask import Flask, jsonify, request
 #################################################
 # Create an engine that allo us to to communicate with the database
 from config import password
-engine = create_engine(f'postgresql://postgres:{password}@localhost:5432/project_olympics')
+engine = create_engine(f'postgresql+psycopg2://postgres:{password}@localhost:5432/project_olympics')
 
 
 
@@ -54,7 +54,7 @@ def precipitation():
 #     # Create our session (link) from Python to the DB
     session = Session(engine)
 #     # Query 
-    results = session.query(Summer_1948.year, Summer_1948.medal).all()
+    results = session.query(summer_1948.year, summer_1948.medal).all()
     session.close()
 # ​
 #     #Create a dictionary, it should be date:prcp value 
